@@ -1,0 +1,13565 @@
+{
+  "top_5_days": [
+    {
+      "date_str": "2025-01-29",
+      "paid_price": 79537.29000000001
+    },
+    {
+      "date_str": "2024-12-26",
+      "paid_price": 75471.884
+    },
+    {
+      "date_str": "2024-12-17",
+      "paid_price": 70664.168
+    },
+    {
+      "date_str": "2024-07-25",
+      "paid_price": 66451.83
+    },
+    {
+      "date_str": "2025-02-03",
+      "paid_price": 64015.69
+    }
+  ],
+  "daily_revenue": [
+    {
+      "date_str": "2024-01-04",
+      "paid_price": 141.166
+    },
+    {
+      "date_str": "2024-01-06",
+      "paid_price": 48.0
+    },
+    {
+      "date_str": "2024-01-07",
+      "paid_price": 42.5
+    },
+    {
+      "date_str": "2024-01-09",
+      "paid_price": 75.0
+    },
+    {
+      "date_str": "2024-01-11",
+      "paid_price": 95.75
+    },
+    {
+      "date_str": "2024-01-13",
+      "paid_price": 48.99
+    },
+    {
+      "date_str": "2024-01-16",
+      "paid_price": 205.46
+    },
+    {
+      "date_str": "2024-01-17",
+      "paid_price": 16.0
+    },
+    {
+      "date_str": "2024-01-19",
+      "paid_price": 62.4
+    },
+    {
+      "date_str": "2024-01-23",
+      "paid_price": 45.6
+    },
+    {
+      "date_str": "2024-01-24",
+      "paid_price": 1725.0
+    },
+    {
+      "date_str": "2024-01-28",
+      "paid_price": 162.538
+    },
+    {
+      "date_str": "2024-01-29",
+      "paid_price": 30.25
+    },
+    {
+      "date_str": "2024-02-01",
+      "paid_price": 94.0
+    },
+    {
+      "date_str": "2024-02-02",
+      "paid_price": 107.98
+    },
+    {
+      "date_str": "2024-02-03",
+      "paid_price": 76.2
+    },
+    {
+      "date_str": "2024-02-05",
+      "paid_price": 55.5
+    },
+    {
+      "date_str": "2024-02-06",
+      "paid_price": 19.25
+    },
+    {
+      "date_str": "2024-02-07",
+      "paid_price": 121.72999999999999
+    },
+    {
+      "date_str": "2024-02-08",
+      "paid_price": 27186.25
+    },
+    {
+      "date_str": "2024-02-09",
+      "paid_price": 72.0
+    },
+    {
+      "date_str": "2024-02-10",
+      "paid_price": 191.38799999999998
+    },
+    {
+      "date_str": "2024-02-12",
+      "paid_price": 163.2
+    },
+    {
+      "date_str": "2024-02-14",
+      "paid_price": 150.3
+    },
+    {
+      "date_str": "2024-02-15",
+      "paid_price": 22.5
+    },
+    {
+      "date_str": "2024-02-17",
+      "paid_price": 36.0
+    },
+    {
+      "date_str": "2024-02-18",
+      "paid_price": 167.5
+    },
+    {
+      "date_str": "2024-02-19",
+      "paid_price": 17.0
+    },
+    {
+      "date_str": "2024-02-20",
+      "paid_price": 267.0
+    },
+    {
+      "date_str": "2024-02-23",
+      "paid_price": 184.8
+    },
+    {
+      "date_str": "2024-02-24",
+      "paid_price": 139.95
+    },
+    {
+      "date_str": "2024-02-25",
+      "paid_price": 90.5
+    },
+    {
+      "date_str": "2024-02-26",
+      "paid_price": 247.0
+    },
+    {
+      "date_str": "2024-02-27",
+      "paid_price": 53.25
+    },
+    {
+      "date_str": "2024-02-28",
+      "paid_price": 190.0
+    },
+    {
+      "date_str": "2024-02-29",
+      "paid_price": 244.47
+    },
+    {
+      "date_str": "2024-03-01",
+      "paid_price": 454.0
+    },
+    {
+      "date_str": "2024-03-02",
+      "paid_price": 192.75
+    },
+    {
+      "date_str": "2024-03-03",
+      "paid_price": 78.5
+    },
+    {
+      "date_str": "2024-03-04",
+      "paid_price": 75.3
+    },
+    {
+      "date_str": "2024-03-05",
+      "paid_price": 8930.388
+    },
+    {
+      "date_str": "2024-03-06",
+      "paid_price": 198.788
+    },
+    {
+      "date_str": "2024-03-07",
+      "paid_price": 185.5
+    },
+    {
+      "date_str": "2024-03-08",
+      "paid_price": 482.89
+    },
+    {
+      "date_str": "2024-03-09",
+      "paid_price": 133.4
+    },
+    {
+      "date_str": "2024-03-10",
+      "paid_price": 411.19999999999993
+    },
+    {
+      "date_str": "2024-03-11",
+      "paid_price": 53.0
+    },
+    {
+      "date_str": "2024-03-12",
+      "paid_price": 80.38799999999999
+    },
+    {
+      "date_str": "2024-03-13",
+      "paid_price": 7785.4
+    },
+    {
+      "date_str": "2024-03-14",
+      "paid_price": 1630.938
+    },
+    {
+      "date_str": "2024-03-15",
+      "paid_price": 324.65
+    },
+    {
+      "date_str": "2024-03-16",
+      "paid_price": 477.35
+    },
+    {
+      "date_str": "2024-03-18",
+      "paid_price": 148.0
+    },
+    {
+      "date_str": "2024-03-19",
+      "paid_price": 20.387999999999998
+    },
+    {
+      "date_str": "2024-03-20",
+      "paid_price": 479.08
+    },
+    {
+      "date_str": "2024-03-21",
+      "paid_price": 382.0
+    },
+    {
+      "date_str": "2024-03-22",
+      "paid_price": 14648.79
+    },
+    {
+      "date_str": "2024-03-23",
+      "paid_price": 61.0
+    },
+    {
+      "date_str": "2024-03-24",
+      "paid_price": 91.75
+    },
+    {
+      "date_str": "2024-03-25",
+      "paid_price": 402.75
+    },
+    {
+      "date_str": "2024-03-26",
+      "paid_price": 558.076
+    },
+    {
+      "date_str": "2024-03-27",
+      "paid_price": 394.464
+    },
+    {
+      "date_str": "2024-03-28",
+      "paid_price": 354.6
+    },
+    {
+      "date_str": "2024-03-29",
+      "paid_price": 397.98
+    },
+    {
+      "date_str": "2024-03-30",
+      "paid_price": 32.0
+    },
+    {
+      "date_str": "2024-03-31",
+      "paid_price": 153.8
+    },
+    {
+      "date_str": "2024-04-01",
+      "paid_price": 339.7
+    },
+    {
+      "date_str": "2024-04-02",
+      "paid_price": 6430.74
+    },
+    {
+      "date_str": "2024-04-03",
+      "paid_price": 5295.53
+    },
+    {
+      "date_str": "2024-04-04",
+      "paid_price": 29.0
+    },
+    {
+      "date_str": "2024-04-05",
+      "paid_price": 346.85
+    },
+    {
+      "date_str": "2024-04-06",
+      "paid_price": 130.73
+    },
+    {
+      "date_str": "2024-04-07",
+      "paid_price": 1915.814
+    },
+    {
+      "date_str": "2024-04-08",
+      "paid_price": 572.9399999999999
+    },
+    {
+      "date_str": "2024-04-09",
+      "paid_price": 2933.7
+    },
+    {
+      "date_str": "2024-04-10",
+      "paid_price": 5530.178
+    },
+    {
+      "date_str": "2024-04-11",
+      "paid_price": 12497.5
+    },
+    {
+      "date_str": "2024-04-12",
+      "paid_price": 285.69
+    },
+    {
+      "date_str": "2024-04-13",
+      "paid_price": 12575.0
+    },
+    {
+      "date_str": "2024-04-14",
+      "paid_price": 596.68
+    },
+    {
+      "date_str": "2024-04-15",
+      "paid_price": 18815.03
+    },
+    {
+      "date_str": "2024-04-16",
+      "paid_price": 165.64999999999998
+    },
+    {
+      "date_str": "2024-04-17",
+      "paid_price": 304.47
+    },
+    {
+      "date_str": "2024-04-18",
+      "paid_price": 338.73
+    },
+    {
+      "date_str": "2024-04-19",
+      "paid_price": 459.13
+    },
+    {
+      "date_str": "2024-04-20",
+      "paid_price": 101.0
+    },
+    {
+      "date_str": "2024-04-21",
+      "paid_price": 280.75
+    },
+    {
+      "date_str": "2024-04-22",
+      "paid_price": 11132.4
+    },
+    {
+      "date_str": "2024-04-23",
+      "paid_price": 5738.5
+    },
+    {
+      "date_str": "2024-04-24",
+      "paid_price": 630.6899999999999
+    },
+    {
+      "date_str": "2024-04-25",
+      "paid_price": 26357.825999999997
+    },
+    {
+      "date_str": "2024-04-26",
+      "paid_price": 670.438
+    },
+    {
+      "date_str": "2024-04-27",
+      "paid_price": 6848.73
+    },
+    {
+      "date_str": "2024-04-28",
+      "paid_price": 638.9
+    },
+    {
+      "date_str": "2024-04-29",
+      "paid_price": 6338.27
+    },
+    {
+      "date_str": "2024-04-30",
+      "paid_price": 6549.6
+    },
+    {
+      "date_str": "2024-05-01",
+      "paid_price": 612.6999999999999
+    },
+    {
+      "date_str": "2024-05-02",
+      "paid_price": 7750.2
+    },
+    {
+      "date_str": "2024-05-03",
+      "paid_price": 9510.75
+    },
+    {
+      "date_str": "2024-05-04",
+      "paid_price": 463.74
+    },
+    {
+      "date_str": "2024-05-05",
+      "paid_price": 3745.25
+    },
+    {
+      "date_str": "2024-05-06",
+      "paid_price": 5315.9
+    },
+    {
+      "date_str": "2024-05-07",
+      "paid_price": 525.59
+    },
+    {
+      "date_str": "2024-05-08",
+      "paid_price": 379.29999999999995
+    },
+    {
+      "date_str": "2024-05-09",
+      "paid_price": 339.08799999999997
+    },
+    {
+      "date_str": "2024-05-10",
+      "paid_price": 428.2
+    },
+    {
+      "date_str": "2024-05-11",
+      "paid_price": 711.3879999999999
+    },
+    {
+      "date_str": "2024-05-12",
+      "paid_price": 739.18
+    },
+    {
+      "date_str": "2024-05-13",
+      "paid_price": 622.888
+    },
+    {
+      "date_str": "2024-05-14",
+      "paid_price": 1039.65
+    },
+    {
+      "date_str": "2024-05-15",
+      "paid_price": 433.69
+    },
+    {
+      "date_str": "2024-05-16",
+      "paid_price": 2767.13
+    },
+    {
+      "date_str": "2024-05-17",
+      "paid_price": 909.5
+    },
+    {
+      "date_str": "2024-05-18",
+      "paid_price": 10988.268
+    },
+    {
+      "date_str": "2024-05-19",
+      "paid_price": 221.5
+    },
+    {
+      "date_str": "2024-05-20",
+      "paid_price": 1197.95
+    },
+    {
+      "date_str": "2024-05-21",
+      "paid_price": 628.956
+    },
+    {
+      "date_str": "2024-05-22",
+      "paid_price": 336.5
+    },
+    {
+      "date_str": "2024-05-23",
+      "paid_price": 1145.84
+    },
+    {
+      "date_str": "2024-05-24",
+      "paid_price": 321.54999999999995
+    },
+    {
+      "date_str": "2024-05-25",
+      "paid_price": 10865.17
+    },
+    {
+      "date_str": "2024-05-26",
+      "paid_price": 13694.3
+    },
+    {
+      "date_str": "2024-05-27",
+      "paid_price": 35830.99
+    },
+    {
+      "date_str": "2024-05-28",
+      "paid_price": 42620.05
+    },
+    {
+      "date_str": "2024-05-29",
+      "paid_price": 431.67
+    },
+    {
+      "date_str": "2024-05-30",
+      "paid_price": 10774.438
+    },
+    {
+      "date_str": "2024-05-31",
+      "paid_price": 117.8
+    },
+    {
+      "date_str": "2024-06-01",
+      "paid_price": 815.35
+    },
+    {
+      "date_str": "2024-06-02",
+      "paid_price": 6085.740000000001
+    },
+    {
+      "date_str": "2024-06-03",
+      "paid_price": 538.44
+    },
+    {
+      "date_str": "2024-06-04",
+      "paid_price": 5083.6
+    },
+    {
+      "date_str": "2024-06-05",
+      "paid_price": 735.998
+    },
+    {
+      "date_str": "2024-06-06",
+      "paid_price": 729.19
+    },
+    {
+      "date_str": "2024-06-07",
+      "paid_price": 536.53
+    },
+    {
+      "date_str": "2024-06-08",
+      "paid_price": 17131.7
+    },
+    {
+      "date_str": "2024-06-09",
+      "paid_price": 12244.6
+    },
+    {
+      "date_str": "2024-06-10",
+      "paid_price": 9120.04
+    },
+    {
+      "date_str": "2024-06-11",
+      "paid_price": 3800.23
+    },
+    {
+      "date_str": "2024-06-12",
+      "paid_price": 7080.476
+    },
+    {
+      "date_str": "2024-06-13",
+      "paid_price": 9342.01
+    },
+    {
+      "date_str": "2024-06-14",
+      "paid_price": 21898.1
+    },
+    {
+      "date_str": "2024-06-15",
+      "paid_price": 8389.065999999999
+    },
+    {
+      "date_str": "2024-06-16",
+      "paid_price": 455.69
+    },
+    {
+      "date_str": "2024-06-17",
+      "paid_price": 455.28
+    },
+    {
+      "date_str": "2024-06-18",
+      "paid_price": 666.99
+    },
+    {
+      "date_str": "2024-06-19",
+      "paid_price": 1448.304
+    },
+    {
+      "date_str": "2024-06-20",
+      "paid_price": 448.8
+    },
+    {
+      "date_str": "2024-06-21",
+      "paid_price": 9723.32
+    },
+    {
+      "date_str": "2024-06-22",
+      "paid_price": 10026.51
+    },
+    {
+      "date_str": "2024-06-23",
+      "paid_price": 28451.24
+    },
+    {
+      "date_str": "2024-06-24",
+      "paid_price": 3112.5299999999997
+    },
+    {
+      "date_str": "2024-06-25",
+      "paid_price": 11004.2
+    },
+    {
+      "date_str": "2024-06-26",
+      "paid_price": 435.64
+    },
+    {
+      "date_str": "2024-06-27",
+      "paid_price": 40651.328
+    },
+    {
+      "date_str": "2024-06-28",
+      "paid_price": 6084.638
+    },
+    {
+      "date_str": "2024-06-29",
+      "paid_price": 662.55
+    },
+    {
+      "date_str": "2024-06-30",
+      "paid_price": 5199.72
+    },
+    {
+      "date_str": "2024-07-01",
+      "paid_price": 433.86
+    },
+    {
+      "date_str": "2024-07-02",
+      "paid_price": 8482.638
+    },
+    {
+      "date_str": "2024-07-03",
+      "paid_price": 1119.99
+    },
+    {
+      "date_str": "2024-07-04",
+      "paid_price": 1075.44
+    },
+    {
+      "date_str": "2024-07-05",
+      "paid_price": 15228.380000000001
+    },
+    {
+      "date_str": "2024-07-06",
+      "paid_price": 6951.18
+    },
+    {
+      "date_str": "2024-07-07",
+      "paid_price": 31232.25
+    },
+    {
+      "date_str": "2024-07-08",
+      "paid_price": 24036.327999999998
+    },
+    {
+      "date_str": "2024-07-09",
+      "paid_price": 8402.618
+    },
+    {
+      "date_str": "2024-07-10",
+      "paid_price": 5511.29
+    },
+    {
+      "date_str": "2024-07-11",
+      "paid_price": 13123.038
+    },
+    {
+      "date_str": "2024-07-12",
+      "paid_price": 10906.33
+    },
+    {
+      "date_str": "2024-07-13",
+      "paid_price": 768.7
+    },
+    {
+      "date_str": "2024-07-14",
+      "paid_price": 6841.8
+    },
+    {
+      "date_str": "2024-07-15",
+      "paid_price": 8944.716
+    },
+    {
+      "date_str": "2024-07-16",
+      "paid_price": 39926.437999999995
+    },
+    {
+      "date_str": "2024-07-17",
+      "paid_price": 4907.29
+    },
+    {
+      "date_str": "2024-07-18",
+      "paid_price": 13761.814
+    },
+    {
+      "date_str": "2024-07-19",
+      "paid_price": 1139.54
+    },
+    {
+      "date_str": "2024-07-20",
+      "paid_price": 10182.730000000001
+    },
+    {
+      "date_str": "2024-07-21",
+      "paid_price": 3188.75
+    },
+    {
+      "date_str": "2024-07-22",
+      "paid_price": 6195.266
+    },
+    {
+      "date_str": "2024-07-23",
+      "paid_price": 559.462
+    },
+    {
+      "date_str": "2024-07-24",
+      "paid_price": 1016.404
+    },
+    {
+      "date_str": "2024-07-25",
+      "paid_price": 66451.83
+    },
+    {
+      "date_str": "2024-07-26",
+      "paid_price": 38903.9
+    },
+    {
+      "date_str": "2024-07-27",
+      "paid_price": 5259.82
+    },
+    {
+      "date_str": "2024-07-28",
+      "paid_price": 903.456
+    },
+    {
+      "date_str": "2024-07-29",
+      "paid_price": 18310.664
+    },
+    {
+      "date_str": "2024-07-30",
+      "paid_price": 57054.17
+    },
+    {
+      "date_str": "2024-07-31",
+      "paid_price": 842.456
+    },
+    {
+      "date_str": "2024-08-01",
+      "paid_price": 18542.15
+    },
+    {
+      "date_str": "2024-08-02",
+      "paid_price": 11393.565999999999
+    },
+    {
+      "date_str": "2024-08-03",
+      "paid_price": 11342.499999999998
+    },
+    {
+      "date_str": "2024-08-04",
+      "paid_price": 16630.508
+    },
+    {
+      "date_str": "2024-08-05",
+      "paid_price": 11164.550000000001
+    },
+    {
+      "date_str": "2024-08-06",
+      "paid_price": 15485.354000000001
+    },
+    {
+      "date_str": "2024-08-07",
+      "paid_price": 21209.418
+    },
+    {
+      "date_str": "2024-08-08",
+      "paid_price": 28050.566
+    },
+    {
+      "date_str": "2024-08-09",
+      "paid_price": 23166.19
+    },
+    {
+      "date_str": "2024-08-10",
+      "paid_price": 4894.82
+    },
+    {
+      "date_str": "2024-08-11",
+      "paid_price": 5364.438
+    },
+    {
+      "date_str": "2024-08-12",
+      "paid_price": 25959.2
+    },
+    {
+      "date_str": "2024-08-13",
+      "paid_price": 14944.666
+    },
+    {
+      "date_str": "2024-08-14",
+      "paid_price": 7890.4
+    },
+    {
+      "date_str": "2024-08-15",
+      "paid_price": 23514.9
+    },
+    {
+      "date_str": "2024-08-16",
+      "paid_price": 1233.332
+    },
+    {
+      "date_str": "2024-08-17",
+      "paid_price": 1297.23
+    },
+    {
+      "date_str": "2024-08-18",
+      "paid_price": 3318.7079999999996
+    },
+    {
+      "date_str": "2024-08-19",
+      "paid_price": 15663.958
+    },
+    {
+      "date_str": "2024-08-20",
+      "paid_price": 1611.21
+    },
+    {
+      "date_str": "2024-08-21",
+      "paid_price": 6187.776
+    },
+    {
+      "date_str": "2024-08-22",
+      "paid_price": 936.69
+    },
+    {
+      "date_str": "2024-08-23",
+      "paid_price": 23733.7
+    },
+    {
+      "date_str": "2024-08-24",
+      "paid_price": 9969.554
+    },
+    {
+      "date_str": "2024-08-25",
+      "paid_price": 18353.938
+    },
+    {
+      "date_str": "2024-08-26",
+      "paid_price": 38909.068
+    },
+    {
+      "date_str": "2024-08-27",
+      "paid_price": 7246.628000000001
+    },
+    {
+      "date_str": "2024-08-28",
+      "paid_price": 20501.768
+    },
+    {
+      "date_str": "2024-08-29",
+      "paid_price": 10901.34
+    },
+    {
+      "date_str": "2024-08-30",
+      "paid_price": 14022.76
+    },
+    {
+      "date_str": "2024-08-31",
+      "paid_price": 5471.25
+    },
+    {
+      "date_str": "2024-09-01",
+      "paid_price": 1650.346
+    },
+    {
+      "date_str": "2024-09-02",
+      "paid_price": 18949.796000000002
+    },
+    {
+      "date_str": "2024-09-03",
+      "paid_price": 10468.5
+    },
+    {
+      "date_str": "2024-09-04",
+      "paid_price": 13923.168
+    },
+    {
+      "date_str": "2024-09-05",
+      "paid_price": 31878.007999999998
+    },
+    {
+      "date_str": "2024-09-06",
+      "paid_price": 44325.678
+    },
+    {
+      "date_str": "2024-09-07",
+      "paid_price": 33308.51
+    },
+    {
+      "date_str": "2024-09-08",
+      "paid_price": 1412.19
+    },
+    {
+      "date_str": "2024-09-09",
+      "paid_price": 16478.588
+    },
+    {
+      "date_str": "2024-09-10",
+      "paid_price": 21344.72
+    },
+    {
+      "date_str": "2024-09-11",
+      "paid_price": 42518.294
+    },
+    {
+      "date_str": "2024-09-12",
+      "paid_price": 8845.386
+    },
+    {
+      "date_str": "2024-09-13",
+      "paid_price": 17194.829999999998
+    },
+    {
+      "date_str": "2024-09-14",
+      "paid_price": 35259.482
+    },
+    {
+      "date_str": "2024-09-15",
+      "paid_price": 7722.668000000001
+    },
+    {
+      "date_str": "2024-09-16",
+      "paid_price": 36342.936
+    },
+    {
+      "date_str": "2024-09-17",
+      "paid_price": 18004.694
+    },
+    {
+      "date_str": "2024-09-18",
+      "paid_price": 1512.942
+    },
+    {
+      "date_str": "2024-09-19",
+      "paid_price": 47858.51
+    },
+    {
+      "date_str": "2024-09-20",
+      "paid_price": 30660.5
+    },
+    {
+      "date_str": "2024-09-21",
+      "paid_price": 43379.088
+    },
+    {
+      "date_str": "2024-09-22",
+      "paid_price": 35836.936
+    },
+    {
+      "date_str": "2024-09-23",
+      "paid_price": 8145.849999999999
+    },
+    {
+      "date_str": "2024-09-24",
+      "paid_price": 31405.39
+    },
+    {
+      "date_str": "2024-09-25",
+      "paid_price": 54974.84
+    },
+    {
+      "date_str": "2024-09-26",
+      "paid_price": 11334.79
+    },
+    {
+      "date_str": "2024-09-27",
+      "paid_price": 12200.478000000001
+    },
+    {
+      "date_str": "2024-09-28",
+      "paid_price": 5106.32
+    },
+    {
+      "date_str": "2024-09-29",
+      "paid_price": 1460.45
+    },
+    {
+      "date_str": "2024-09-30",
+      "paid_price": 1572.018
+    },
+    {
+      "date_str": "2024-10-01",
+      "paid_price": 35369.348
+    },
+    {
+      "date_str": "2024-10-02",
+      "paid_price": 10673.008
+    },
+    {
+      "date_str": "2024-10-03",
+      "paid_price": 26918.864
+    },
+    {
+      "date_str": "2024-10-04",
+      "paid_price": 12499.82
+    },
+    {
+      "date_str": "2024-10-05",
+      "paid_price": 18953.538
+    },
+    {
+      "date_str": "2024-10-06",
+      "paid_price": 4225.71
+    },
+    {
+      "date_str": "2024-10-07",
+      "paid_price": 11435.656
+    },
+    {
+      "date_str": "2024-10-08",
+      "paid_price": 12601.619999999999
+    },
+    {
+      "date_str": "2024-10-09",
+      "paid_price": 31359.27
+    },
+    {
+      "date_str": "2024-10-10",
+      "paid_price": 12620.93
+    },
+    {
+      "date_str": "2024-10-11",
+      "paid_price": 7876.204
+    },
+    {
+      "date_str": "2024-10-12",
+      "paid_price": 1922.0
+    },
+    {
+      "date_str": "2024-10-13",
+      "paid_price": 49474.327999999994
+    },
+    {
+      "date_str": "2024-10-14",
+      "paid_price": 10254.4
+    },
+    {
+      "date_str": "2024-10-15",
+      "paid_price": 30378.865999999998
+    },
+    {
+      "date_str": "2024-10-16",
+      "paid_price": 5725.858
+    },
+    {
+      "date_str": "2024-10-17",
+      "paid_price": 9779.11
+    },
+    {
+      "date_str": "2024-10-18",
+      "paid_price": 8495.238000000001
+    },
+    {
+      "date_str": "2024-10-19",
+      "paid_price": 23313.239999999998
+    },
+    {
+      "date_str": "2024-10-20",
+      "paid_price": 12274.35
+    },
+    {
+      "date_str": "2024-10-21",
+      "paid_price": 8210.968
+    },
+    {
+      "date_str": "2024-10-22",
+      "paid_price": 11632.117999999999
+    },
+    {
+      "date_str": "2024-10-23",
+      "paid_price": 17344.028000000002
+    },
+    {
+      "date_str": "2024-10-24",
+      "paid_price": 13313.964
+    },
+    {
+      "date_str": "2024-10-25",
+      "paid_price": 38812.96599999999
+    },
+    {
+      "date_str": "2024-10-26",
+      "paid_price": 9741.12
+    },
+    {
+      "date_str": "2024-10-27",
+      "paid_price": 4543.896
+    },
+    {
+      "date_str": "2024-10-28",
+      "paid_price": 16000.866
+    },
+    {
+      "date_str": "2024-10-29",
+      "paid_price": 23489.14
+    },
+    {
+      "date_str": "2024-10-30",
+      "paid_price": 33571.528
+    },
+    {
+      "date_str": "2024-10-31",
+      "paid_price": 18310.888
+    },
+    {
+      "date_str": "2024-11-01",
+      "paid_price": 14507.319999999998
+    },
+    {
+      "date_str": "2024-11-02",
+      "paid_price": 12929.8
+    },
+    {
+      "date_str": "2024-11-03",
+      "paid_price": 41185.5
+    },
+    {
+      "date_str": "2024-11-04",
+      "paid_price": 14497.124
+    },
+    {
+      "date_str": "2024-11-05",
+      "paid_price": 15233.694
+    },
+    {
+      "date_str": "2024-11-06",
+      "paid_price": 14904.880000000001
+    },
+    {
+      "date_str": "2024-11-07",
+      "paid_price": 5246.465999999999
+    },
+    {
+      "date_str": "2024-11-08",
+      "paid_price": 10993.948
+    },
+    {
+      "date_str": "2024-11-09",
+      "paid_price": 19919.082
+    },
+    {
+      "date_str": "2024-11-10",
+      "paid_price": 35586.366
+    },
+    {
+      "date_str": "2024-11-11",
+      "paid_price": 31476.87
+    },
+    {
+      "date_str": "2024-11-12",
+      "paid_price": 19665.55
+    },
+    {
+      "date_str": "2024-11-13",
+      "paid_price": 3992.29
+    },
+    {
+      "date_str": "2024-11-14",
+      "paid_price": 17386.489999999998
+    },
+    {
+      "date_str": "2024-11-15",
+      "paid_price": 7349.91
+    },
+    {
+      "date_str": "2024-11-16",
+      "paid_price": 34358.392
+    },
+    {
+      "date_str": "2024-11-17",
+      "paid_price": 23747.318
+    },
+    {
+      "date_str": "2024-11-18",
+      "paid_price": 17435.876
+    },
+    {
+      "date_str": "2024-11-19",
+      "paid_price": 29950.6
+    },
+    {
+      "date_str": "2024-11-20",
+      "paid_price": 14896.188
+    },
+    {
+      "date_str": "2024-11-21",
+      "paid_price": 12571.438
+    },
+    {
+      "date_str": "2024-11-22",
+      "paid_price": 26464.888
+    },
+    {
+      "date_str": "2024-11-23",
+      "paid_price": 10713.43
+    },
+    {
+      "date_str": "2024-11-24",
+      "paid_price": 1422.19
+    },
+    {
+      "date_str": "2024-11-25",
+      "paid_price": 46204.468
+    },
+    {
+      "date_str": "2024-11-26",
+      "paid_price": 42839.058000000005
+    },
+    {
+      "date_str": "2024-11-27",
+      "paid_price": 15848.08
+    },
+    {
+      "date_str": "2024-11-28",
+      "paid_price": 12496.166000000001
+    },
+    {
+      "date_str": "2024-11-29",
+      "paid_price": 55428.826
+    },
+    {
+      "date_str": "2024-11-30",
+      "paid_price": 25479.112
+    },
+    {
+      "date_str": "2024-12-01",
+      "paid_price": 19660.44
+    },
+    {
+      "date_str": "2024-12-02",
+      "paid_price": 17537.736
+    },
+    {
+      "date_str": "2024-12-03",
+      "paid_price": 10907.366
+    },
+    {
+      "date_str": "2024-12-04",
+      "paid_price": 24408.092
+    },
+    {
+      "date_str": "2024-12-05",
+      "paid_price": 2227.086
+    },
+    {
+      "date_str": "2024-12-06",
+      "paid_price": 10150.684
+    },
+    {
+      "date_str": "2024-12-07",
+      "paid_price": 40115.818
+    },
+    {
+      "date_str": "2024-12-08",
+      "paid_price": 4525.238
+    },
+    {
+      "date_str": "2024-12-09",
+      "paid_price": 40520.022
+    },
+    {
+      "date_str": "2024-12-10",
+      "paid_price": 7103.650000000001
+    },
+    {
+      "date_str": "2024-12-11",
+      "paid_price": 24874.92
+    },
+    {
+      "date_str": "2024-12-12",
+      "paid_price": 40461.630000000005
+    },
+    {
+      "date_str": "2024-12-13",
+      "paid_price": 6747.715999999999
+    },
+    {
+      "date_str": "2024-12-14",
+      "paid_price": 20801.98
+    },
+    {
+      "date_str": "2024-12-15",
+      "paid_price": 7890.488
+    },
+    {
+      "date_str": "2024-12-16",
+      "paid_price": 23594.13
+    },
+    {
+      "date_str": "2024-12-17",
+      "paid_price": 70664.168
+    },
+    {
+      "date_str": "2024-12-18",
+      "paid_price": 20835.18
+    },
+    {
+      "date_str": "2024-12-19",
+      "paid_price": 22434.286
+    },
+    {
+      "date_str": "2024-12-20",
+      "paid_price": 23544.28
+    },
+    {
+      "date_str": "2024-12-21",
+      "paid_price": 16967.667999999998
+    },
+    {
+      "date_str": "2024-12-22",
+      "paid_price": 6512.13
+    },
+    {
+      "date_str": "2024-12-23",
+      "paid_price": 44425.656
+    },
+    {
+      "date_str": "2024-12-24",
+      "paid_price": 25717.802
+    },
+    {
+      "date_str": "2024-12-25",
+      "paid_price": 23169.616
+    },
+    {
+      "date_str": "2024-12-26",
+      "paid_price": 75471.884
+    },
+    {
+      "date_str": "2024-12-27",
+      "paid_price": 10004.57
+    },
+    {
+      "date_str": "2024-12-28",
+      "paid_price": 2933.694
+    },
+    {
+      "date_str": "2024-12-29",
+      "paid_price": 31243.760000000002
+    },
+    {
+      "date_str": "2024-12-30",
+      "paid_price": 40088.184
+    },
+    {
+      "date_str": "2024-12-31",
+      "paid_price": 2792.336
+    },
+    {
+      "date_str": "2025-01-01",
+      "paid_price": 40416.335999999996
+    },
+    {
+      "date_str": "2025-01-02",
+      "paid_price": 28139.648
+    },
+    {
+      "date_str": "2025-01-03",
+      "paid_price": 31552.066000000003
+    },
+    {
+      "date_str": "2025-01-04",
+      "paid_price": 29054.53
+    },
+    {
+      "date_str": "2025-01-05",
+      "paid_price": 7888.326
+    },
+    {
+      "date_str": "2025-01-06",
+      "paid_price": 7818.0
+    },
+    {
+      "date_str": "2025-01-07",
+      "paid_price": 25769.064
+    },
+    {
+      "date_str": "2025-01-08",
+      "paid_price": 21255.45
+    },
+    {
+      "date_str": "2025-01-09",
+      "paid_price": 26479.666
+    },
+    {
+      "date_str": "2025-01-10",
+      "paid_price": 7115.096
+    },
+    {
+      "date_str": "2025-01-11",
+      "paid_price": 9223.17
+    },
+    {
+      "date_str": "2025-01-12",
+      "paid_price": 9973.25
+    },
+    {
+      "date_str": "2025-01-13",
+      "paid_price": 27288.588
+    },
+    {
+      "date_str": "2025-01-14",
+      "paid_price": 17284.036
+    },
+    {
+      "date_str": "2025-01-15",
+      "paid_price": 38409.72
+    },
+    {
+      "date_str": "2025-01-16",
+      "paid_price": 37679.208
+    },
+    {
+      "date_str": "2025-01-17",
+      "paid_price": 10382.766
+    },
+    {
+      "date_str": "2025-01-18",
+      "paid_price": 8203.52
+    },
+    {
+      "date_str": "2025-01-19",
+      "paid_price": 6231.208
+    },
+    {
+      "date_str": "2025-01-20",
+      "paid_price": 12597.018
+    },
+    {
+      "date_str": "2025-01-21",
+      "paid_price": 5883.072
+    },
+    {
+      "date_str": "2025-01-22",
+      "paid_price": 31763.168
+    },
+    {
+      "date_str": "2025-01-23",
+      "paid_price": 28151.54
+    },
+    {
+      "date_str": "2025-01-24",
+      "paid_price": 11722.029999999999
+    },
+    {
+      "date_str": "2025-01-25",
+      "paid_price": 17338.07
+    },
+    {
+      "date_str": "2025-01-26",
+      "paid_price": 1123.916
+    },
+    {
+      "date_str": "2025-01-27",
+      "paid_price": 23343.21
+    },
+    {
+      "date_str": "2025-01-28",
+      "paid_price": 35813.44
+    },
+    {
+      "date_str": "2025-01-29",
+      "paid_price": 79537.29000000001
+    },
+    {
+      "date_str": "2025-01-30",
+      "paid_price": 17918.578
+    },
+    {
+      "date_str": "2025-01-31",
+      "paid_price": 8093.9800000000005
+    },
+    {
+      "date_str": "2025-02-01",
+      "paid_price": 1374.52
+    },
+    {
+      "date_str": "2025-02-02",
+      "paid_price": 19613.372
+    },
+    {
+      "date_str": "2025-02-03",
+      "paid_price": 64015.69
+    },
+    {
+      "date_str": "2025-02-04",
+      "paid_price": 11536.714
+    },
+    {
+      "date_str": "2025-02-05",
+      "paid_price": 23263.99
+    },
+    {
+      "date_str": "2025-02-06",
+      "paid_price": 10867.944
+    },
+    {
+      "date_str": "2025-02-07",
+      "paid_price": 23682.760000000002
+    },
+    {
+      "date_str": "2025-02-08",
+      "paid_price": 1477.668
+    },
+    {
+      "date_str": "2025-02-09",
+      "paid_price": 33020.19
+    },
+    {
+      "date_str": "2025-02-10",
+      "paid_price": 11457.934
+    },
+    {
+      "date_str": "2025-02-11",
+      "paid_price": 22033.008
+    },
+    {
+      "date_str": "2025-02-12",
+      "paid_price": 53395.513999999996
+    },
+    {
+      "date_str": "2025-02-13",
+      "paid_price": 13018.766
+    },
+    {
+      "date_str": "2025-02-14",
+      "paid_price": 4460.09
+    },
+    {
+      "date_str": "2025-02-15",
+      "paid_price": 6935.2660000000005
+    },
+    {
+      "date_str": "2025-02-16",
+      "paid_price": 9112.878
+    },
+    {
+      "date_str": "2025-02-17",
+      "paid_price": 49647.456
+    },
+    {
+      "date_str": "2025-02-18",
+      "paid_price": 11827.91
+    },
+    {
+      "date_str": "2025-02-19",
+      "paid_price": 30231.54
+    },
+    {
+      "date_str": "2025-02-20",
+      "paid_price": 48793.75
+    },
+    {
+      "date_str": "2025-02-21",
+      "paid_price": 7693.05
+    },
+    {
+      "date_str": "2025-02-22",
+      "paid_price": 7852.168
+    },
+    {
+      "date_str": "2025-02-23",
+      "paid_price": 1046.118
+    },
+    {
+      "date_str": "2025-02-24",
+      "paid_price": 25250.706
+    },
+    {
+      "date_str": "2025-02-25",
+      "paid_price": 50907.09
+    },
+    {
+      "date_str": "2025-02-26",
+      "paid_price": 1504.93
+    },
+    {
+      "date_str": "2025-02-27",
+      "paid_price": 4337.266
+    },
+    {
+      "date_str": "2025-02-28",
+      "paid_price": 15687.5
+    },
+    {
+      "date_str": "2025-03-01",
+      "paid_price": 4589.45
+    },
+    {
+      "date_str": "2025-03-02",
+      "paid_price": 23611.63
+    },
+    {
+      "date_str": "2025-03-03",
+      "paid_price": 5742.558
+    },
+    {
+      "date_str": "2025-03-04",
+      "paid_price": 10195.48
+    },
+    {
+      "date_str": "2025-03-05",
+      "paid_price": 861.318
+    },
+    {
+      "date_str": "2025-03-06",
+      "paid_price": 22343.968
+    },
+    {
+      "date_str": "2025-03-07",
+      "paid_price": 16726.04
+    },
+    {
+      "date_str": "2025-03-08",
+      "paid_price": 47956.49
+    },
+    {
+      "date_str": "2025-03-09",
+      "paid_price": 1173.36
+    },
+    {
+      "date_str": "2025-03-10",
+      "paid_price": 11229.94
+    },
+    {
+      "date_str": "2025-03-11",
+      "paid_price": 10974.49
+    },
+    {
+      "date_str": "2025-03-12",
+      "paid_price": 1241.088
+    },
+    {
+      "date_str": "2025-03-13",
+      "paid_price": 33564.11
+    },
+    {
+      "date_str": "2025-03-14",
+      "paid_price": 15518.75
+    },
+    {
+      "date_str": "2025-03-15",
+      "paid_price": 8161.64
+    },
+    {
+      "date_str": "2025-03-16",
+      "paid_price": 11100.806
+    },
+    {
+      "date_str": "2025-03-17",
+      "paid_price": 24965.948
+    },
+    {
+      "date_str": "2025-03-18",
+      "paid_price": 1635.414
+    },
+    {
+      "date_str": "2025-03-19",
+      "paid_price": 23792.6
+    },
+    {
+      "date_str": "2025-03-20",
+      "paid_price": 882.3779999999999
+    },
+    {
+      "date_str": "2025-03-21",
+      "paid_price": 1169.47
+    },
+    {
+      "date_str": "2025-03-22",
+      "paid_price": 12559.550000000001
+    },
+    {
+      "date_str": "2025-03-23",
+      "paid_price": 7856.889999999999
+    },
+    {
+      "date_str": "2025-03-24",
+      "paid_price": 1871.676
+    },
+    {
+      "date_str": "2025-03-25",
+      "paid_price": 16869.65
+    },
+    {
+      "date_str": "2025-03-26",
+      "paid_price": 18518.13
+    },
+    {
+      "date_str": "2025-03-27",
+      "paid_price": 14590.499999999998
+    },
+    {
+      "date_str": "2025-03-28",
+      "paid_price": 3390.308
+    },
+    {
+      "date_str": "2025-03-29",
+      "paid_price": 21605.347999999998
+    },
+    {
+      "date_str": "2025-03-30",
+      "paid_price": 14647.2
+    },
+    {
+      "date_str": "2025-03-31",
+      "paid_price": 10112.128
+    },
+    {
+      "date_str": "2025-04-01",
+      "paid_price": 1409.964
+    },
+    {
+      "date_str": "2025-04-02",
+      "paid_price": 5663.96
+    },
+    {
+      "date_str": "2025-04-03",
+      "paid_price": 10103.238
+    },
+    {
+      "date_str": "2025-04-04",
+      "paid_price": 1503.13
+    },
+    {
+      "date_str": "2025-04-05",
+      "paid_price": 4393.806
+    },
+    {
+      "date_str": "2025-04-06",
+      "paid_price": 1177.8
+    },
+    {
+      "date_str": "2025-04-07",
+      "paid_price": 11743.655999999999
+    },
+    {
+      "date_str": "2025-04-08",
+      "paid_price": 11372.588
+    },
+    {
+      "date_str": "2025-04-09",
+      "paid_price": 4397.13
+    },
+    {
+      "date_str": "2025-04-10",
+      "paid_price": 1287.368
+    },
+    {
+      "date_str": "2025-04-11",
+      "paid_price": 10148.9
+    },
+    {
+      "date_str": "2025-04-12",
+      "paid_price": 7713.15
+    },
+    {
+      "date_str": "2025-04-13",
+      "paid_price": 6972.78
+    },
+    {
+      "date_str": "2025-04-14",
+      "paid_price": 3151.9
+    },
+    {
+      "date_str": "2025-04-15",
+      "paid_price": 9565.908
+    },
+    {
+      "date_str": "2025-04-16",
+      "paid_price": 27719.83
+    },
+    {
+      "date_str": "2025-04-17",
+      "paid_price": 1393.464
+    },
+    {
+      "date_str": "2025-04-18",
+      "paid_price": 23964.208
+    },
+    {
+      "date_str": "2025-04-19",
+      "paid_price": 19489.129999999997
+    },
+    {
+      "date_str": "2025-04-20",
+      "paid_price": 10599.25
+    },
+    {
+      "date_str": "2025-04-21",
+      "paid_price": 21871.2
+    },
+    {
+      "date_str": "2025-04-22",
+      "paid_price": 1054.158
+    },
+    {
+      "date_str": "2025-04-23",
+      "paid_price": 5451.027999999999
+    },
+    {
+      "date_str": "2025-04-24",
+      "paid_price": 9229.45
+    },
+    {
+      "date_str": "2025-04-25",
+      "paid_price": 658.49
+    },
+    {
+      "date_str": "2025-04-26",
+      "paid_price": 12509.387999999999
+    },
+    {
+      "date_str": "2025-04-27",
+      "paid_price": 948.2
+    },
+    {
+      "date_str": "2025-04-28",
+      "paid_price": 9847.828
+    },
+    {
+      "date_str": "2025-04-29",
+      "paid_price": 1052.588
+    },
+    {
+      "date_str": "2025-04-30",
+      "paid_price": 1258.048
+    },
+    {
+      "date_str": "2025-05-01",
+      "paid_price": 1737.55
+    },
+    {
+      "date_str": "2025-05-02",
+      "paid_price": 857.36
+    },
+    {
+      "date_str": "2025-05-03",
+      "paid_price": 945.538
+    },
+    {
+      "date_str": "2025-05-04",
+      "paid_price": 1839.8
+    },
+    {
+      "date_str": "2025-05-05",
+      "paid_price": 874.806
+    },
+    {
+      "date_str": "2025-05-06",
+      "paid_price": 714.64
+    },
+    {
+      "date_str": "2025-05-07",
+      "paid_price": 9734.628
+    },
+    {
+      "date_str": "2025-05-08",
+      "paid_price": 4069.1
+    },
+    {
+      "date_str": "2025-05-09",
+      "paid_price": 740.85
+    },
+    {
+      "date_str": "2025-05-10",
+      "paid_price": 5060.0
+    },
+    {
+      "date_str": "2025-05-11",
+      "paid_price": 19924.93
+    },
+    {
+      "date_str": "2025-05-12",
+      "paid_price": 9579.52
+    },
+    {
+      "date_str": "2025-05-13",
+      "paid_price": 1235.33
+    },
+    {
+      "date_str": "2025-05-14",
+      "paid_price": 5744.0
+    },
+    {
+      "date_str": "2025-05-15",
+      "paid_price": 9886.44
+    },
+    {
+      "date_str": "2025-05-16",
+      "paid_price": 1019.1199999999999
+    },
+    {
+      "date_str": "2025-05-17",
+      "paid_price": 633.85
+    },
+    {
+      "date_str": "2025-05-18",
+      "paid_price": 23308.288
+    },
+    {
+      "date_str": "2025-05-19",
+      "paid_price": 700.9
+    },
+    {
+      "date_str": "2025-05-20",
+      "paid_price": 599.25
+    },
+    {
+      "date_str": "2025-05-21",
+      "paid_price": 5060.688
+    },
+    {
+      "date_str": "2025-05-22",
+      "paid_price": 24815.899999999998
+    },
+    {
+      "date_str": "2025-05-23",
+      "paid_price": 6788.71
+    },
+    {
+      "date_str": "2025-05-24",
+      "paid_price": 727.0
+    },
+    {
+      "date_str": "2025-05-25",
+      "paid_price": 6407.508
+    },
+    {
+      "date_str": "2025-05-26",
+      "paid_price": 541.45
+    },
+    {
+      "date_str": "2025-05-27",
+      "paid_price": 9604.816
+    },
+    {
+      "date_str": "2025-05-28",
+      "paid_price": 35347.488
+    },
+    {
+      "date_str": "2025-05-29",
+      "paid_price": 772.558
+    },
+    {
+      "date_str": "2025-05-30",
+      "paid_price": 687.87
+    },
+    {
+      "date_str": "2025-05-31",
+      "paid_price": 489.84000000000003
+    },
+    {
+      "date_str": "2025-06-01",
+      "paid_price": 340.54
+    },
+    {
+      "date_str": "2025-06-02",
+      "paid_price": 1260.54
+    },
+    {
+      "date_str": "2025-06-03",
+      "paid_price": 503.038
+    },
+    {
+      "date_str": "2025-06-04",
+      "paid_price": 6802.14
+    },
+    {
+      "date_str": "2025-06-05",
+      "paid_price": 5272.04
+    },
+    {
+      "date_str": "2025-06-06",
+      "paid_price": 258.716
+    },
+    {
+      "date_str": "2025-06-07",
+      "paid_price": 14052.728
+    },
+    {
+      "date_str": "2025-06-08",
+      "paid_price": 673.24
+    },
+    {
+      "date_str": "2025-06-09",
+      "paid_price": 37839.316
+    },
+    {
+      "date_str": "2025-06-10",
+      "paid_price": 4910.6
+    },
+    {
+      "date_str": "2025-06-11",
+      "paid_price": 158.5
+    },
+    {
+      "date_str": "2025-06-12",
+      "paid_price": 418.0
+    },
+    {
+      "date_str": "2025-06-13",
+      "paid_price": 333.688
+    },
+    {
+      "date_str": "2025-06-14",
+      "paid_price": 827.61
+    },
+    {
+      "date_str": "2025-06-15",
+      "paid_price": 492.2
+    },
+    {
+      "date_str": "2025-06-16",
+      "paid_price": 465.1
+    },
+    {
+      "date_str": "2025-06-17",
+      "paid_price": 2356.39
+    },
+    {
+      "date_str": "2025-06-18",
+      "paid_price": 976.7
+    },
+    {
+      "date_str": "2025-06-19",
+      "paid_price": 20182.55
+    },
+    {
+      "date_str": "2025-06-20",
+      "paid_price": 512.4879999999999
+    },
+    {
+      "date_str": "2025-06-21",
+      "paid_price": 7973.51
+    },
+    {
+      "date_str": "2025-06-22",
+      "paid_price": 8842.5
+    },
+    {
+      "date_str": "2025-06-23",
+      "paid_price": 4740.29
+    },
+    {
+      "date_str": "2025-06-24",
+      "paid_price": 4467.2
+    },
+    {
+      "date_str": "2025-06-25",
+      "paid_price": 2936.64
+    },
+    {
+      "date_str": "2025-06-26",
+      "paid_price": 629.97
+    },
+    {
+      "date_str": "2025-06-27",
+      "paid_price": 750.482
+    },
+    {
+      "date_str": "2025-06-28",
+      "paid_price": 134.7
+    },
+    {
+      "date_str": "2025-06-29",
+      "paid_price": 744.0
+    },
+    {
+      "date_str": "2025-06-30",
+      "paid_price": 2171.43
+    },
+    {
+      "date_str": "2025-07-01",
+      "paid_price": 824.04
+    },
+    {
+      "date_str": "2025-07-02",
+      "paid_price": 417.79
+    },
+    {
+      "date_str": "2025-07-03",
+      "paid_price": 7350.099999999999
+    },
+    {
+      "date_str": "2025-07-04",
+      "paid_price": 13386.5
+    },
+    {
+      "date_str": "2025-07-05",
+      "paid_price": 5459.5
+    },
+    {
+      "date_str": "2025-07-06",
+      "paid_price": 2870.67
+    },
+    {
+      "date_str": "2025-07-07",
+      "paid_price": 965.4
+    },
+    {
+      "date_str": "2025-07-08",
+      "paid_price": 9449.75
+    },
+    {
+      "date_str": "2025-07-09",
+      "paid_price": 48764.4
+    },
+    {
+      "date_str": "2025-07-10",
+      "paid_price": 541.0
+    },
+    {
+      "date_str": "2025-07-11",
+      "paid_price": 357.0
+    },
+    {
+      "date_str": "2025-07-12",
+      "paid_price": 179.75
+    },
+    {
+      "date_str": "2025-07-13",
+      "paid_price": 760.98
+    },
+    {
+      "date_str": "2025-07-14",
+      "paid_price": 349.65
+    },
+    {
+      "date_str": "2025-07-15",
+      "paid_price": 14.5
+    },
+    {
+      "date_str": "2025-07-16",
+      "paid_price": 674.85
+    },
+    {
+      "date_str": "2025-07-17",
+      "paid_price": 544.7
+    },
+    {
+      "date_str": "2025-07-18",
+      "paid_price": 10989.4
+    },
+    {
+      "date_str": "2025-07-19",
+      "paid_price": 376.578
+    },
+    {
+      "date_str": "2025-07-20",
+      "paid_price": 7690.4
+    },
+    {
+      "date_str": "2025-07-21",
+      "paid_price": 4166.215999999999
+    },
+    {
+      "date_str": "2025-07-22",
+      "paid_price": 516.48
+    },
+    {
+      "date_str": "2025-07-23",
+      "paid_price": 467.83799999999997
+    },
+    {
+      "date_str": "2025-07-24",
+      "paid_price": 478.688
+    },
+    {
+      "date_str": "2025-07-25",
+      "paid_price": 12978.54
+    },
+    {
+      "date_str": "2025-07-26",
+      "paid_price": 194.988
+    },
+    {
+      "date_str": "2025-07-27",
+      "paid_price": 942.3499999999999
+    },
+    {
+      "date_str": "2025-07-28",
+      "paid_price": 5962.650000000001
+    },
+    {
+      "date_str": "2025-07-29",
+      "paid_price": 25.5
+    },
+    {
+      "date_str": "2025-07-30",
+      "paid_price": 117.19999999999999
+    },
+    {
+      "date_str": "2025-07-31",
+      "paid_price": 127.78999999999999
+    },
+    {
+      "date_str": "2025-08-01",
+      "paid_price": 564.328
+    },
+    {
+      "date_str": "2025-08-02",
+      "paid_price": 8064.99
+    },
+    {
+      "date_str": "2025-08-03",
+      "paid_price": 298.49
+    },
+    {
+      "date_str": "2025-08-04",
+      "paid_price": 796.38
+    },
+    {
+      "date_str": "2025-08-05",
+      "paid_price": 422.78999999999996
+    },
+    {
+      "date_str": "2025-08-06",
+      "paid_price": 172.2
+    },
+    {
+      "date_str": "2025-08-07",
+      "paid_price": 135.0
+    },
+    {
+      "date_str": "2025-08-08",
+      "paid_price": 377.4
+    },
+    {
+      "date_str": "2025-08-09",
+      "paid_price": 228.978
+    },
+    {
+      "date_str": "2025-08-10",
+      "paid_price": 538.0
+    },
+    {
+      "date_str": "2025-08-11",
+      "paid_price": 53.0
+    },
+    {
+      "date_str": "2025-08-12",
+      "paid_price": 175.9
+    },
+    {
+      "date_str": "2025-08-13",
+      "paid_price": 8981.59
+    },
+    {
+      "date_str": "2025-08-14",
+      "paid_price": 195.05
+    },
+    {
+      "date_str": "2025-08-15",
+      "paid_price": 4811.5
+    },
+    {
+      "date_str": "2025-08-16",
+      "paid_price": 254.7
+    },
+    {
+      "date_str": "2025-08-17",
+      "paid_price": 6587.0
+    },
+    {
+      "date_str": "2025-08-18",
+      "paid_price": 379.5
+    },
+    {
+      "date_str": "2025-08-19",
+      "paid_price": 14666.08
+    },
+    {
+      "date_str": "2025-08-20",
+      "paid_price": 3038.9
+    },
+    {
+      "date_str": "2025-08-21",
+      "paid_price": 5459.2
+    },
+    {
+      "date_str": "2025-08-22",
+      "paid_price": 85.0
+    },
+    {
+      "date_str": "2025-08-23",
+      "paid_price": 121.9
+    },
+    {
+      "date_str": "2025-08-24",
+      "paid_price": 17557.8
+    },
+    {
+      "date_str": "2025-08-25",
+      "paid_price": 280.6
+    },
+    {
+      "date_str": "2025-08-26",
+      "paid_price": 465.96999999999997
+    },
+    {
+      "date_str": "2025-08-27",
+      "paid_price": 174.48000000000002
+    },
+    {
+      "date_str": "2025-08-28",
+      "paid_price": 707.26
+    },
+    {
+      "date_str": "2025-08-29",
+      "paid_price": 5557.3
+    },
+    {
+      "date_str": "2025-08-30",
+      "paid_price": 279.2
+    },
+    {
+      "date_str": "2025-08-31",
+      "paid_price": 142.49
+    },
+    {
+      "date_str": "2025-09-01",
+      "paid_price": 14350.0
+    },
+    {
+      "date_str": "2025-09-02",
+      "paid_price": 59.5
+    },
+    {
+      "date_str": "2025-09-03",
+      "paid_price": 79.4
+    },
+    {
+      "date_str": "2025-09-04",
+      "paid_price": 6605.25
+    },
+    {
+      "date_str": "2025-09-05",
+      "paid_price": 120.59
+    },
+    {
+      "date_str": "2025-09-06",
+      "paid_price": 255.85
+    },
+    {
+      "date_str": "2025-09-07",
+      "paid_price": 24892.25
+    },
+    {
+      "date_str": "2025-09-08",
+      "paid_price": 439.5
+    },
+    {
+      "date_str": "2025-09-09",
+      "paid_price": 122.75
+    },
+    {
+      "date_str": "2025-09-11",
+      "paid_price": 74.99
+    },
+    {
+      "date_str": "2025-09-12",
+      "paid_price": 59.4
+    },
+    {
+      "date_str": "2025-09-13",
+      "paid_price": 221.25
+    },
+    {
+      "date_str": "2025-09-14",
+      "paid_price": 171.70999999999998
+    },
+    {
+      "date_str": "2025-09-15",
+      "paid_price": 54.0
+    },
+    {
+      "date_str": "2025-09-16",
+      "paid_price": 169.8
+    },
+    {
+      "date_str": "2025-09-17",
+      "paid_price": 56.5
+    },
+    {
+      "date_str": "2025-09-18",
+      "paid_price": 80.99
+    },
+    {
+      "date_str": "2025-09-19",
+      "paid_price": 219.99
+    },
+    {
+      "date_str": "2025-09-20",
+      "paid_price": 55.24
+    },
+    {
+      "date_str": "2025-09-22",
+      "paid_price": 455.5
+    },
+    {
+      "date_str": "2025-09-23",
+      "paid_price": 49.8
+    },
+    {
+      "date_str": "2025-09-24",
+      "paid_price": 88.5
+    },
+    {
+      "date_str": "2025-09-25",
+      "paid_price": 118.75
+    },
+    {
+      "date_str": "2025-09-26",
+      "paid_price": 175.75
+    },
+    {
+      "date_str": "2025-09-27",
+      "paid_price": 111.75
+    },
+    {
+      "date_str": "2025-09-28",
+      "paid_price": 13974.55
+    },
+    {
+      "date_str": "2025-09-29",
+      "paid_price": 49.0
+    },
+    {
+      "date_str": "2025-10-02",
+      "paid_price": 47.4
+    },
+    {
+      "date_str": "2025-10-03",
+      "paid_price": 7943.4
+    },
+    {
+      "date_str": "2025-10-04",
+      "paid_price": 35.98
+    },
+    {
+      "date_str": "2025-10-06",
+      "paid_price": 187.39999999999998
+    },
+    {
+      "date_str": "2025-10-07",
+      "paid_price": 14550.0
+    },
+    {
+      "date_str": "2025-10-12",
+      "paid_price": 27.0
+    },
+    {
+      "date_str": "2025-10-14",
+      "paid_price": 321.4
+    },
+    {
+      "date_str": "2025-10-17",
+      "paid_price": 65.5
+    },
+    {
+      "date_str": "2025-10-18",
+      "paid_price": 87.6
+    },
+    {
+      "date_str": "2025-10-20",
+      "paid_price": 68.5
+    },
+    {
+      "date_str": "2025-10-25",
+      "paid_price": 13980.0
+    },
+    {
+      "date_str": "2025-10-26",
+      "paid_price": 152.48
+    },
+    {
+      "date_str": "2025-10-29",
+      "paid_price": 44.699999999999996
+    },
+    {
+      "date_str": "2025-11-01",
+      "paid_price": 75.5
+    },
+    {
+      "date_str": "2025-11-02",
+      "paid_price": 224.0
+    },
+    {
+      "date_str": "2025-11-04",
+      "paid_price": 90.6
+    },
+    {
+      "date_str": "2025-11-05",
+      "paid_price": 64.25
+    },
+    {
+      "date_str": "2025-11-12",
+      "paid_price": 71.0
+    },
+    {
+      "date_str": "2025-12-01",
+      "paid_price": 73.99
+    },
+    {
+      "date_str": "2025-12-04",
+      "paid_price": 101.25
+    },
+    {
+      "date_str": "2025-12-05",
+      "paid_price": 4260.0
+    }
+  ],
+  "unique_users": 3303,
+  "user_groups": {
+    "47856": [
+      "47856"
+    ],
+    "49394": [
+      "50565",
+      "49394"
+    ],
+    "48386": [
+      "48386"
+    ],
+    "49547": [
+      "49547"
+    ],
+    "50512": [
+      "50512"
+    ],
+    "50841": [
+      "50841"
+    ],
+    "49776": [
+      "49776"
+    ],
+    "50714": [
+      "50714"
+    ],
+    "47819": [
+      "47819"
+    ],
+    "50190": [
+      "50190"
+    ],
+    "48833": [
+      "48833"
+    ],
+    "47836": [
+      "47836",
+      "50917"
+    ],
+    "48929": [
+      "48929"
+    ],
+    "50515": [
+      "50515"
+    ],
+    "50818": [
+      "50818"
+    ],
+    "49435": [
+      "49435",
+      "50883"
+    ],
+    "50066": [
+      "48867",
+      "50066",
+      "50646"
+    ],
+    "48211": [
+      "48211"
+    ],
+    "47784": [
+      "47784"
+    ],
+    "49440": [
+      "49440"
+    ],
+    "48316": [
+      "48316"
+    ],
+    "50279": [
+      "48656",
+      "50279"
+    ],
+    "47994": [
+      "47994"
+    ],
+    "49048": [
+      "49048"
+    ],
+    "50425": [
+      "50425"
+    ],
+    "50940": [
+      "50940"
+    ],
+    "49954": [
+      "49954"
+    ],
+    "48487": [
+      "48487"
+    ],
+    "48036": [
+      "48036"
+    ],
+    "47789": [
+      "47789"
+    ],
+    "47711": [
+      "47711"
+    ],
+    "50462": [
+      "50462"
+    ],
+    "48175": [
+      "48175"
+    ],
+    "48156": [
+      "48156"
+    ],
+    "49214": [
+      "49214"
+    ],
+    "47975": [
+      "47975"
+    ],
+    "49333": [
+      "49610",
+      "49333"
+    ],
+    "48890": [
+      "48890"
+    ],
+    "49317": [
+      "49317"
+    ],
+    "50343": [
+      "50343"
+    ],
+    "49422": [
+      "49422"
+    ],
+    "48002": [
+      "48002"
+    ],
+    "49474": [
+      "49474"
+    ],
+    "48297": [
+      "48297"
+    ],
+    "51123": [
+      "51123"
+    ],
+    "48581": [
+      "48581"
+    ],
+    "47686": [
+      "47686"
+    ],
+    "48663": [
+      "48663"
+    ],
+    "49590": [
+      "49590"
+    ],
+    "49328": [
+      "49328"
+    ],
+    "50604": [
+      "50604"
+    ],
+    "50030": [
+      "50030"
+    ],
+    "48399": [
+      "48399"
+    ],
+    "48731": [
+      "48731"
+    ],
+    "49330": [
+      "49330"
+    ],
+    "50970": [
+      "50970"
+    ],
+    "50181": [
+      "50181"
+    ],
+    "49821": [
+      "49821"
+    ],
+    "50601": [
+      "50601",
+      "50173"
+    ],
+    "47918": [
+      "47918"
+    ],
+    "49681": [
+      "49681"
+    ],
+    "49605": [
+      "49605"
+    ],
+    "49043": [
+      "49043"
+    ],
+    "48618": [
+      "48618"
+    ],
+    "47929": [
+      "47929"
+    ],
+    "49150": [
+      "49150"
+    ],
+    "47667": [
+      "47667",
+      "50461"
+    ],
+    "50300": [
+      "50300"
+    ],
+    "50692": [
+      "50692"
+    ],
+    "47778": [
+      "47778"
+    ],
+    "48779": [
+      "48779"
+    ],
+    "47993": [
+      "47993"
+    ],
+    "48021": [
+      "48021"
+    ],
+    "50093": [
+      "50093"
+    ],
+    "48943": [
+      "48943",
+      "49331"
+    ],
+    "50766": [
+      "50766"
+    ],
+    "49052": [
+      "49052"
+    ],
+    "50850": [
+      "50850"
+    ],
+    "48138": [
+      "48138"
+    ],
+    "50054": [
+      "50054"
+    ],
+    "49961": [
+      "49961"
+    ],
+    "49645": [
+      "49645"
+    ],
+    "50651": [
+      "50651"
+    ],
+    "50703": [
+      "50703"
+    ],
+    "49637": [
+      "49637"
+    ],
+    "49280": [
+      "49280"
+    ],
+    "50438": [
+      "50438"
+    ],
+    "51077": [
+      "51077"
+    ],
+    "50139": [
+      "50139",
+      "49727"
+    ],
+    "50914": [
+      "50914"
+    ],
+    "48099": [
+      "48099"
+    ],
+    "48427": [
+      "48427"
+    ],
+    "50091": [
+      "50091"
+    ],
+    "48001": [
+      "48001"
+    ],
+    "50258": [
+      "50258"
+    ],
+    "47825": [
+      "47825"
+    ],
+    "50880": [
+      "50880"
+    ],
+    "50859": [
+      "50859"
+    ],
+    "47954": [
+      "47954"
+    ],
+    "48921": [
+      "48921"
+    ],
+    "49489": [
+      "49489"
+    ],
+    "48397": [
+      "48397"
+    ],
+    "50624": [
+      "50624"
+    ],
+    "48190": [
+      "48190"
+    ],
+    "48416": [
+      "48416"
+    ],
+    "49204": [
+      "49204"
+    ],
+    "49391": [
+      "49391"
+    ],
+    "48891": [
+      "48891"
+    ],
+    "47922": [
+      "47922"
+    ],
+    "49531": [
+      "49531"
+    ],
+    "49902": [
+      "49902"
+    ],
+    "48504": [
+      "48504"
+    ],
+    "47851": [
+      "47851"
+    ],
+    "49050": [
+      "49050"
+    ],
+    "49781": [
+      "49781"
+    ],
+    "48563": [
+      "48563"
+    ],
+    "48781": [
+      "48781"
+    ],
+    "48830": [
+      "48830"
+    ],
+    "47726": [
+      "47726"
+    ],
+    "49111": [
+      "49111"
+    ],
+    "50652": [
+      "50652"
+    ],
+    "50225": [
+      "50225"
+    ],
+    "50897": [
+      "50897"
+    ],
+    "48167": [
+      "48167"
+    ],
+    "49899": [
+      "49899"
+    ],
+    "50812": [
+      "50812"
+    ],
+    "49714": [
+      "49714"
+    ],
+    "49953": [
+      "49953"
+    ],
+    "49603": [
+      "49603"
+    ],
+    "48332": [
+      "49009",
+      "48332"
+    ],
+    "50395": [
+      "50395"
+    ],
+    "48359": [
+      "48359"
+    ],
+    "50965": [
+      "50965"
+    ],
+    "48473": [
+      "48473"
+    ],
+    "47914": [
+      "47914"
+    ],
+    "48846": [
+      "48846"
+    ],
+    "48849": [
+      "48849"
+    ],
+    "48195": [
+      "48339",
+      "48195"
+    ],
+    "51097": [
+      "51097"
+    ],
+    "50832": [
+      "50832"
+    ],
+    "49957": [
+      "49957"
+    ],
+    "49582": [
+      "49582",
+      "50168",
+      "47911"
+    ],
+    "49217": [
+      "49217"
+    ],
+    "50520": [
+      "50520"
+    ],
+    "50761": [
+      "50761"
+    ],
+    "49356": [
+      "49356"
+    ],
+    "50040": [
+      "50040"
+    ],
+    "49417": [
+      "49417"
+    ],
+    "48302": [
+      "48302"
+    ],
+    "50560": [
+      "50560"
+    ],
+    "50290": [
+      "50290"
+    ],
+    "49426": [
+      "49426"
+    ],
+    "48481": [
+      "48481"
+    ],
+    "48958": [
+      "48958"
+    ],
+    "49222": [
+      "49222"
+    ],
+    "50566": [
+      "50566"
+    ],
+    "48624": [
+      "48624"
+    ],
+    "50494": [
+      "50494"
+    ],
+    "49463": [
+      "49463"
+    ],
+    "48552": [
+      "48552"
+    ],
+    "49740": [
+      "49740"
+    ],
+    "49130": [
+      "49130"
+    ],
+    "48365": [
+      "48365"
+    ],
+    "48980": [
+      "48980"
+    ],
+    "49574": [
+      "49574"
+    ],
+    "49438": [
+      "49438"
+    ],
+    "50193": [
+      "50193"
+    ],
+    "48860": [
+      "47682",
+      "48860"
+    ],
+    "49816": [
+      "49816"
+    ],
+    "50547": [
+      "50547"
+    ],
+    "50105": [
+      "50105"
+    ],
+    "49365": [
+      "49365"
+    ],
+    "48061": [
+      "48061"
+    ],
+    "48079": [
+      "48079"
+    ],
+    "49951": [
+      "49951"
+    ],
+    "50809": [
+      "50809"
+    ],
+    "50457": [
+      "50457"
+    ],
+    "50659": [
+      "50659"
+    ],
+    "48668": [
+      "48668"
+    ],
+    "47759": [
+      "47759"
+    ],
+    "50223": [
+      "50223"
+    ],
+    "48639": [
+      "48639"
+    ],
+    "49526": [
+      "49526"
+    ],
+    "49350": [
+      "49350"
+    ],
+    "50884": [
+      "50884"
+    ],
+    "50586": [
+      "50586"
+    ],
+    "47898": [
+      "47898"
+    ],
+    "49993": [
+      "49993"
+    ],
+    "48423": [
+      "48423"
+    ],
+    "48192": [
+      "48192"
+    ],
+    "47680": [
+      "47680"
+    ],
+    "48331": [
+      "48331"
+    ],
+    "48994": [
+      "48994"
+    ],
+    "48160": [
+      "48160"
+    ],
+    "47769": [
+      "47769"
+    ],
+    "50860": [
+      "50860"
+    ],
+    "47964": [
+      "47964"
+    ],
+    "48292": [
+      "48292"
+    ],
+    "49021": [
+      "49021"
+    ],
+    "48385": [
+      "48385"
+    ],
+    "48466": [
+      "48466"
+    ],
+    "48589": [
+      "48589"
+    ],
+    "48280": [
+      "48280",
+      "50007"
+    ],
+    "49057": [
+      "49057"
+    ],
+    "49757": [
+      "49757"
+    ],
+    "50916": [
+      "50916"
+    ],
+    "49932": [
+      "49932",
+      "48541"
+    ],
+    "49274": [
+      "49274"
+    ],
+    "50638": [
+      "50638"
+    ],
+    "49650": [
+      "49650"
+    ],
+    "47982": [
+      "47982"
+    ],
+    "50474": [
+      "50474"
+    ],
+    "50285": [
+      "50285"
+    ],
+    "50405": [
+      "50405",
+      "50978"
+    ],
+    "50246": [
+      "50246"
+    ],
+    "50032": [
+      "50032"
+    ],
+    "50932": [
+      "48351",
+      "50932"
+    ],
+    "49570": [
+      "49570"
+    ],
+    "50304": [
+      "50304"
+    ],
+    "47972": [
+      "47972"
+    ],
+    "48874": [
+      "48874"
+    ],
+    "48405": [
+      "48405"
+    ],
+    "49157": [
+      "49157"
+    ],
+    "49534": [
+      "49534",
+      "49944"
+    ],
+    "49702": [
+      "49702"
+    ],
+    "48244": [
+      "48244"
+    ],
+    "50720": [
+      "50720"
+    ],
+    "48245": [
+      "48245"
+    ],
+    "50014": [
+      "50014"
+    ],
+    "48306": [
+      "48306"
+    ],
+    "50389": [
+      "50389"
+    ],
+    "48338": [
+      "48338"
+    ],
+    "49840": [
+      "49840"
+    ],
+    "50737": [
+      "50737"
+    ],
+    "50165": [
+      "50165"
+    ],
+    "47706": [
+      "47706"
+    ],
+    "48407": [
+      "48407"
+    ],
+    "49061": [
+      "49061"
+    ],
+    "49125": [
+      "49125"
+    ],
+    "50251": [
+      "50251"
+    ],
+    "49145": [
+      "49145"
+    ],
+    "49765": [
+      "49765"
+    ],
+    "48897": [
+      "48897"
+    ],
+    "48976": [
+      "48976"
+    ],
+    "49683": [
+      "49683",
+      "47767"
+    ],
+    "47829": [
+      "47829"
+    ],
+    "49345": [
+      "49345"
+    ],
+    "50823": [
+      "50823"
+    ],
+    "50508": [
+      "50508"
+    ],
+    "48412": [
+      "48412"
+    ],
+    "48087": [
+      "48087"
+    ],
+    "48895": [
+      "48895"
+    ],
+    "49831": [
+      "49831"
+    ],
+    "49104": [
+      "49104"
+    ],
+    "47854": [
+      "47854"
+    ],
+    "50792": [
+      "50792"
+    ],
+    "48838": [
+      "48838"
+    ],
+    "50260": [
+      "50260"
+    ],
+    "48558": [
+      "48558"
+    ],
+    "48445": [
+      "48445"
+    ],
+    "49943": [
+      "50268",
+      "49943"
+    ],
+    "50371": [
+      "50371"
+    ],
+    "48030": [
+      "48030"
+    ],
+    "47766": [
+      "47766"
+    ],
+    "49925": [
+      "49925",
+      "48842"
+    ],
+    "49140": [
+      "49140"
+    ],
+    "50437": [
+      "50437",
+      "49315"
+    ],
+    "49183": [
+      "49183"
+    ],
+    "50606": [
+      "50606"
+    ],
+    "48461": [
+      "49324",
+      "48461"
+    ],
+    "49691": [
+      "49691"
+    ],
+    "50047": [
+      "50047"
+    ],
+    "48328": [
+      "48328"
+    ],
+    "48086": [
+      "48086"
+    ],
+    "50869": [
+      "50869"
+    ],
+    "47790": [
+      "47790"
+    ],
+    "50501": [
+      "50501"
+    ],
+    "50166": [
+      "50166"
+    ],
+    "48775": [
+      "48775"
+    ],
+    "47917": [
+      "47917"
+    ],
+    "49135": [
+      "49135"
+    ],
+    "48006": [
+      "48006"
+    ],
+    "50026": [
+      "50026"
+    ],
+    "48089": [
+      "48089"
+    ],
+    "50602": [
+      "50602"
+    ],
+    "50313": [
+      "50313"
+    ],
+    "50271": [
+      "49717",
+      "50271"
+    ],
+    "48510": [
+      "48510"
+    ],
+    "48822": [
+      "48822"
+    ],
+    "48908": [
+      "48908"
+    ],
+    "49655": [
+      "49655"
+    ],
+    "50668": [
+      "50668"
+    ],
+    "49415": [
+      "49415"
+    ],
+    "48266": [
+      "48266"
+    ],
+    "49110": [
+      "49110"
+    ],
+    "48129": [
+      "48129"
+    ],
+    "49389": [
+      "49389"
+    ],
+    "49129": [
+      "49129"
+    ],
+    "49146": [
+      "49146"
+    ],
+    "48084": [
+      "48084"
+    ],
+    "49541": [
+      "49541"
+    ],
+    "48699": [
+      "48699"
+    ],
+    "49153": [
+      "49153"
+    ],
+    "50535": [
+      "50535"
+    ],
+    "48140": [
+      "48140"
+    ],
+    "48625": [
+      "48625"
+    ],
+    "50894": [
+      "50894"
+    ],
+    "50567": [
+      "50281",
+      "50567"
+    ],
+    "49327": [
+      "49327"
+    ],
+    "47945": [
+      "47945"
+    ],
+    "50877": [
+      "50877"
+    ],
+    "49802": [
+      "49802"
+    ],
+    "50945": [
+      "50945",
+      "48773"
+    ],
+    "50282": [
+      "50282"
+    ],
+    "48329": [
+      "48329"
+    ],
+    "50835": [
+      "50835"
+    ],
+    "48831": [
+      "48831"
+    ],
+    "50325": [
+      "50325"
+    ],
+    "48226": [
+      "48226"
+    ],
+    "50790": [
+      "49528",
+      "50790"
+    ],
+    "50964": [
+      "50964"
+    ],
+    "49990": [
+      "49990"
+    ],
+    "47932": [
+      "47932"
+    ],
+    "48222": [
+      "48222",
+      "48810"
+    ],
+    "48984": [
+      "48984"
+    ],
+    "50929": [
+      "50929"
+    ],
+    "49143": [
+      "49143"
+    ],
+    "49372": [
+      "49372"
+    ],
+    "48959": [
+      "48959"
+    ],
+    "48690": [
+      "48690"
+    ],
+    "48158": [
+      "48158"
+    ],
+    "48711": [
+      "48711"
+    ],
+    "50024": [
+      "50024"
+    ],
+    "50041": [
+      "50041"
+    ],
+    "50620": [
+      "50620"
+    ],
+    "49088": [
+      "49088"
+    ],
+    "47730": [
+      "49829",
+      "47730"
+    ],
+    "51122": [
+      "51122"
+    ],
+    "49687": [
+      "49687"
+    ],
+    "49149": [
+      "47810",
+      "49149"
+    ],
+    "47887": [
+      "48200",
+      "47887"
+    ],
+    "49230": [
+      "49230"
+    ],
+    "49444": [
+      "49444"
+    ],
+    "50411": [
+      "50411"
+    ],
+    "49948": [
+      "49948"
+    ],
+    "48523": [
+      "48523"
+    ],
+    "47888": [
+      "47888"
+    ],
+    "51059": [
+      "51059"
+    ],
+    "49270": [
+      "49270"
+    ],
+    "49207": [
+      "49207"
+    ],
+    "48882": [
+      "48882"
+    ],
+    "48965": [
+      "48965"
+    ],
+    "48217": [
+      "48217",
+      "50056"
+    ],
+    "49658": [
+      "49658"
+    ],
+    "48785": [
+      "48785"
+    ],
+    "47944": [
+      "47944"
+    ],
+    "47973": [
+      "47973"
+    ],
+    "48358": [
+      "48358"
+    ],
+    "50968": [
+      "50968"
+    ],
+    "47985": [
+      "47985"
+    ],
+    "50372": [
+      "49360",
+      "50372"
+    ],
+    "51017": [
+      "51017"
+    ],
+    "48609": [
+      "48609",
+      "50685"
+    ],
+    "49035": [
+      "49035"
+    ],
+    "48632": [
+      "48632"
+    ],
+    "49810": [
+      "49810"
+    ],
+    "48527": [
+      "48527"
+    ],
+    "50988": [
+      "50988"
+    ],
+    "51044": [
+      "51044",
+      "48590"
+    ],
+    "47793": [
+      "47793"
+    ],
+    "49568": [
+      "49568"
+    ],
+    "47831": [
+      "47831"
+    ],
+    "48172": [
+      "48172"
+    ],
+    "49179": [
+      "49179"
+    ],
+    "48682": [
+      "48682"
+    ],
+    "47734": [
+      "47734"
+    ],
+    "49621": [
+      "49621"
+    ],
+    "51043": [
+      "51043"
+    ],
+    "50543": [
+      "50543"
+    ],
+    "48336": [
+      "48336"
+    ],
+    "48357": [
+      "48357"
+    ],
+    "51029": [
+      "51029"
+    ],
+    "49566": [
+      "49566"
+    ],
+    "49176": [
+      "49176"
+    ],
+    "48643": [
+      "48643",
+      "48674"
+    ],
+    "48499": [
+      "48499"
+    ],
+    "48119": [
+      "48119",
+      "50053"
+    ],
+    "48930": [
+      "48930"
+    ],
+    "49073": [
+      "49073"
+    ],
+    "50209": [
+      "50209"
+    ],
+    "47928": [
+      "47928"
+    ],
+    "48098": [
+      "48098"
+    ],
+    "49197": [
+      "49197"
+    ],
+    "50322": [
+      "50322"
+    ],
+    "50429": [
+      "50429"
+    ],
+    "50654": [
+      "50654"
+    ],
+    "49251": [
+      "49251"
+    ],
+    "48375": [
+      "48375"
+    ],
+    "50319": [
+      "50319"
+    ],
+    "50027": [
+      "50027"
+    ],
+    "50350": [
+      "50350"
+    ],
+    "51126": [
+      "51126"
+    ],
+    "50667": [
+      "50667"
+    ],
+    "48651": [
+      "48651"
+    ],
+    "51023": [
+      "51023"
+    ],
+    "49746": [
+      "49746"
+    ],
+    "48939": [
+      "48939"
+    ],
+    "47725": [
+      "47725"
+    ],
+    "50221": [
+      "50221"
+    ],
+    "49711": [
+      "49711"
+    ],
+    "50115": [
+      "50115"
+    ],
+    "47822": [
+      "47822"
+    ],
+    "50397": [
+      "50397"
+    ],
+    "48721": [
+      "48721"
+    ],
+    "48547": [
+      "48547"
+    ],
+    "49396": [
+      "49396"
+    ],
+    "49306": [
+      "49306"
+    ],
+    "48529": [
+      "48529"
+    ],
+    "50686": [
+      "50686"
+    ],
+    "49272": [
+      "49272"
+    ],
+    "50436": [
+      "50436"
+    ],
+    "50554": [
+      "50554"
+    ],
+    "50055": [
+      "50055"
+    ],
+    "49015": [
+      "49015"
+    ],
+    "50645": [
+      "50645"
+    ],
+    "50061": [
+      "50061"
+    ],
+    "48871": [
+      "48871"
+    ],
+    "50696": [
+      "50696"
+    ],
+    "50815": [
+      "50815"
+    ],
+    "49233": [
+      "49233"
+    ],
+    "49927": [
+      "49927"
+    ],
+    "50843": [
+      "50843"
+    ],
+    "47861": [
+      "47861"
+    ],
+    "49616": [
+      "49616"
+    ],
+    "50617": [
+      "50617"
+    ],
+    "47671": [
+      "47671"
+    ],
+    "47755": [
+      "47755",
+      "47968"
+    ],
+    "49397": [
+      "49397"
+    ],
+    "50373": [
+      "50373"
+    ],
+    "50950": [
+      "50950"
+    ],
+    "50971": [
+      "50971"
+    ],
+    "47719": [
+      "47719"
+    ],
+    "48153": [
+      "48153"
+    ],
+    "49096": [
+      "49096"
+    ],
+    "47707": [
+      "47707"
+    ],
+    "49079": [
+      "49079"
+    ],
+    "49311": [
+      "49311"
+    ],
+    "51103": [
+      "51103"
+    ],
+    "48704": [
+      "48704"
+    ],
+    "49134": [
+      "49134"
+    ],
+    "49524": [
+      "49524"
+    ],
+    "48556": [
+      "48556",
+      "49292"
+    ],
+    "49370": [
+      "49370"
+    ],
+    "48410": [
+      "48410"
+    ],
+    "49653": [
+      "49653"
+    ],
+    "48258": [
+      "48258"
+    ],
+    "49076": [
+      "49076"
+    ],
+    "49874": [
+      "49874"
+    ],
+    "48760": [
+      "48760"
+    ],
+    "47833": [
+      "47833"
+    ],
+    "50204": [
+      "50204"
+    ],
+    "50476": [
+      "50476"
+    ],
+    "47777": [
+      "47777"
+    ],
+    "48511": [
+      "48511"
+    ],
+    "49801": [
+      "49801"
+    ],
+    "49385": [
+      "49385"
+    ],
+    "48126": [
+      "48126"
+    ],
+    "49836": [
+      "49836"
+    ],
+    "50227": [
+      "50227"
+    ],
+    "50013": [
+      "50013"
+    ],
+    "49016": [
+      "49016"
+    ],
+    "48534": [
+      "48534"
+    ],
+    "50110": [
+      "49994",
+      "50110"
+    ],
+    "50404": [
+      "50404"
+    ],
+    "49633": [
+      "49633"
+    ],
+    "49040": [
+      "49040"
+    ],
+    "50352": [
+      "50352"
+    ],
+    "50441": [
+      "50441"
+    ],
+    "50872": [
+      "50872",
+      "50263"
+    ],
+    "50123": [
+      "50123"
+    ],
+    "51002": [
+      "51002"
+    ],
+    "49156": [
+      "49156"
+    ],
+    "47855": [
+      "47855"
+    ],
+    "49055": [
+      "49055",
+      "51030"
+    ],
+    "49017": [
+      "49017"
+    ],
+    "50671": [
+      "50671"
+    ],
+    "48693": [
+      "48693"
+    ],
+    "49168": [
+      "49168"
+    ],
+    "49163": [
+      "49163"
+    ],
+    "50626": [
+      "50626"
+    ],
+    "50427": [
+      "50427"
+    ],
+    "50086": [
+      "50086"
+    ],
+    "50360": [
+      "50360"
+    ],
+    "48715": [
+      "48715"
+    ],
+    "47826": [
+      "47826"
+    ],
+    "48793": [
+      "48793"
+    ],
+    "48910": [
+      "48910"
+    ],
+    "50516": [
+      "50516"
+    ],
+    "50579": [
+      "50579"
+    ],
+    "49839": [
+      "49839"
+    ],
+    "50930": [
+      "50930"
+    ],
+    "51057": [
+      "51057"
+    ],
+    "49533": [
+      "49533"
+    ],
+    "49877": [
+      "49877"
+    ],
+    "48526": [
+      "48526",
+      "50793"
+    ],
+    "49284": [
+      "49628",
+      "49284"
+    ],
+    "49828": [
+      "49828"
+    ],
+    "50741": [
+      "50741"
+    ],
+    "49058": [
+      "49058"
+    ],
+    "49742": [
+      "49742"
+    ],
+    "50826": [
+      "50826"
+    ],
+    "49329": [
+      "49329"
+    ],
+    "49200": [
+      "49200"
+    ],
+    "47724": [
+      "47724"
+    ],
+    "49018": [
+      "49018"
+    ],
+    "51045": [
+      "51045"
+    ],
+    "50212": [
+      "50212"
+    ],
+    "49469": [
+      "49469"
+    ],
+    "50230": [
+      "50230"
+    ],
+    "50797": [
+      "50797"
+    ],
+    "49558": [
+      "49558"
+    ],
+    "49578": [
+      "49578"
+    ],
+    "49715": [
+      "50963",
+      "49715"
+    ],
+    "49448": [
+      "49448"
+    ],
+    "49087": [
+      "49087"
+    ],
+    "50008": [
+      "50008"
+    ],
+    "49034": [
+      "49034"
+    ],
+    "48821": [
+      "48821"
+    ],
+    "47782": [
+      "47782"
+    ],
+    "47933": [
+      "47933"
+    ],
+    "49642": [
+      "49642"
+    ],
+    "49269": [
+      "49269"
+    ],
+    "49889": [
+      "49889"
+    ],
+    "50563": [
+      "50563"
+    ],
+    "49685": [
+      "49685"
+    ],
+    "49772": [
+      "49772"
+    ],
+    "49297": [
+      "49297"
+    ],
+    "49026": [
+      "49026"
+    ],
+    "50079": [
+      "50079"
+    ],
+    "49142": [
+      "49142"
+    ],
+    "49914": [
+      "49914"
+    ],
+    "49175": [
+      "49175"
+    ],
+    "49215": [
+      "50866",
+      "49215"
+    ],
+    "48424": [
+      "48424"
+    ],
+    "50600": [
+      "50600"
+    ],
+    "49049": [
+      "49049"
+    ],
+    "47976": [
+      "47976"
+    ],
+    "48927": [
+      "48927"
+    ],
+    "51096": [
+      "51096",
+      "50459"
+    ],
+    "48887": [
+      "48887"
+    ],
+    "49881": [
+      "49881"
+    ],
+    "50095": [
+      "50095"
+    ],
+    "49971": [
+      "49971"
+    ],
+    "50052": [
+      "50052"
+    ],
+    "50485": [
+      "50485"
+    ],
+    "50364": [
+      "50364"
+    ],
+    "48157": [
+      "48157"
+    ],
+    "51050": [
+      "51050"
+    ],
+    "50994": [
+      "50994"
+    ],
+    "48104": [
+      "48104"
+    ],
+    "50155": [
+      "50155"
+    ],
+    "49955": [
+      "49955"
+    ],
+    "49737": [
+      "49737"
+    ],
+    "50213": [
+      "50213"
+    ],
+    "49409": [
+      "49409"
+    ],
+    "50132": [
+      "48101",
+      "50132"
+    ],
+    "51127": [
+      "51127"
+    ],
+    "48337": [
+      "48337"
+    ],
+    "47738": [
+      "47738"
+    ],
+    "49022": [
+      "49022"
+    ],
+    "49452": [
+      "49452"
+    ],
+    "49152": [
+      "49152",
+      "49752"
+    ],
+    "49198": [
+      "49198"
+    ],
+    "47844": [
+      "47844"
+    ],
+    "49169": [
+      "49169"
+    ],
+    "50107": [
+      "50107"
+    ],
+    "51063": [
+      "51063"
+    ],
+    "48979": [
+      "48979",
+      "48038"
+    ],
+    "49930": [
+      "49930"
+    ],
+    "48218": [
+      "48218"
+    ],
+    "48262": [
+      "48262"
+    ],
+    "49101": [
+      "49101"
+    ],
+    "49646": [
+      "49646"
+    ],
+    "48272": [
+      "48272",
+      "50622"
+    ],
+    "48440": [
+      "48440"
+    ],
+    "51094": [
+      "51094"
+    ],
+    "49882": [
+      "49882"
+    ],
+    "48660": [
+      "48660"
+    ],
+    "48593": [
+      "48637",
+      "48593"
+    ],
+    "49432": [
+      "49432"
+    ],
+    "50183": [
+      "50183"
+    ],
+    "50216": [
+      "50216"
+    ],
+    "48403": [
+      "48403"
+    ],
+    "50578": [
+      "50578"
+    ],
+    "49611": [
+      "49611"
+    ],
+    "50822": [
+      "50822"
+    ],
+    "50903": [
+      "50903"
+    ],
+    "48389": [
+      "48389"
+    ],
+    "49909": [
+      "49909"
+    ],
+    "49670": [
+      "49670"
+    ],
+    "50744": [
+      "50744"
+    ],
+    "49074": [
+      "49074"
+    ],
+    "47902": [
+      "47902"
+    ],
+    "50392": [
+      "50392"
+    ],
+    "48414": [
+      "48414"
+    ],
+    "50051": [
+      "50051"
+    ],
+    "49706": [
+      "49706"
+    ],
+    "50361": [
+      "50361"
+    ],
+    "49097": [
+      "49097"
+    ],
+    "48229": [
+      "48229"
+    ],
+    "49400": [
+      "49400"
+    ],
+    "50821": [
+      "50821"
+    ],
+    "49091": [
+      "49091"
+    ],
+    "50577": [
+      "50577"
+    ],
+    "50705": [
+      "50705"
+    ],
+    "49203": [
+      "49203"
+    ],
+    "49942": [
+      "49942"
+    ],
+    "50653": [
+      "50653"
+    ],
+    "48519": [
+      "48519"
+    ],
+    "48276": [
+      "48276"
+    ],
+    "51090": [
+      "51090"
+    ],
+    "50150": [
+      "50150"
+    ],
+    "50108": [
+      "49253",
+      "50108"
+    ],
+    "49525": [
+      "49525"
+    ],
+    "50000": [
+      "50000"
+    ],
+    "48516": [
+      "48516"
+    ],
+    "50376": [
+      "50376"
+    ],
+    "48356": [
+      "48356"
+    ],
+    "49807": [
+      "49807",
+      "48420"
+    ],
+    "50953": [
+      "50953"
+    ],
+    "47729": [
+      "47729"
+    ],
+    "48287": [
+      "48287"
+    ],
+    "48919": [
+      "48919"
+    ],
+    "47895": [
+      "47895"
+    ],
+    "49612": [
+      "49612"
+    ],
+    "47966": [
+      "47966"
+    ],
+    "47752": [
+      "47752"
+    ],
+    "48224": [
+      "48224"
+    ],
+    "50974": [
+      "50974"
+    ],
+    "48521": [
+      "48521"
+    ],
+    "50678": [
+      "50678"
+    ],
+    "49589": [
+      "49589"
+    ],
+    "48374": [
+      "48374"
+    ],
+    "50885": [
+      "50885"
+    ],
+    "48300": [
+      "48300",
+      "48585"
+    ],
+    "50941": [
+      "50707",
+      "50941"
+    ],
+    "50573": [
+      "50573",
+      "47728"
+    ],
+    "50418": [
+      "50418"
+    ],
+    "48268": [
+      "50446",
+      "48268"
+    ],
+    "50186": [
+      "50186"
+    ],
+    "48920": [
+      "48920"
+    ],
+    "50630": [
+      "50630"
+    ],
+    "49231": [
+      "49231"
+    ],
+    "50215": [
+      "50215"
+    ],
+    "50770": [
+      "50770"
+    ],
+    "50967": [
+      "50967"
+    ],
+    "49989": [
+      "49989"
+    ],
+    "50037": [
+      "50037"
+    ],
+    "48607": [
+      "50194",
+      "48607"
+    ],
+    "48631": [
+      "48631"
+    ],
+    "48535": [
+      "48535"
+    ],
+    "50386": [
+      "50386"
+    ],
+    "51092": [
+      "51092"
+    ],
+    "49082": [
+      "49082"
+    ],
+    "49964": [
+      "49964"
+    ],
+    "48488": [
+      "50901",
+      "48488"
+    ],
+    "50807": [
+      "50807"
+    ],
+    "49291": [
+      "49291"
+    ],
+    "50003": [
+      "50003"
+    ],
+    "49995": [
+      "49995"
+    ],
+    "50662": [
+      "50662"
+    ],
+    "48763": [
+      "48763"
+    ],
+    "47879": [
+      "47879"
+    ],
+    "47942": [
+      "47942"
+    ],
+    "48909": [
+      "48909"
+    ],
+    "49535": [
+      "49535"
+    ],
+    "48325": [
+      "48325"
+    ],
+    "49518": [
+      "49518"
+    ],
+    "47824": [
+      "47824"
+    ],
+    "49225": [
+      "49225"
+    ],
+    "48950": [
+      "48950"
+    ],
+    "47862": [
+      "47862",
+      "48977"
+    ],
+    "50825": [
+      "50825"
+    ],
+    "48702": [
+      "48702"
+    ],
+    "50648": [
+      "50648"
+    ],
+    "48443": [
+      "48443",
+      "47685"
+    ],
+    "48411": [
+      "48411"
+    ],
+    "51120": [
+      "51120"
+    ],
+    "49622": [
+      "49622"
+    ],
+    "48506": [
+      "48506",
+      "48179"
+    ],
+    "49617": [
+      "49617"
+    ],
+    "50639": [
+      "50639"
+    ],
+    "48834": [
+      "48834"
+    ],
+    "48664": [
+      "48664"
+    ],
+    "50045": [
+      "50045"
+    ],
+    "50400": [
+      "50400"
+    ],
+    "50232": [
+      "50232"
+    ],
+    "50679": [
+      "50679"
+    ],
+    "50374": [
+      "50374"
+    ],
+    "48518": [
+      "48518"
+    ],
+    "48576": [
+      "48576"
+    ],
+    "50725": [
+      "50725"
+    ],
+    "48256": [
+      "48256"
+    ],
+    "50915": [
+      "50915"
+    ],
+    "48395": [
+      "48395"
+    ],
+    "48102": [
+      "48102"
+    ],
+    "49635": [
+      "49635"
+    ],
+    "49241": [
+      "49241",
+      "50507"
+    ],
+    "49137": [
+      "49137"
+    ],
+    "48877": [
+      "48877"
+    ],
+    "49560": [
+      "49560"
+    ],
+    "49348": [
+      "49348"
+    ],
+    "48899": [
+      "48899"
+    ],
+    "48193": [
+      "48193"
+    ],
+    "48257": [
+      "48257"
+    ],
+    "49425": [
+      "49425"
+    ],
+    "47913": [
+      "47913"
+    ],
+    "49898": [
+      "49898"
+    ],
+    "50743": [
+      "50743"
+    ],
+    "50153": [
+      "50153"
+    ],
+    "50333": [
+      "50333"
+    ],
+    "49956": [
+      "49956"
+    ],
+    "48817": [
+      "48817"
+    ],
+    "48746": [
+      "48746"
+    ],
+    "50918": [
+      "49618",
+      "50918"
+    ],
+    "50399": [
+      "50399"
+    ],
+    "50247": [
+      "50247"
+    ],
+    "48154": [
+      "48154"
+    ],
+    "48174": [
+      "48174"
+    ],
+    "50159": [
+      "48997",
+      "50159"
+    ],
+    "48163": [
+      "48163"
+    ],
+    "47878": [
+      "47878"
+    ],
+    "50857": [
+      "50857"
+    ],
+    "48178": [
+      "48178"
+    ],
+    "48286": [
+      "48286"
+    ],
+    "50164": [
+      "50164"
+    ],
+    "47786": [
+      "47786"
+    ],
+    "50708": [
+      "50708"
+    ],
+    "50717": [
+      "50717",
+      "49234"
+    ],
+    "49024": [
+      "49024"
+    ],
+    "50951": [
+      "50951"
+    ],
+    "50663": [
+      "50663"
+    ],
+    "50791": [
+      "50791"
+    ],
+    "48112": [
+      "48112"
+    ],
+    "48183": [
+      "48183",
+      "48444"
+    ],
+    "51110": [
+      "51110"
+    ],
+    "50401": [
+      "50401"
+    ],
+    "50946": [
+      "50946"
+    ],
+    "50949": [
+      "50949"
+    ],
+    "49576": [
+      "49576"
+    ],
+    "48037": [
+      "48037"
+    ],
+    "47744": [
+      "47744"
+    ],
+    "50057": [
+      "47669",
+      "50057"
+    ],
+    "49352": [
+      "49352"
+    ],
+    "48463": [
+      "48463"
+    ],
+    "50556": [
+      "50556"
+    ],
+    "48520": [
+      "48520"
+    ],
+    "50182": [
+      "50182"
+    ],
+    "49913": [
+      "49913"
+    ],
+    "47963": [
+      "47963"
+    ],
+    "48096": [
+      "48096"
+    ],
+    "49028": [
+      "49028"
+    ],
+    "50995": [
+      "50995",
+      "50700"
+    ],
+    "50323": [
+      "50323"
+    ],
+    "48744": [
+      "48744"
+    ],
+    "49532": [
+      "49532"
+    ],
+    "48383": [
+      "48383"
+    ],
+    "48709": [
+      "48709"
+    ],
+    "48675": [
+      "48675"
+    ],
+    "47937": [
+      "47937"
+    ],
+    "48221": [
+      "48221"
+    ],
+    "49303": [
+      "49303"
+    ],
+    "48568": [
+      "48568"
+    ],
+    "48111": [
+      "48111"
+    ],
+    "49484": [
+      "49484"
+    ],
+    "50326": [
+      "50326"
+    ],
+    "50370": [
+      "50370"
+    ],
+    "51028": [
+      "51028"
+    ],
+    "49460": [
+      "49460"
+    ],
+    "49787": [
+      "49787"
+    ],
+    "48301": [
+      "48301"
+    ],
+    "49308": [
+      "49308"
+    ],
+    "50084": [
+      "50084"
+    ],
+    "50769": [
+      "50769"
+    ],
+    "48048": [
+      "48048"
+    ],
+    "49552": [
+      "49552"
+    ],
+    "47936": [
+      "47936"
+    ],
+    "49563": [
+      "49563"
+    ],
+    "50664": [
+      "50664"
+    ],
+    "48191": [
+      "48191"
+    ],
+    "48017": [
+      "50596",
+      "48017"
+    ],
+    "50403": [
+      "50403"
+    ],
+    "49517": [
+      "49517"
+    ],
+    "49868": [
+      "49868"
+    ],
+    "49594": [
+      "49594"
+    ],
+    "50220": [
+      "50220"
+    ],
+    "48805": [
+      "48805"
+    ],
+    "49010": [
+      "49010"
+    ],
+    "49286": [
+      "49286"
+    ],
+    "50831": [
+      "50831"
+    ],
+    "49384": [
+      "49384"
+    ],
+    "51031": [
+      "51031"
+    ],
+    "49980": [
+      "49980"
+    ],
+    "48230": [
+      "48230"
+    ],
+    "48730": [
+      "48730"
+    ],
+    "49750": [
+      "49750"
+    ],
+    "48236": [
+      "48236"
+    ],
+    "48952": [
+      "48952"
+    ],
+    "49467": [
+      "49467"
+    ],
+    "49316": [
+      "49316"
+    ],
+    "49376": [
+      "49376"
+    ],
+    "47804": [
+      "47804"
+    ],
+    "50505": [
+      "50505"
+    ],
+    "50366": [
+      "50366"
+    ],
+    "48474": [
+      "48474"
+    ],
+    "49381": [
+      "49381"
+    ],
+    "48630": [
+      "48630"
+    ],
+    "48622": [
+      "48622",
+      "48856"
+    ],
+    "48326": [
+      "48326"
+    ],
+    "49334": [
+      "49334"
+    ],
+    "47835": [
+      "47835"
+    ],
+    "47691": [
+      "47691"
+    ],
+    "49844": [
+      "49844"
+    ],
+    "49020": [
+      "49020"
+    ],
+    "49340": [
+      "49340"
+    ],
+    "50087": [
+      "50087"
+    ],
+    "50954": [
+      "50954"
+    ],
+    "49609": [
+      "49609"
+    ],
+    "48611": [
+      "48611"
+    ],
+    "48026": [
+      "48026"
+    ],
+    "48619": [
+      "48619"
+    ],
+    "50947": [
+      "50947"
+    ],
+    "48710": [
+      "48710"
+    ],
+    "49247": [
+      "49247"
+    ],
+    "47876": [
+      "47876"
+    ],
+    "49201": [
+      "49201"
+    ],
+    "50233": [
+      "50233"
+    ],
+    "50261": [
+      "48698",
+      "50261"
+    ],
+    "48968": [
+      "48968"
+    ],
+    "47672": [
+      "47672"
+    ],
+    "48314": [
+      "48314"
+    ],
+    "51009": [
+      "51009"
+    ],
+    "48531": [
+      "48531"
+    ],
+    "49433": [
+      "49433"
+    ],
+    "48688": [
+      "48688"
+    ],
+    "48467": [
+      "48467"
+    ],
+    "48252": [
+      "48252"
+    ],
+    "50217": [
+      "50217"
+    ],
+    "49725": [
+      "49725",
+      "49822"
+    ],
+    "47999": [
+      "47999"
+    ],
+    "50908": [
+      "50908"
+    ],
+    "48892": [
+      "48892"
+    ],
+    "48893": [
+      "48893"
+    ],
+    "47779": [
+      "47779"
+    ],
+    "47987": [
+      "47987"
+    ],
+    "50018": [
+      "50018"
+    ],
+    "50085": [
+      "50085"
+    ],
+    "51106": [
+      "50676",
+      "51106"
+    ],
+    "48232": [
+      "48232"
+    ],
+    "48219": [
+      "48219"
+    ],
+    "48459": [
+      "48406",
+      "48459"
+    ],
+    "48025": [
+      "49398",
+      "48025"
+    ],
+    "49262": [
+      "49262"
+    ],
+    "49325": [
+      "49325"
+    ],
+    "49912": [
+      "49912"
+    ],
+    "48517": [
+      "48517"
+    ],
+    "50580": [
+      "50580"
+    ],
+    "49926": [
+      "49926"
+    ],
+    "48277": [
+      "48277"
+    ],
+    "47967": [
+      "47967"
+    ],
+    "50991": [
+      "50991"
+    ],
+    "48319": [
+      "48319"
+    ],
+    "49346": [
+      "49346"
+    ],
+    "48641": [
+      "48641"
+    ],
+    "50870": [
+      "50870"
+    ],
+    "48050": [
+      "48050"
+    ],
+    "48094": [
+      "48094"
+    ],
+    "47957": [
+      "50316",
+      "47957"
+    ],
+    "48601": [
+      "48601"
+    ],
+    "49056": [
+      "49056"
+    ],
+    "49904": [
+      "49904"
+    ],
+    "48372": [
+      "48372"
+    ],
+    "48137": [
+      "48137",
+      "48612"
+    ],
+    "50502": [
+      "50502"
+    ],
+    "47909": [
+      "47909"
+    ],
+    "50412": [
+      "50266",
+      "50412"
+    ],
+    "48322": [
+      "48322"
+    ],
+    "47858": [
+      "47858"
+    ],
+    "48040": [
+      "48040"
+    ],
+    "50795": [
+      "50795"
+    ],
+    "49300": [
+      "49300"
+    ],
+    "48865": [
+      "48865"
+    ],
+    "50237": [
+      "50237"
+    ],
+    "49544": [
+      "49544"
+    ],
+    "48577": [
+      "48577"
+    ],
+    "50384": [
+      "50384"
+    ],
+    "50631": [
+      "50631"
+    ],
+    "48409": [
+      "48409"
+    ],
+    "50119": [
+      "50119"
+    ],
+    "47700": [
+      "47700"
+    ],
+    "50406": [
+      "50406"
+    ],
+    "50431": [
+      "50431"
+    ],
+    "48122": [
+      "48122"
+    ],
+    "50760": [
+      "50760"
+    ],
+    "49449": [
+      "49449"
+    ],
+    "49815": [
+      "49815"
+    ],
+    "49337": [
+      "49337"
+    ],
+    "50902": [
+      "50902"
+    ],
+    "51084": [
+      "51084"
+    ],
+    "50231": [
+      "50231"
+    ],
+    "50878": [
+      "50878"
+    ],
+    "48584": [
+      "48584"
+    ],
+    "49473": [
+      "49473"
+    ],
+    "47753": [
+      "47753"
+    ],
+    "47832": [
+      "47832"
+    ],
+    "48449": [
+      "48449"
+    ],
+    "48679": [
+      "48679"
+    ],
+    "48722": [
+      "48722",
+      "49301"
+    ],
+    "49080": [
+      "49080"
+    ],
+    "48537": [
+      "48537"
+    ],
+    "47943": [
+      "47943"
+    ],
+    "48610": [
+      "48610"
+    ],
+    "49867": [
+      "49867"
+    ],
+    "50942": [
+      "50942"
+    ],
+    "49392": [
+      "49871",
+      "49392"
+    ],
+    "49728": [
+      "49728"
+    ],
+    "49488": [
+      "49488"
+    ],
+    "47731": [
+      "47731"
+    ],
+    "48166": [
+      "48166"
+    ],
+    "49205": [
+      "49205"
+    ],
+    "47882": [
+      "47882"
+    ],
+    "49477": [
+      "49477"
+    ],
+    "47941": [
+      "47941"
+    ],
+    "49703": [
+      "49703"
+    ],
+    "48380": [
+      "48380"
+    ],
+    "50033": [
+      "50033"
+    ],
+    "48970": [
+      "48970"
+    ],
+    "49762": [
+      "49762"
+    ],
+    "50428": [
+      "50428"
+    ],
+    "49575": [
+      "49575"
+    ],
+    "48957": [
+      "48957",
+      "49229"
+    ],
+    "48367": [
+      "48367"
+    ],
+    "49923": [
+      "49923"
+    ],
+    "48342": [
+      "48342"
+    ],
+    "50593": [
+      "50593"
+    ],
+    "50616": [
+      "50616"
+    ],
+    "48441": [
+      "48441"
+    ],
+    "49255": [
+      "49255"
+    ],
+    "48880": [
+      "48880"
+    ],
+    "48766": [
+      "48766"
+    ],
+    "51051": [
+      "51051"
+    ],
+    "48686": [
+      "48686"
+    ],
+    "49673": [
+      "49053",
+      "49673"
+    ],
+    "48847": [
+      "48847"
+    ],
+    "48133": [
+      "48133"
+    ],
+    "47806": [
+      "47806"
+    ],
+    "49773": [
+      "49773"
+    ],
+    "50491": [
+      "50491"
+    ],
+    "50989": [
+      "50989"
+    ],
+    "50900": [
+      "50900"
+    ],
+    "48233": [
+      "48233"
+    ],
+    "48398": [
+      "48398"
+    ],
+    "48573": [
+      "48573"
+    ],
+    "50921": [
+      "50921"
+    ],
+    "48022": [
+      "48022"
+    ],
+    "49825": [
+      "49825"
+    ],
+    "49248": [
+      "49248"
+    ],
+    "48231": [
+      "48231"
+    ],
+    "48720": [
+      "48720"
+    ],
+    "48857": [
+      "48857"
+    ],
+    "50889": [
+      "50889"
+    ],
+    "48851": [
+      "48851"
+    ],
+    "50498": [
+      "49236",
+      "50498"
+    ],
+    "47893": [
+      "47893"
+    ],
+    "50341": [
+      "50341"
+    ],
+    "48803": [
+      "48803"
+    ],
+    "48373": [
+      "48373"
+    ],
+    "50094": [
+      "50094"
+    ],
+    "49863": [
+      "49863"
+    ],
+    "49092": [
+      "49092"
+    ],
+    "50824": [
+      "50824"
+    ],
+    "48889": [
+      "48889"
+    ],
+    "51121": [
+      "51121"
+    ],
+    "48832": [
+      "48832"
+    ],
+    "49305": [
+      "49305"
+    ],
+    "48525": [
+      "48525"
+    ],
+    "51107": [
+      "51107"
+    ],
+    "48315": [
+      "48315"
+    ],
+    "48305": [
+      "48305"
+    ],
+    "50839": [
+      "50839"
+    ],
+    "48439": [
+      "48439"
+    ],
+    "49063": [
+      "49063"
+    ],
+    "47846": [
+      "47846"
+    ],
+    "49693": [
+      "49693"
+    ],
+    "49945": [
+      "49945"
+    ],
+    "49072": [
+      "49072"
+    ],
+    "50584": [
+      "50584"
+    ],
+    "49579": [
+      "49579"
+    ],
+    "48335": [
+      "48335"
+    ],
+    "48697": [
+      "48697"
+    ],
+    "49984": [
+      "49984"
+    ],
+    "49246": [
+      "49246"
+    ],
+    "48734": [
+      "48734"
+    ],
+    "50783": [
+      "50783"
+    ],
+    "50362": [
+      "50362",
+      "48345"
+    ],
+    "49641": [
+      "49641"
+    ],
+    "50592": [
+      "50592"
+    ],
+    "50167": [
+      "50167"
+    ],
+    "50335": [
+      "50335"
+    ],
+    "49002": [
+      "49414",
+      "49002"
+    ],
+    "47794": [
+      "47794"
+    ],
+    "49521": [
+      "49521"
+    ],
+    "51116": [
+      "51116"
+    ],
+    "48130": [
+      "48130",
+      "50564"
+    ],
+    "50788": [
+      "50788"
+    ],
+    "48020": [
+      "48020"
+    ],
+    "47701": [
+      "47701"
+    ],
+    "49368": [
+      "49368"
+    ],
+    "51109": [
+      "51109"
+    ],
+    "48902": [
+      "48902"
+    ],
+    "47689": [
+      "47689"
+    ],
+    "50356": [
+      "50356"
+    ],
+    "49857": [
+      "49857"
+    ],
+    "50532": [
+      "50532"
+    ],
+    "48368": [
+      "48368"
+    ],
+    "49593": [
+      "49593"
+    ],
+    "50046": [
+      "50046"
+    ],
+    "49439": [
+      "49439"
+    ],
+    "49918": [
+      "49918"
+    ],
+    "51025": [
+      "51025"
+    ],
+    "49739": [
+      "49739"
+    ],
+    "48754": [
+      "48754"
+    ],
+    "47958": [
+      "47958"
+    ],
+    "48500": [
+      "49634",
+      "48500"
+    ],
+    "51104": [
+      "51104"
+    ],
+    "51024": [
+      "51024"
+    ],
+    "49700": [
+      "49700"
+    ],
+    "51062": [
+      "51062"
+    ],
+    "47959": [
+      "47959"
+    ],
+    "50746": [
+      "50746"
+    ],
+    "50317": [
+      "50317",
+      "49070"
+    ],
+    "49437": [
+      "49437"
+    ],
+    "49968": [
+      "49968"
+    ],
+    "49660": [
+      "49660"
+    ],
+    "49364": [
+      "49364"
+    ],
+    "49827": [
+      "49827"
+    ],
+    "48542": [
+      "48542"
+    ],
+    "49651": [
+      "49651"
+    ],
+    "50154": [
+      "50154"
+    ],
+    "50131": [
+      "50131",
+      "50477"
+    ],
+    "48859": [
+      "48859",
+      "49811"
+    ],
+    "48149": [
+      "48149"
+    ],
+    "49138": [
+      "49138"
+    ],
+    "49738": [
+      "49738"
+    ],
+    "48907": [
+      "48907"
+    ],
+    "51115": [
+      "51115"
+    ],
+    "48366": [
+      "48366"
+    ],
+    "49077": [
+      "49077"
+    ],
+    "50519": [
+      "50519"
+    ],
+    "47939": [
+      "47939"
+    ],
+    "47983": [
+      "47983"
+    ],
+    "49085": [
+      "49619",
+      "49085"
+    ],
+    "47926": [
+      "47926"
+    ],
+    "50919": [
+      "50919"
+    ],
+    "48330": [
+      "48330"
+    ],
+    "50338": [
+      "50338"
+    ],
+    "48774": [
+      "48774"
+    ],
+    "47803": [
+      "47803"
+    ],
+    "49795": [
+      "49795"
+    ],
+    "49698": [
+      "49698"
+    ],
+    "49113": [
+      "49113"
+    ],
+    "50765": [
+      "50765"
+    ],
+    "50778": [
+      "50778"
+    ],
+    "48428": [
+      "48428"
+    ],
+    "49431": [
+      "49431"
+    ],
+    "48606": [
+      "48606"
+    ],
+    "48289": [
+      "48289"
+    ],
+    "50838": [
+      "50838"
+    ],
+    "48938": [
+      "48938"
+    ],
+    "51091": [
+      "51091"
+    ],
+    "50044": [
+      "50044"
+    ],
+    "47798": [
+      "47798"
+    ],
+    "48931": [
+      "48931"
+    ],
+    "51081": [
+      "51081"
+    ],
+    "47952": [
+      "47952"
+    ],
+    "49235": [
+      "49235"
+    ],
+    "49688": [
+      "49688"
+    ],
+    "49666": [
+      "49666"
+    ],
+    "48759": [
+      "48759"
+    ],
+    "50422": [
+      "50422"
+    ],
+    "48307": [
+      "48307"
+    ],
+    "49546": [
+      "49546"
+    ],
+    "48981": [
+      "48981"
+    ],
+    "48735": [
+      "48735"
+    ],
+    "50130": [
+      "50130"
+    ],
+    "48505": [
+      "48505"
+    ],
+    "49347": [
+      "49347"
+    ],
+    "48615": [
+      "48615"
+    ],
+    "47923": [
+      "47923"
+    ],
+    "47721": [
+      "47721"
+    ],
+    "50594": [
+      "50594"
+    ],
+    "48120": [
+      "48120"
+    ],
+    "50340": [
+      "50340"
+    ],
+    "48861": [
+      "48861"
+    ],
+    "49571": [
+      "49571"
+    ],
+    "49665": [
+      "49665",
+      "47692"
+    ],
+    "50179": [
+      "50735",
+      "50179"
+    ],
+    "48165": [
+      "48165"
+    ],
+    "49025": [
+      "49025"
+    ],
+    "48417": [
+      "48417"
+    ],
+    "47881": [
+      "47881"
+    ],
+    "49928": [
+      "49928"
+    ],
+    "50656": [
+      "50656"
+    ],
+    "49771": [
+      "49771"
+    ],
+    "48034": [
+      "48034"
+    ],
+    "48967": [
+      "48967"
+    ],
+    "49031": [
+      "49031"
+    ],
+    "50905": [
+      "50905"
+    ],
+    "49382": [
+      "49382"
+    ],
+    "50539": [
+      "50539"
+    ],
+    "48828": [
+      "48828",
+      "48671"
+    ],
+    "50250": [
+      "50250"
+    ],
+    "49177": [
+      "49177"
+    ],
+    "48263": [
+      "48263"
+    ],
+    "48146": [
+      "48146"
+    ],
+    "47956": [
+      "47956"
+    ],
+    "49386": [
+      "49386"
+    ],
+    "49640": [
+      "49640"
+    ],
+    "48041": [
+      "48041"
+    ],
+    "48777": [
+      "48777"
+    ],
+    "50938": [
+      "50938"
+    ],
+    "50134": [
+      "50134"
+    ],
+    "48795": [
+      "48795"
+    ],
+    "49007": [
+      "49007"
+    ],
+    "48812": [
+      "48812"
+    ],
+    "49832": [
+      "49832"
+    ],
+    "49584": [
+      "49584"
+    ],
+    "48904": [
+      "48904"
+    ],
+    "48620": [
+      "48620"
+    ],
+    "50731": [
+      "50731"
+    ],
+    "50669": [
+      "50669"
+    ],
+    "49478": [
+      "49478"
+    ],
+    "50973": [
+      "50973"
+    ],
+    "47813": [
+      "47813"
+    ],
+    "48216": [
+      "48863",
+      "48216"
+    ],
+    "50345": [
+      "50345"
+    ],
+    "47748": [
+      "47748"
+    ],
+    "49456": [
+      "48248",
+      "49456"
+    ],
+    "49454": [
+      "49454"
+    ],
+    "49987": [
+      "49987"
+    ],
+    "50625": [
+      "50625"
+    ],
+    "50006": [
+      "50006"
+    ],
+    "50199": [
+      "50199"
+    ],
+    "47938": [
+      "47938"
+    ],
+    "50236": [
+      "50236"
+    ],
+    "49279": [
+      "49279"
+    ],
+    "50363": [
+      "50363"
+    ],
+    "50129": [
+      "50129"
+    ],
+    "48998": [
+      "48998"
+    ],
+    "48925": [
+      "48925"
+    ],
+    "47736": [
+      "47736"
+    ],
+    "49800": [
+      "49800"
+    ],
+    "49042": [
+      "49042"
+    ],
+    "48109": [
+      "48109"
+    ],
+    "48455": [
+      "48455"
+    ],
+    "50005": [
+      "50005",
+      "48194"
+    ],
+    "51040": [
+      "51040",
+      "49406"
+    ],
+    "48680": [
+      "48680"
+    ],
+    "47735": [
+      "47735"
+    ],
+    "47764": [
+      "47764"
+    ],
+    "48869": [
+      "48869"
+    ],
+    "50977": [
+      "50977"
+    ],
+    "49224": [
+      "47792",
+      "49224"
+    ],
+    "50417": [
+      "50417"
+    ],
+    "49126": [
+      "49126"
+    ],
+    "49769": [
+      "49769"
+    ],
+    "50733": [
+      "50733"
+    ],
+    "50650": [
+      "50650"
+    ],
+    "48150": [
+      "48150"
+    ],
+    "48493": [
+      "48512",
+      "48493"
+    ],
+    "51000": [
+      "51000"
+    ],
+    "48199": [
+      "48199"
+    ],
+    "48135": [
+      "48135"
+    ],
+    "49411": [
+      "49411"
+    ],
+    "49209": [
+      "49209"
+    ],
+    "50557": [
+      "50557",
+      "49208"
+    ],
+    "50876": [
+      "50876"
+    ],
+    "50588": [
+      "50588"
+    ],
+    "50025": [
+      "50025"
+    ],
+    "48756": [
+      "48756"
+    ],
+    "47892": [
+      "47892"
+    ],
+    "49462": [
+      "49462"
+    ],
+    "50226": [
+      "50226"
+    ],
+    "49946": [
+      "49946"
+    ],
+    "48649": [
+      "48649"
+    ],
+    "49069": [
+      "49069"
+    ],
+    "48729": [
+      "48729"
+    ],
+    "50017": [
+      "50017"
+    ],
+    "48666": [
+      "48666"
+    ],
+    "48123": [
+      "48123"
+    ],
+    "50297": [
+      "50297"
+    ],
+    "48214": [
+      "48214"
+    ],
+    "49102": [
+      "49102"
+    ],
+    "49864": [
+      "49864"
+    ],
+    "49756": [
+      "49756"
+    ],
+    "50755": [
+      "49266",
+      "50755"
+    ],
+    "47801": [
+      "47801"
+    ],
+    "48246": [
+      "48246"
+    ],
+    "50767": [
+      "50767"
+    ],
+    "47890": [
+      "48164",
+      "47890"
+    ],
+    "48024": [
+      "48024"
+    ],
+    "50931": [
+      "50931"
+    ],
+    "50597": [
+      "50597"
+    ],
+    "50775": [
+      "50775"
+    ],
+    "50023": [
+      "50023"
+    ],
+    "49604": [
+      "49604"
+    ],
+    "49499": [
+      "49499"
+    ],
+    "48127": [
+      "48127"
+    ],
+    "47760": [
+      "47760"
+    ],
+    "49788": [
+      "49788"
+    ],
+    "47915": [
+      "47915"
+    ],
+    "51053": [
+      "51053"
+    ],
+    "50029": [
+      "48572",
+      "50029"
+    ],
+    "50724": [
+      "50724"
+    ],
+    "49809": [
+      "49809"
+    ],
+    "50810": [
+      "50810"
+    ],
+    "49529": [
+      "49529"
+    ],
+    "48886": [
+      "48886"
+    ],
+    "48942": [
+      "48942"
+    ],
+    "49678": [
+      "49678"
+    ],
+    "48758": [
+      "48758"
+    ],
+    "48015": [
+      "48015"
+    ],
+    "50188": [
+      "50188"
+    ],
+    "48049": [
+      "48049"
+    ],
+    "50611": [
+      "50611"
+    ],
+    "48313": [
+      "48313"
+    ],
+    "49749": [
+      "49749"
+    ],
+    "48858": [
+      "48858"
+    ],
+    "48605": [
+      "48605"
+    ],
+    "50342": [
+      "50342"
+    ],
+    "49654": [
+      "49654"
+    ],
+    "49767": [
+      "49767"
+    ],
+    "48640": [
+      "48640"
+    ],
+    "50525": [
+      "50525"
+    ],
+    "49588": [
+      "49588"
+    ],
+    "48304": [
+      "48304"
+    ],
+    "49837": [
+      "49837"
+    ],
+    "50267": [
+      "50267"
+    ],
+    "48582": [
+      "48582"
+    ],
+    "48713": [
+      "48713",
+      "48378"
+    ],
+    "48972": [
+      "48972"
+    ],
+    "50002": [
+      "50002"
+    ],
+    "49494": [
+      "49494"
+    ],
+    "48922": [
+      "48922"
+    ],
+    "48159": [
+      "48159"
+    ],
+    "48384": [
+      "48384"
+    ],
+    "50627": [
+      "50627"
+    ],
+    "48299": [
+      "48299"
+    ],
+    "50689": [
+      "50689"
+    ],
+    "48067": [
+      "48067"
+    ],
+    "48078": [
+      "48078",
+      "49250"
+    ],
+    "48142": [
+      "48142"
+    ],
+    "50955": [
+      "50955"
+    ],
+    "50049": [
+      "50049"
+    ],
+    "50218": [
+      "50218"
+    ],
+    "49627": [
+      "49627"
+    ],
+    "47880": [
+      "47880"
+    ],
+    "49991": [
+      "49991"
+    ],
+    "50985": [
+      "50985"
+    ],
+    "49522": [
+      "49522"
+    ],
+    "48723": [
+      "48723"
+    ],
+    "49461": [
+      "49461"
+    ],
+    "48115": [
+      "48115"
+    ],
+    "48485": [
+      "48485"
+    ],
+    "50275": [
+      "50275"
+    ],
+    "49805": [
+      "49805"
+    ],
+    "49620": [
+      "49001",
+      "49620"
+    ],
+    "48978": [
+      "48978"
+    ],
+    "48497": [
+      "48497"
+    ],
+    "50118": [
+      "50118"
+    ],
+    "48608": [
+      "48608"
+    ],
+    "48975": [
+      "48975"
+    ],
+    "48764": [
+      "48764"
+    ],
+    "47930": [
+      "47930"
+    ],
+    "50785": [
+      "50785"
+    ],
+    "48571": [
+      "48571"
+    ],
+    "48771": [
+      "48771"
+    ],
+    "47703": [
+      "47703"
+    ],
+    "48933": [
+      "48933"
+    ],
+    "47747": [
+      "47747"
+    ],
+    "49561": [
+      "49561"
+    ],
+    "47776": [
+      "47776"
+    ],
+    "50640": [
+      "50640"
+    ],
+    "47675": [
+      "47675"
+    ],
+    "50102": [
+      "50102"
+    ],
+    "49537": [
+      "49537"
+    ],
+    "50848": [
+      "50848"
+    ],
+    "49682": [
+      "49682"
+    ],
+    "50111": [
+      "50111"
+    ],
+    "49468": [
+      "49468"
+    ],
+    "49632": [
+      "49632"
+    ],
+    "50001": [
+      "50001"
+    ],
+    "51056": [
+      "47997",
+      "51056"
+    ],
+    "50875": [
+      "50875"
+    ],
+    "49917": [
+      "49917"
+    ],
+    "48095": [
+      "48095"
+    ],
+    "49166": [
+      "49166"
+    ],
+    "48483": [
+      "48483"
+    ],
+    "48371": [
+      "48371"
+    ],
+    "50162": [
+      "50162"
+    ],
+    "48457": [
+      "48457"
+    ],
+    "50495": [
+      "50495"
+    ],
+    "48574": [
+      "48574"
+    ],
+    "48136": [
+      "48136"
+    ],
+    "49455": [
+      "49455"
+    ],
+    "48437": [
+      "48437"
+    ],
+    "50927": [
+      "50927"
+    ],
+    "50080": [
+      "50080"
+    ],
+    "49790": [
+      "49790"
+    ],
+    "49407": [
+      "49407"
+    ],
+    "47940": [
+      "47940"
+    ],
+    "51087": [
+      "51087"
+    ],
+    "48060": [
+      "48060"
+    ],
+    "50133": [
+      "50133"
+    ],
+    "49161": [
+      "49161"
+    ],
+    "49516": [
+      "49516"
+    ],
+    "47750": [
+      "47750"
+    ],
+    "48498": [
+      "48498"
+    ],
+    "49775": [
+      "49775"
+    ],
+    "48220": [
+      "48220"
+    ],
+    "49443": [
+      "49443"
+    ],
+    "50981": [
+      "50981"
+    ],
+    "50354": [
+      "50354"
+    ],
+    "50799": [
+      "50799"
+    ],
+    "48235": [
+      "48235"
+    ],
+    "50504": [
+      "50504"
+    ],
+    "49238": [
+      "49238"
+    ],
+    "50460": [
+      "50460"
+    ],
+    "47872": [
+      "47872"
+    ],
+    "50867": [
+      "50867"
+    ],
+    "48678": [
+      "48678"
+    ],
+    "48683": [
+      "48683"
+    ],
+    "50284": [
+      "50284"
+    ],
+    "48151": [
+      "48151"
+    ],
+    "50610": [
+      "50610"
+    ],
+    "47955": [
+      "47955"
+    ],
+    "48727": [
+      "48727"
+    ],
+    "48116": [
+      "48116",
+      "50324"
+    ],
+    "49777": [
+      "49777"
+    ],
+    "49676": [
+      "49676"
+    ],
+    "50415": [
+      "50415"
+    ],
+    "48772": [
+      "48772"
+    ],
+    "49314": [
+      "49314"
+    ],
+    "48599": [
+      "48599"
+    ],
+    "49903": [
+      "49903"
+    ],
+    "47823": [
+      "47823"
+    ],
+    "48642": [
+      "48642"
+    ],
+    "48648": [
+      "48648"
+    ],
+    "48748": [
+      "48748"
+    ],
+    "48901": [
+      "48901"
+    ],
+    "48915": [
+      "48915"
+    ],
+    "50956": [
+      "50956"
+    ],
+    "50913": [
+      "50913"
+    ],
+    "48077": [
+      "48077"
+    ],
+    "50239": [
+      "50239"
+    ],
+    "49098": [
+      "49098"
+    ],
+    "48492": [
+      "48492",
+      "48982"
+    ],
+    "50754": [
+      "50754"
+    ],
+    "50759": [
+      "50759"
+    ],
+    "47820": [
+      "47820"
+    ],
+    "50538": [
+      "50538"
+    ],
+    "48118": [
+      "49745",
+      "48118"
+    ],
+    "51075": [
+      "51075"
+    ],
+    "50408": [
+      "50408",
+      "49977"
+    ],
+    "50142": [
+      "50142"
+    ],
+    "49656": [
+      "49656"
+    ],
+    "50909": [
+      "50909"
+    ],
+    "49901": [
+      "49901"
+    ],
+    "50020": [
+      "50020"
+    ],
+    "49354": [
+      "49354"
+    ],
+    "50196": [
+      "50196"
+    ],
+    "50151": [
+      "50151"
+    ],
+    "50320": [
+      "50320",
+      "50511"
+    ],
+    "50010": [
+      "50010"
+    ],
+    "48250": [
+      "48250"
+    ],
+    "50819": [
+      "50819"
+    ],
+    "49430": [
+      "49430"
+    ],
+    "49686": [
+      "49686"
+    ],
+    "50089": [
+      "50089"
+    ],
+    "50820": [
+      "50820"
+    ],
+    "49564": [
+      "49564"
+    ],
+    "48508": [
+      "48508"
+    ],
+    "48638": [
+      "48638"
+    ],
+    "50174": [
+      "50174"
+    ],
+    "48031": [
+      "48031"
+    ],
+    "48995": [
+      "48995"
+    ],
+    "50787": [
+      "50787"
+    ],
+    "49293": [
+      "49293"
+    ],
+    "50837": [
+      "50837"
+    ],
+    "49029": [
+      "49029"
+    ],
+    "48792": [
+      "48792"
+    ],
+    "50660": [
+      "50262",
+      "48110",
+      "50660"
+    ],
+    "48269": [
+      "48269"
+    ],
+    "50634": [
+      "50634"
+    ],
+    "49949": [
+      "49949"
+    ],
+    "50621": [
+      "50621"
+    ],
+    "51055": [
+      "51055"
+    ],
+    "49059": [
+      "49059"
+    ],
+    "49643": [
+      "49643"
+    ],
+    "49351": [
+      "49351"
+    ],
+    "48665": [
+      "48665"
+    ],
+    "50723": [
+      "50723"
+    ],
+    "50979": [
+      "50979"
+    ],
+    "49636": [
+      "49636"
+    ],
+    "50388": [
+      "50388"
+    ],
+    "50864": [
+      "50864"
+    ],
+    "50099": [
+      "50099"
+    ],
+    "49920": [
+      "49920"
+    ],
+    "48826": [
+      "48826"
+    ],
+    "48141": [
+      "48141",
+      "50509"
+    ],
+    "49067": [
+      "49067"
+    ],
+    "48408": [
+      "48408"
+    ],
+    "50344": [
+      "50344"
+    ],
+    "50496": [
+      "50496"
+    ],
+    "47864": [
+      "47864"
+    ],
+    "49182": [
+      "49182"
+    ],
+    "49950": [
+      "49950"
+    ],
+    "48524": [
+      "48524"
+    ],
+    "50312": [
+      "50312"
+    ],
+    "48719": [
+      "48719"
+    ],
+    "50777": [
+      "50777",
+      "47800"
+    ],
+    "48728": [
+      "48728"
+    ],
+    "49418": [
+      "49418"
+    ],
+    "49662": [
+      "49662"
+    ],
+    "47665": [
+      "47665"
+    ],
+    "50265": [
+      "50265",
+      "49982"
+    ],
+    "49268": [
+      "49268"
+    ],
+    "49428": [
+      "49428"
+    ],
+    "50961": [
+      "50961"
+    ],
+    "50764": [
+      "50764"
+    ],
+    "47871": [
+      "47871",
+      "50200"
+    ],
+    "49966": [
+      "49966"
+    ],
+    "47935": [
+      "47935"
+    ],
+    "49708": [
+      "49708"
+    ],
+    "48562": [
+      "48562"
+    ],
+    "48934": [
+      "48934"
+    ],
+    "48736": [
+      "48736"
+    ],
+    "50112": [
+      "50112"
+    ],
+    "49281": [
+      "49281"
+    ],
+    "49549": [
+      "49549"
+    ],
+    "49965": [
+      "49965"
+    ],
+    "50144": [
+      "48053",
+      "50144"
+    ],
+    "47931": [
+      "51048",
+      "47931"
+    ],
+    "47962": [
+      "47962"
+    ],
+    "49378": [
+      "49378",
+      "50524"
+    ],
+    "47805": [
+      "47805"
+    ],
+    "51036": [
+      "51036"
+    ],
+    "49349": [
+      "48451",
+      "49349"
+    ],
+    "49625": [
+      "49625",
+      "48799"
+    ],
+    "50999": [
+      "50999"
+    ],
+    "49299": [
+      "49299"
+    ],
+    "47991": [
+      "47991"
+    ],
+    "49515": [
+      "49515"
+    ],
+    "48956": [
+      "48956"
+    ],
+    "49562": [
+      "49562"
+    ],
+    "49060": [
+      "49060"
+    ],
+    "49014": [
+      "49014"
+    ],
+    "49093": [
+      "49093"
+    ],
+    "48294": [
+      "48294"
+    ],
+    "47802": [
+      "47802"
+    ],
+    "49766": [
+      "49766"
+    ],
+    "48757": [
+      "48757"
+    ],
+    "49908": [
+      "49908"
+    ],
+    "49453": [
+      "49453"
+    ],
+    "49265": [
+      "49265"
+    ],
+    "48961": [
+      "48961"
+    ],
+    "47843": [
+      "47843"
+    ],
+    "47874": [
+      "47874"
+    ],
+    "50307": [
+      "50307",
+      "49165"
+    ],
+    "50114": [
+      "50114"
+    ],
+    "50187": [
+      "50187"
+    ],
+    "48479": [
+      "48479"
+    ],
+    "48434": [
+      "48434"
+    ],
+    "49929": [
+      "49929"
+    ],
+    "48429": [
+      "48429"
+    ],
+    "48659": [
+      "48659"
+    ],
+    "50540": [
+      "50540"
+    ],
+    "50740": [
+      "50740"
+    ],
+    "48184": [
+      "48184"
+    ],
+    "48617": [
+      "48617"
+    ],
+    "49379": [
+      "49379"
+    ],
+    "49447": [
+      "49447"
+    ],
+    "48825": [
+      "48825",
+      "47884"
+    ],
+    "49490": [
+      "49490"
+    ],
+    "50244": [
+      "50244"
+    ],
+    "49216": [
+      "49216"
+    ],
+    "49761": [
+      "49761"
+    ],
+    "48782": [
+      "48782"
+    ],
+    "48798": [
+      "48798"
+    ],
+    "49963": [
+      "49963"
+    ],
+    "48097": [
+      "48097"
+    ],
+    "49962": [
+      "49962"
+    ],
+    "49743": [
+      "49743"
+    ],
+    "49506": [
+      "49506"
+    ],
+    "49413": [
+      "49413"
+    ],
+    "48370": [
+      "48370"
+    ],
+    "48012": [
+      "48012"
+    ],
+    "50480": [
+      "50480"
+    ],
+    "50636": [
+      "50636"
+    ],
+    "49661": [
+      "49661"
+    ],
+    "48707": [
+      "48707"
+    ],
+    "48285": [
+      "48285"
+    ],
+    "50470": [
+      "50470"
+    ],
+    "50558": [
+      "50558"
+    ],
+    "50772": [
+      "50772"
+    ],
+    "49184": [
+      "49184"
+    ],
+    "48267": [
+      "48267"
+    ],
+    "50012": [
+      "50012"
+    ],
+    "49931": [
+      "49931"
+    ],
+    "47808": [
+      "47808"
+    ],
+    "49045": [
+      "49045"
+    ],
+    "48845": [
+      "48845"
+    ],
+    "48023": [
+      "48023"
+    ],
+    "51035": [
+      "51035"
+    ],
+    "49342": [
+      "49342"
+    ],
+    "48870": [
+      "48870"
+    ],
+    "51006": [
+      "51006"
+    ],
+    "50796": [
+      "50796"
+    ],
+    "47927": [
+      "47927"
+    ],
+    "48312": [
+      "48312"
+    ],
+    "47796": [
+      "47796"
+    ],
+    "48290": [
+      "48290"
+    ],
+    "50595": [
+      "50595"
+    ],
+    "49891": [
+      "49891"
+    ],
+    "48188": [
+      "48188"
+    ],
+    "48202": [
+      "48202"
+    ],
+    "49699": [
+      "49699"
+    ],
+    "50380": [
+      "50380"
+    ],
+    "49934": [
+      "49934"
+    ],
+    "50219": [
+      "50219"
+    ],
+    "48947": [
+      "48947"
+    ],
+    "49343": [
+      "49343"
+    ],
+    "50553": [
+      "50553"
+    ],
+    "48450": [
+      "48450",
+      "50311"
+    ],
+    "50649": [
+      "50649"
+    ],
+    "48028": [
+      "48028"
+    ],
+    "49003": [
+      "49003"
+    ],
+    "49873": [
+      "49873",
+      "48471"
+    ],
+    "48912": [
+      "48912"
+    ],
+    "48726": [
+      "48726"
+    ],
+    "49573": [
+      "49573"
+    ],
+    "47713": [
+      "47713"
+    ],
+    "48125": [
+      "48125"
+    ],
+    "49239": [
+      "49239"
+    ],
+    "48014": [
+      "48014",
+      "50382"
+    ],
+    "50278": [
+      "50278"
+    ],
+    "49784": [
+      "50661",
+      "49784"
+    ],
+    "49375": [
+      "49375"
+    ],
+    "49420": [
+      "49420"
+    ],
+    "50771": [
+      "50771"
+    ],
+    "50283": [
+      "50283"
+    ],
+    "48966": [
+      "48966"
+    ],
+    "47907": [
+      "47907"
+    ],
+    "49910": [
+      "49910"
+    ],
+    "49644": [
+      "49644"
+    ],
+    "47811": [
+      "47811"
+    ],
+    "48472": [
+      "48472"
+    ],
+    "48662": [
+      "48662"
+    ],
+    "49709": [
+      "49709"
+    ],
+    "48953": [
+      "48953"
+    ],
+    "50879": [
+      "50879",
+      "49996"
+    ],
+    "50997": [
+      "50997"
+    ],
+    "50829": [
+      "50829",
+      "49321"
+    ],
+    "50910": [
+      "50910"
+    ],
+    "48005": [
+      "48005"
+    ],
+    "49167": [
+      "49167"
+    ],
+    "48421": [
+      "48421"
+    ],
+    "50269": [
+      "50269"
+    ],
+    "48853": [
+      "48853"
+    ],
+    "49064": [
+      "49064"
+    ],
+    "48114": [
+      "48114"
+    ],
+    "47897": [
+      "47897"
+    ],
+    "48706": [
+      "48706"
+    ],
+    "49606": [
+      "49606"
+    ],
+    "50252": [
+      "48170",
+      "50252"
+    ],
+    "50715": [
+      "50715"
+    ],
+    "48796": [
+      "48796"
+    ],
+    "48295": [
+      "48295"
+    ],
+    "50465": [
+      "50465"
+    ],
+    "49419": [
+      "49419"
+    ],
+    "48254": [
+      "48254"
+    ],
+    "48819": [
+      "48819"
+    ],
+    "50202": [
+      "50202"
+    ],
+    "48400": [
+      "48400",
+      "49799"
+    ],
+    "50347": [
+      "50347"
+    ],
+    "47694": [
+      "47694"
+    ],
+    "49476": [
+      "49476"
+    ],
+    "47795": [
+      "47795"
+    ],
+    "49779": [
+      "49779"
+    ],
+    "49393": [
+      "49393"
+    ],
+    "49445": [
+      "49445"
+    ],
+    "50992": [
+      "50992"
+    ],
+    "48134": [
+      "48134"
+    ],
+    "50776": [
+      "50776"
+    ],
+    "49123": [
+      "49123"
+    ],
+    "50803": [
+      "50803"
+    ],
+    "51078": [
+      "51078"
+    ],
+    "47894": [
+      "47894"
+    ],
+    "50021": [
+      "50021"
+    ],
+    "51071": [
+      "51071"
+    ],
+    "48047": [
+      "48047"
+    ],
+    "47920": [
+      "47920"
+    ],
+    "48131": [
+      "48131"
+    ],
+    "49975": [
+      "49975"
+    ],
+    "48480": [
+      "48480"
+    ],
+    "50637": [
+      "50637"
+    ],
+    "48644": [
+      "48644"
+    ],
+    "48769": [
+      "48769"
+    ],
+    "48700": [
+      "48700"
+    ],
+    "51102": [
+      "51102"
+    ],
+    "49639": [
+      "49639"
+    ],
+    "50756": [
+      "50756"
+    ],
+    "48866": [
+      "48866"
+    ],
+    "48456": [
+      "48456"
+    ],
+    "51015": [
+      "51015"
+    ],
+    "50972": [
+      "50972"
+    ],
+    "50923": [
+      "50923"
+    ],
+    "48811": [
+      "48811"
+    ],
+    "49941": [
+      "49941"
+    ],
+    "48425": [
+      "48425"
+    ],
+    "48113": [
+      "48113"
+    ],
+    "50922": [
+      "50922"
+    ],
+    "49367": [
+      "49367"
+    ],
+    "47670": [
+      "47670"
+    ],
+    "49084": [
+      "49084"
+    ],
+    "47799": [
+      "47799"
+    ],
+    "48954": [
+      "48954"
+    ],
+    "49729": [
+      "49729"
+    ],
+    "49753": [
+      "49753"
+    ],
+    "47857": [
+      "47857"
+    ],
+    "51041": [
+      "51041"
+    ],
+    "49033": [
+      "49033"
+    ],
+    "47951": [
+      "47951"
+    ],
+    "49353": [
+      "49353"
+    ],
+    "49892": [
+      "49892"
+    ],
+    "50598": [
+      "50598"
+    ],
+    "49758": [
+      "49758"
+    ],
+    "49969": [
+      "49969"
+    ],
+    "48946": [
+      "48946"
+    ],
+    "49726": [
+      "49726"
+    ],
+    "49099": [
+      "49099"
+    ],
+    "51012": [
+      "51012"
+    ],
+    "50521": [
+      "50521"
+    ],
+    "51021": [
+      "51021"
+    ],
+    "49120": [
+      "49120"
+    ],
+    "50599": [
+      "50599"
+    ],
+    "48507": [
+      "48507"
+    ],
+    "48124": [
+      "48124"
+    ],
+    "48923": [
+      "48923"
+    ],
+    "49520": [
+      "49520"
+    ],
+    "50732": [
+      "48213",
+      "50732"
+    ],
+    "48873": [
+      "48873"
+    ],
+    "49429": [
+      "49429"
+    ],
+    "51067": [
+      "51067"
+    ],
+    "49976": [
+      "49976"
+    ],
+    "50936": [
+      "50936"
+    ],
+    "50466": [
+      "50466"
+    ],
+    "49089": [
+      "49089"
+    ],
+    "50042": [
+      "50042"
+    ],
+    "48626": [
+      "48626"
+    ],
+    "48850": [
+      "48850"
+    ],
+    "49109": [
+      "49109"
+    ],
+    "50078": [
+      "50078"
+    ],
+    "49886": [
+      "49886"
+    ],
+    "49232": [
+      "49232"
+    ],
+    "49789": [
+      "49789"
+    ],
+    "49133": [
+      "49133"
+    ],
+    "49826": [
+      "49826"
+    ],
+    "47916": [
+      "47916"
+    ],
+    "49181": [
+      "49181"
+    ],
+    "48404": [
+      "48404"
+    ],
+    "48695": [
+      "48695"
+    ],
+    "48557": [
+      "48557"
+    ],
+    "50643": [
+      "50643"
+    ],
+    "50137": [
+      "50137"
+    ],
+    "48633": [
+      "48633"
+    ],
+    "48561": [
+      "48561"
+    ],
+    "47866": [
+      "47866"
+    ],
+    "50906": [
+      "50906"
+    ],
+    "48352": [
+      "48352"
+    ],
+    "49171": [
+      "49171"
+    ],
+    "50575": [
+      "50575"
+    ],
+    "50413": [
+      "50413"
+    ],
+    "49401": [
+      "49401"
+    ],
+    "49458": [
+      "49458"
+    ],
+    "50147": [
+      "50147"
+    ],
+    "49242": [
+      "49242"
+    ],
+    "50348": [
+      "50348"
+    ],
+    "48794": [
+      "48794"
+    ],
+    "50334": [
+      "50334"
+    ],
+    "47981": [
+      "47981"
+    ],
+    "48346": [
+      "48346"
+    ],
+    "50513": [
+      "50513"
+    ],
+    "50572": [
+      "50572"
+    ],
+    "48621": [
+      "48621"
+    ],
+    "47850": [
+      "47850"
+    ],
+    "49626": [
+      "49626"
+    ],
+    "50704": [
+      "50704"
+    ],
+    "49513": [
+      "49513"
+    ],
+    "47953": [
+      "47953"
+    ],
+    "50702": [
+      "50702"
+    ],
+    "48691": [
+      "48691"
+    ],
+    "51073": [
+      "51073"
+    ],
+    "48198": [
+      "48198"
+    ],
+    "48801": [
+      "48801"
+    ],
+    "49550": [
+      "49550"
+    ],
+    "49503": [
+      "49503"
+    ],
+    "51058": [
+      "51058"
+    ],
+    "50853": [
+      "50853"
+    ],
+    "51054": [
+      "51054"
+    ],
+    "50544": [
+      "50544"
+    ],
+    "48545": [
+      "48545"
+    ],
+    "49358": [
+      "49358"
+    ],
+    "48033": [
+      "48033"
+    ],
+    "48941": [
+      "48941"
+    ],
+    "50451": [
+      "50451"
+    ],
+    "50615": [
+      "50615"
+    ],
+    "49690": [
+      "49690"
+    ],
+    "50088": [
+      "50156",
+      "50088"
+    ],
+    "49119": [
+      "49119"
+    ],
+    "47947": [
+      "47947"
+    ],
+    "50169": [
+      "50169"
+    ],
+    "49760": [
+      "49760"
+    ],
+    "48509": [
+      "48509"
+    ],
+    "49613": [
+      "49613"
+    ],
+    "50409": [
+      "50409"
+    ],
+    "49527": [
+      "49527"
+    ],
+    "50858": [
+      "50858"
+    ],
+    "49798": [
+      "49798"
+    ],
+    "50072": [
+      "50072"
+    ],
+    "49806": [
+      "49806"
+    ],
+    "49897": [
+      "49897"
+    ],
+    "49556": [
+      "49556"
+    ],
+    "49907": [
+      "49907"
+    ],
+    "50986": [
+      "50986"
+    ],
+    "50152": [
+      "50152"
+    ],
+    "50514": [
+      "50514"
+    ],
+    "48144": [
+      "48144"
+    ],
+    "48898": [
+      "48898"
+    ],
+    "50609": [
+      "50609"
+    ],
+    "49313": [
+      "49313"
+    ],
+    "47768": [
+      "47768"
+    ],
+    "48207": [
+      "48207"
+    ],
+    "50701": [
+      "50701"
+    ],
+    "48841": [
+      "48841"
+    ],
+    "48242": [
+      "48242"
+    ],
+    "49938": [
+      "49938"
+    ],
+    "49482": [
+      "49482"
+    ],
+    "49424": [
+      "49424"
+    ],
+    "48696": [
+      "48696"
+    ],
+    "51070": [
+      "51070"
+    ],
+    "48415": [
+      "48415"
+    ],
+    "47774": [
+      "47774"
+    ],
+    "47986": [
+      "47986"
+    ],
+    "50189": [
+      "50189"
+    ],
+    "49985": [
+      "49985"
+    ],
+    "49647": [
+      "49647"
+    ],
+    "48650": [
+      "48650"
+    ],
+    "50355": [
+      "50355"
+    ],
+    "50729": [
+      "50729"
+    ],
+    "50103": [
+      "50103"
+    ],
+    "50811": [
+      "50811"
+    ],
+    "49511": [
+      "49511"
+    ],
+    "50937": [
+      "50937"
+    ],
+    "48788": [
+      "48788"
+    ],
+    "50075": [
+      "50075"
+    ],
+    "47859": [
+      "47859"
+    ],
+    "49276": [
+      "49276"
+    ],
+    "50170": [
+      "50170"
+    ],
+    "50749": [
+      "50749"
+    ],
+    "49496": [
+      "49496"
+    ],
+    "48948": [
+      "48948"
+    ],
+    "49952": [
+      "49952"
+    ],
+    "50009": [
+      "50009"
+    ],
+    "49668": [
+      "49668"
+    ],
+    "50070": [
+      "50070"
+    ],
+    "47845": [
+      "47845"
+    ],
+    "50321": [
+      "50321"
+    ],
+    "48993": [
+      "48993"
+    ],
+    "49759": [
+      "49759"
+    ],
+    "47781": [
+      "47781"
+    ],
+    "49730": [
+      "49730"
+    ],
+    "48903": [
+      "48903"
+    ],
+    "49849": [
+      "49849"
+    ],
+    "50206": [
+      "50206"
+    ],
+    "49472": [
+      "49472"
+    ],
+    "50198": [
+      "50198"
+    ],
+    "49288": [
+      "49288"
+    ],
+    "47842": [
+      "47842"
+    ],
+    "49988": [
+      "49988"
+    ],
+    "49878": [
+      "49878"
+    ],
+    "50121": [
+      "50121"
+    ],
+    "48454": [
+      "48454"
+    ],
+    "49312": [
+      "49312"
+    ],
+    "48476": [
+      "48476"
+    ],
+    "50421": [
+      "50421"
+    ],
+    "49675": [
+      "49675"
+    ],
+    "49895": [
+      "49895"
+    ],
+    "48806": [
+      "48806"
+    ],
+    "49519": [
+      "49519"
+    ],
+    "50549": [
+      "50549"
+    ],
+    "50690": [
+      "50690"
+    ],
+    "48066": [
+      "48066"
+    ],
+    "49103": [
+      "49103"
+    ],
+    "50836": [
+      "50836"
+    ],
+    "50068": [
+      "50068"
+    ],
+    "50789": [
+      "50789"
+    ],
+    "50083": [
+      "50083"
+    ],
+    "51100": [
+      "51100"
+    ],
+    "49254": [
+      "49254"
+    ],
+    "51066": [
+      "51066"
+    ],
+    "50378": [
+      "50378"
+    ],
+    "49191": [
+      "49191"
+    ],
+    "50240": [
+      "50240"
+    ],
+    "48387": [
+      "48387"
+    ],
+    "49277": [
+      "49277",
+      "50328"
+    ],
+    "49332": [
+      "49332"
+    ],
+    "50481": [
+      "50481"
+    ],
+    "48791": [
+      "48791"
+    ],
+    "48820": [
+      "48820"
+    ],
+    "47775": [
+      "47775"
+    ],
+    "48580": [
+      "48580"
+    ],
+    "50976": [
+      "50976"
+    ],
+    "50448": [
+      "50448"
+    ],
+    "50928": [
+      "50928"
+    ],
+    "50753": [
+      "50753"
+    ],
+    "48249": [
+      "49862",
+      "48249"
+    ],
+    "50306": [
+      "50306"
+    ],
+    "48949": [
+      "48949"
+    ],
+    "47984": [
+      "47984"
+    ],
+    "50570": [
+      "51068",
+      "50570"
+    ],
+    "48761": [
+      "48761"
+    ],
+    "50234": [
+      "50234"
+    ],
+    "50506": [
+      "50506"
+    ],
+    "48435": [
+      "48435"
+    ],
+    "50222": [
+      "47863",
+      "50222"
+    ],
+    "49748": [
+      "49748"
+    ],
+    "48549": [
+      "48549"
+    ],
+    "49357": [
+      "49357"
+    ],
+    "48983": [
+      "48983"
+    ],
+    "50419": [
+      "50419"
+    ],
+    "48369": [
+      "48369"
+    ],
+    "49258": [
+      "49258"
+    ],
+    "48604": [
+      "48604"
+    ],
+    "49538": [
+      "49538"
+    ],
+    "49677": [
+      "49677"
+    ],
+    "49371": [
+      "49371"
+    ],
+    "48614": [
+      "48614"
+    ],
+    "48071": [
+      "48071"
+    ],
+    "50619": [
+      "47900",
+      "50619"
+    ],
+    "49373": [
+      "49373"
+    ],
+    "50925": [
+      "50925"
+    ],
+    "50192": [
+      "50192"
+    ],
+    "48169": [
+      "48169"
+    ],
+    "48173": [
+      "48173"
+    ],
+    "50990": [
+      "50990",
+      "48784"
+    ],
+    "48905": [
+      "48905"
+    ],
+    "49186": [
+      "49186"
+    ],
+    "48708": [
+      "48708"
+    ],
+    "50058": [
+      "50058"
+    ],
+    "47996": [
+      "47996"
+    ],
+    "50440": [
+      "50440"
+    ],
+    "49192": [
+      "49192"
+    ],
+    "49160": [
+      "49160"
+    ],
+    "50548": [
+      "50548"
+    ],
+    "50798": [
+      "50798"
+    ],
+    "48844": [
+      "48844"
+    ],
+    "50028": [
+      "50028"
+    ],
+    "47965": [
+      "47965"
+    ],
+    "50613": [
+      "50613"
+    ],
+    "49659": [
+      "49659"
+    ],
+    "48247": [
+      "48247"
+    ],
+    "51113": [
+      "51113"
+    ],
+    "48669": [
+      "48669"
+    ],
+    "48259": [
+      "48259"
+    ],
+    "47737": [
+      "47737"
+    ],
+    "50745": [
+      "50745"
+    ],
+    "50357": [
+      "50357"
+    ],
+    "50605": [
+      "50605"
+    ],
+    "50064": [
+      "50064"
+    ],
+    "49004": [
+      "49004"
+    ],
+    "49178": [
+      "49178"
+    ],
+    "49796": [
+      "49796"
+    ],
+    "48432": [
+      "48432"
+    ],
+    "49947": [
+      "49947"
+    ],
+    "48837": [
+      "48837"
+    ],
+    "49974": [
+      "49974"
+    ],
+    "51027": [
+      "51027"
+    ],
+    "48065": [
+      "48065"
+    ],
+    "48717": [
+      "48717"
+    ],
+    "49405": [
+      "49405"
+    ],
+    "50635": [
+      "50635"
+    ],
+    "50308": [
+      "50308"
+    ],
+    "50779": [
+      "50779"
+    ],
+    "48288": [
+      "48288"
+    ],
+    "50241": [
+      "50241"
+    ],
+    "48741": [
+      "48741"
+    ],
+    "47989": [
+      "47989"
+    ],
+    "50808": [
+      "50808"
+    ],
+    "49336": [
+      "49336"
+    ],
+    "47903": [
+      "47903"
+    ],
+    "50993": [
+      "50993"
+    ],
+    "48564": [
+      "48564"
+    ],
+    "49814": [
+      "49814"
+    ],
+    "49596": [
+      "49596"
+    ],
+    "50887": [
+      "50887"
+    ],
+    "49289": [
+      "49289"
+    ],
+    "48960": [
+      "48960"
+    ],
+    "49226": [
+      "49226"
+    ],
+    "50833": [
+      "50833"
+    ],
+    "51034": [
+      "51034"
+    ],
+    "48733": [
+      "48733"
+    ],
+    "48829": [
+      "48829"
+    ],
+    "49243": [
+      "49243"
+    ],
+    "48594": [
+      "48594"
+    ],
+    "49287": [
+      "49287"
+    ],
+    "50681": [
+      "50681"
+    ],
+    "48583": [
+      "48583"
+    ],
+    "49545": [
+      "49545"
+    ],
+    "51065": [
+      "51065"
+    ],
+    "48501": [
+      "48501"
+    ],
+    "49128": [
+      "49128"
+    ],
+    "50892": [
+      "50892"
+    ],
+    "48996": [
+      "48996"
+    ],
+    "50141": [
+      "50141"
+    ],
+    "50210": [
+      "50210"
+    ],
+    "50136": [
+      "50136"
+    ],
+    "47723": [
+      "47723"
+    ],
+    "50747": [
+      "50747"
+    ],
+    "47684": [
+      "47684"
+    ],
+    "48253": [
+      "48253"
+    ],
+    "50840": [
+      "50840"
+    ],
+    "50423": [
+      "50423"
+    ],
+    "50944": [
+      "50944"
+    ],
+    "48106": [
+      "48106"
+    ],
+    "47891": [
+      "47891"
+    ],
+    "49501": [
+      "49501"
+    ],
+    "49724": [
+      "49724"
+    ],
+    "49442": [
+      "49442"
+    ],
+    "50891": [
+      "50891"
+    ],
+    "50242": [
+      "50242"
+    ],
+    "48197": [
+      "48197"
+    ],
+    "47791": [
+      "47791"
+    ],
+    "50071": [
+      "50071"
+    ],
+    "47925": [
+      "47925"
+    ],
+    "49597": [
+      "49597"
+    ],
+    "49905": [
+      "49905"
+    ],
+    "47780": [
+      "47780"
+    ],
+    "50541": [
+      "50541"
+    ],
+    "50385": [
+      "50385"
+    ],
+    "50552": [
+      "50552"
+    ],
+    "49341": [
+      "49341"
+    ],
+    "50528": [
+      "50528"
+    ],
+    "50235": [
+      "50235"
+    ],
+    "48755": [
+      "48755"
+    ],
+    "49206": [
+      "49206"
+    ],
+    "49054": [
+      "49054"
+    ],
+    "48989": [
+      "48989"
+    ],
+    "50484": [
+      "50484"
+    ],
+    "49493": [
+      "49493"
+    ],
+    "50722": [
+      "50722"
+    ],
+    "47697": [
+      "47697"
+    ],
+    "49000": [
+      "49000"
+    ],
+    "50449": [
+      "50449"
+    ],
+    "47869": [
+      "47869"
+    ],
+    "50488": [
+      "50488"
+    ],
+    "51064": [
+      "51064"
+    ],
+    "48027": [
+      "48027"
+    ],
+    "50739": [
+      "50739"
+    ],
+    "49441": [
+      "49441",
+      "47847"
+    ],
+    "50140": [
+      "50140"
+    ],
+    "48349": [
+      "48349"
+    ],
+    "48228": [
+      "48228"
+    ],
+    "49813": [
+      "49813"
+    ],
+    "48148": [
+      "48148"
+    ],
+    "47785": [
+      "47785"
+    ],
+    "50096": [
+      "50096"
+    ],
+    "47712": [
+      "47712"
+    ],
+    "50912": [
+      "50912"
+    ],
+    "47751": [
+      "47751"
+    ],
+    "48628": [
+      "48628"
+    ],
+    "47681": [
+      "47681"
+    ],
+    "51101": [
+      "51101"
+    ],
+    "48935": [
+      "48935"
+    ],
+    "48043": [
+      "48043"
+    ],
+    "49094": [
+      "49094"
+    ],
+    "49295": [
+      "49295"
+    ],
+    "51047": [
+      "51047"
+    ],
+    "50583": [
+      "50583"
+    ],
+    "49705": [
+      "49705"
+    ],
+    "48655": [
+      "48655"
+    ],
+    "51008": [
+      "51008"
+    ],
+    "50773": [
+      "50773"
+    ],
+    "49689": [
+      "49689"
+    ],
+    "48551": [
+      "48551"
+    ],
+    "50582": [
+      "50582"
+    ],
+    "50127": [
+      "50127"
+    ],
+    "48807": [
+      "48807"
+    ],
+    "48004": [
+      "48004"
+    ],
+    "50302": [
+      "50302"
+    ],
+    "51060": [
+      "51060"
+    ],
+    "50612": [
+      "50612"
+    ],
+    "50854": [
+      "50854"
+    ],
+    "48045": [
+      "48045"
+    ],
+    "48854": [
+      "48854"
+    ],
+    "49465": [
+      "49465"
+    ],
+    "48361": [
+      "48361"
+    ],
+    "50022": [
+      "50022"
+    ],
+    "50846": [
+      "50846"
+    ],
+    "49369": [
+      "49369"
+    ],
+    "49580": [
+      "49580"
+    ],
+    "49855": [
+      "49855"
+    ],
+    "49792": [
+      "49792"
+    ],
+    "47787": [
+      "47787"
+    ],
+    "47720": [
+      "47720"
+    ],
+    "48396": [
+      "48396"
+    ],
+    "49075": [
+      "49075"
+    ],
+    "48068": [
+      "48068"
+    ],
+    "48377": [
+      "48377"
+    ],
+    "50933": [
+      "50933"
+    ],
+    "49218": [
+      "49218"
+    ],
+    "50369": [
+      "50369"
+    ],
+    "50670": [
+      "50670"
+    ],
+    "50432": [
+      "50432"
+    ],
+    "50439": [
+      "50439"
+    ],
+    "49842": [
+      "49842"
+    ],
+    "49307": [
+      "49307"
+    ],
+    "49834": [
+      "49834"
+    ],
+    "49983": [
+      "49983"
+    ],
+    "49997": [
+      "49997"
+    ],
+    "50197": [
+      "50197"
+    ],
+    "50804": [
+      "50804"
+    ],
+    "50713": [
+      "50713"
+    ],
+    "48911": [
+      "48911"
+    ],
+    "50276": [
+      "50276"
+    ],
+    "48054": [
+      "48054"
+    ],
+    "50827": [
+      "50827"
+    ],
+    "47910": [
+      "47910"
+    ],
+    "50834": [
+      "50834"
+    ],
+    "51125": [
+      "51125"
+    ],
+    "50359": [
+      "50359"
+    ],
+    "50310": [
+      "50310"
+    ],
+    "49850": [
+      "49850"
+    ],
+    "48588": [
+      "48588"
+    ],
+    "50677": [
+      "50677"
+    ],
+    "49380": [
+      "49380"
+    ],
+    "47988": [
+      "47988"
+    ],
+    "48196": [
+      "48196"
+    ],
+    "49164": [
+      "49164"
+    ],
+    "49039": [
+      "49039"
+    ],
+    "48051": [
+      "48051"
+    ],
+    "50719": [
+      "50719"
+    ],
+    "51076": [
+      "51076"
+    ],
+    "47783": [
+      "47783"
+    ],
+    "50527": [
+      "50527"
+    ],
+    "50888": [
+      "50888"
+    ],
+    "51052": [
+      "51052"
+    ],
+    "51099": [
+      "51099"
+    ],
+    "48215": [
+      "48215"
+    ],
+    "49992": [
+      "49992"
+    ],
+    "49764": [
+      "49764"
+    ],
+    "49915": [
+      "49915"
+    ],
+    "48452": [
+      "48452"
+    ],
+    "48900": [
+      "48900"
+    ],
+    "48431": [
+      "48431"
+    ],
+    "49543": [
+      "49543"
+    ],
+    "50574": [
+      "50574"
+    ],
+    "49716": [
+      "49716"
+    ],
+    "48210": [
+      "48210"
+    ],
+    "50503": [
+      "50503"
+    ],
+    "50367": [
+      "50367"
+    ],
+    "49032": [
+      "49032"
+    ],
+    "50463": [
+      "50463"
+    ],
+    "48274": [
+      "48274"
+    ],
+    "50303": [
+      "50303",
+      "47666"
+    ],
+    "50475": [
+      "50475"
+    ],
+    "50802": [
+      "50802"
+    ],
+    "47718": [
+      "47718"
+    ],
+    "48974": [
+      "48974"
+    ],
+    "48052": [
+      "48052"
+    ],
+    "49151": [
+      "49151"
+    ],
+    "48550": [
+      "48550"
+    ],
+    "50464": [
+      "50464"
+    ],
+    "50561": [
+      "50561"
+    ],
+    "47687": [
+      "47687"
+    ],
+    "48225": [
+      "48225"
+    ],
+    "48187": [
+      "48187"
+    ],
+    "49845": [
+      "49845"
+    ],
+    "50697": [
+      "50697"
+    ],
+    "50934": [
+      "50934"
+    ],
+    "50633": [
+      "50633"
+    ],
+    "48917": [
+      "48917"
+    ],
+    "47693": [
+      "47693"
+    ],
+    "48298": [
+      "48298"
+    ],
+    "47679": [
+      "47679"
+    ],
+    "48872": [
+      "48872"
+    ],
+    "48495": [
+      "47708",
+      "48495"
+    ],
+    "50435": [
+      "50435"
+    ],
+    "47875": [
+      "47875"
+    ],
+    "47816": [
+      "47816"
+    ],
+    "49483": [
+      "49483"
+    ],
+    "49223": [
+      "49223"
+    ],
+    "49667": [
+      "49667"
+    ],
+    "49261": [
+      "49261"
+    ],
+    "50881": [
+      "50881"
+    ],
+    "48090": [
+      "48090"
+    ],
+    "48753": [
+      "48753"
+    ],
+    "48963": [
+      "48963"
+    ],
+    "49818": [
+      "49818"
+    ],
+    "48827": [
+      "48827"
+    ],
+    "50255": [
+      "50255"
+    ],
+    "50551": [
+      "50551"
+    ],
+    "49170": [
+      "49170"
+    ],
+    "48530": [
+      "48530"
+    ],
+    "49572": [
+      "49572"
+    ],
+    "50050": [
+      "50050"
+    ],
+    "48578": [
+      "48578"
+    ],
+    "47772": [
+      "47772"
+    ],
+    "48032": [
+      "48032"
+    ],
+    "50926": [
+      "50926"
+    ],
+    "47889": [
+      "47889"
+    ],
+    "48548": [
+      "48548"
+    ],
+    "48918": [
+      "48918"
+    ],
+    "49797": [
+      "49797"
+    ],
+    "50410": [
+      "50410"
+    ],
+    "50890": [
+      "50890"
+    ],
+    "50177": [
+      "50177"
+    ],
+    "47948": [
+      "47948"
+    ],
+    "48046": [
+      "48046"
+    ],
+    "49553": [
+      "49553"
+    ],
+    "50728": [
+      "50728"
+    ],
+    "48962": [
+      "48962"
+    ],
+    "49403": [
+      "49403"
+    ],
+    "49344": [
+      "49344"
+    ],
+    "49323": [
+      "49323"
+    ],
+    "48672": [
+      "48672"
+    ],
+    "50710": [
+      "50710"
+    ],
+    "50048": [
+      "50048"
+    ],
+    "48204": [
+      "48204"
+    ],
+    "48343": [
+      "48343"
+    ],
+    "49068": [
+      "49068"
+    ],
+    "49304": [
+      "49304"
+    ],
+    "50683": [
+      "50683"
+    ],
+    "48261": [
+      "48261"
+    ],
+    "49264": [
+      "49264"
+    ],
+    "48848": [
+      "48848"
+    ],
+    "49195": [
+      "49195"
+    ],
+    "48896": [
+      "48896"
+    ],
+    "50782": [
+      "50782",
+      "48093"
+    ],
+    "48778": [
+      "48778"
+    ],
+    "50680": [
+      "50680"
+    ],
+    "49733": [
+      "49733"
+    ],
+    "48003": [
+      "48003"
+    ],
+    "49648": [
+      "49648"
+    ],
+    "49322": [
+      "49322"
+    ],
+    "47838": [
+      "50546",
+      "47838"
+    ],
+    "50390": [
+      "50390"
+    ],
+    "51114": [
+      "51114"
+    ],
+    "50443": [
+      "50443"
+    ],
+    "48251": [
+      "48251"
+    ],
+    "48433": [
+      "48433"
+    ],
+    "50523": [
+      "50523"
+    ],
+    "48363": [
+      "48363"
+    ],
+    "50228": [
+      "48283",
+      "50228"
+    ],
+    "48596": [
+      "48596"
+    ],
+    "49768": [
+      "49768"
+    ],
+    "49540": [
+      "49540"
+    ],
+    "50672": [
+      "50672"
+    ],
+    "49512": [
+      "49512"
+    ],
+    "49041": [
+      "49041"
+    ],
+    "49362": [
+      "49362"
+    ],
+    "48692": [
+      "48692"
+    ],
+    "50180": [
+      "50180"
+    ],
+    "47699": [
+      "47699"
+    ],
+    "49008": [
+      "49008"
+    ],
+    "50581": [
+      "50581"
+    ],
+    "47695": [
+      "47695"
+    ],
+    "48076": [
+      "48076"
+    ],
+    "49774": [
+      "50455",
+      "49774",
+      "49979"
+    ],
+    "47946": [
+      "47946"
+    ],
+    "47992": [
+      "47992"
+    ],
+    "51095": [
+      "51095"
+    ],
+    "48080": [
+      "48080"
+    ],
+    "47974": [
+      "47974"
+    ],
+    "48333": [
+      "48333"
+    ],
+    "49732": [
+      "49732"
+    ],
+    "48271": [
+      "48271"
+    ],
+    "51089": [
+      "51089"
+    ],
+    "47904": [
+      "47904"
+    ],
+    "48448": [
+      "48448"
+    ],
+    "48073": [
+      "48073"
+    ],
+    "48350": [
+      "48350"
+    ],
+    "48388": [
+      "48388"
+    ],
+    "49189": [
+      "49189"
+    ],
+    "49290": [
+      "49290"
+    ],
+    "48685": [
+      "48685"
+    ],
+    "47742": [
+      "47742"
+    ],
+    "49623": [
+      "49623"
+    ],
+    "50157": [
+      "50157"
+    ],
+    "48477": [
+      "48477"
+    ],
+    "48100": [
+      "48100"
+    ],
+    "49536": [
+      "49536"
+    ],
+    "49121": [
+      "49121"
+    ],
+    "49986": [
+      "49986"
+    ],
+    "50379": [
+      "50379"
+    ],
+    "49893": [
+      "49893"
+    ],
+    "48496": [
+      "48496"
+    ],
+    "49252": [
+      "49252"
+    ],
+    "49911": [
+      "49911"
+    ],
+    "49970": [
+      "49970"
+    ],
+    "49936": [
+      "49936"
+    ],
+    "50038": [
+      "50038"
+    ],
+    "50983": [
+      "50983"
+    ],
+    "50706": [
+      "50706"
+    ],
+    "51018": [
+      "51018"
+    ],
+    "50763": [
+      "50763"
+    ],
+    "48105": [
+      "48105"
+    ],
+    "47739": [
+      "47739"
+    ],
+    "49722": [
+      "49722"
+    ],
+    "49755": [
+      "49755"
+    ],
+    "48528": [
+      "48528",
+      "49664"
+    ],
+    "49778": [
+      "49778"
+    ],
+    "50483": [
+      "50483"
+    ],
+    "49211": [
+      "49211"
+    ],
+    "49586": [
+      "49586"
+    ],
+    "50453": [
+      "50453"
+    ],
+    "50886": [
+      "50886"
+    ],
+    "48999": [
+      "48999"
+    ],
+    "47896": [
+      "47896"
+    ],
+    "47743": [
+      "47743"
+    ],
+    "49475": [
+      "49475"
+    ],
+    "49320": [
+      "49320"
+    ],
+    "48484": [
+      "48484"
+    ],
+    "48714": [
+      "48714"
+    ],
+    "49047": [
+      "49047"
+    ],
+    "49298": [
+      "49298"
+    ],
+    "48879": [
+      "48879"
+    ],
+    "49884": [
+      "49884"
+    ],
+    "48787": [
+      "48787"
+    ],
+    "49115": [
+      "49115"
+    ],
+    "50943": [
+      "50943"
+    ],
+    "49174": [
+      "49174"
+    ],
+    "50721": [
+      "50721"
+    ],
+    "49162": [
+      "49162"
+    ],
+    "48627": [
+      "48627"
+    ],
+    "50550": [
+      "50550"
+    ],
+    "48206": [
+      "48206"
+    ],
+    "50424": [
+      "50424"
+    ],
+    "49227": [
+      "49227"
+    ],
+    "48913": [
+      "48913"
+    ],
+    "49124": [
+      "49124"
+    ],
+    "50433": [
+      "50433"
+    ],
+    "49095": [
+      "49095"
+    ],
+    "50874": [
+      "50874"
+    ],
+    "50655": [
+      "50655"
+    ],
+    "50161": [
+      "50161"
+    ],
+    "49199": [
+      "49199"
+    ],
+    "49851": [
+      "49851"
+    ],
+    "50920": [
+      "50920"
+    ],
+    "49481": [
+      "49481"
+    ],
+    "47849": [
+      "47849"
+    ],
+    "50351": [
+      "50351"
+    ],
+    "49817": [
+      "49817"
+    ],
+    "49695": [
+      "49695"
+    ],
+    "50952": [
+      "50952"
+    ],
+    "48602": [
+      "48602"
+    ],
+    "50865": [
+      "50865"
+    ],
+    "50748": [
+      "50748"
+    ],
+    "50492": [
+      "50492"
+    ],
+    "50295": [
+      "50295"
+    ],
+    "48013": [
+      "48013"
+    ],
+    "49244": [
+      "49244"
+    ],
+    "49870": [
+      "49870"
+    ],
+    "50146": [
+      "50146"
+    ],
+    "49856": [
+      "49856"
+    ],
+    "47995": [
+      "47995"
+    ],
+    "48255": [
+      "48255"
+    ],
+    "48478": [
+      "48478"
+    ],
+    "49187": [
+      "49187"
+    ],
+    "49066": [
+      "49066"
+    ],
+    "50358": [
+      "50358"
+    ],
+    "50589": [
+      "50589"
+    ],
+    "48569": [
+      "48569"
+    ],
+    "48560": [
+      "48560"
+    ],
+    "49470": [
+      "49470"
+    ],
+    "49106": [
+      "49106"
+    ],
+    "49013": [
+      "49013"
+    ],
+    "47912": [
+      "47912"
+    ],
+    "49399": [
+      "49399"
+    ],
+    "48657": [
+      "48657"
+    ],
+    "50716": [
+      "50716"
+    ],
+    "47673": [
+      "47673"
+    ],
+    "49172": [
+      "49172"
+    ],
+    "50873": [
+      "50873"
+    ],
+    "48658": [
+      "48658"
+    ],
+    "48540": [
+      "48540"
+    ],
+    "49374": [
+      "49374"
+    ],
+    "50081": [
+      "50081"
+    ],
+    "48056": [
+      "48056"
+    ],
+    "50871": [
+      "50871"
+    ],
+    "50629": [
+      "50629"
+    ],
+    "49793": [
+      "49793"
+    ],
+    "48007": [
+      "48007"
+    ],
+    "47886": [
+      "47886"
+    ],
+    "49210": [
+      "49210"
+    ],
+    "47722": [
+      "47722"
+    ],
+    "49869": [
+      "49869"
+    ],
+    "48362": [
+      "48362"
+    ],
+    "50695": [
+      "50695"
+    ],
+    "50784": [
+      "50784"
+    ],
+    "48092": [
+      "48092"
+    ],
+    "48121": [
+      "48121"
+    ],
+    "48382": [
+      "48382"
+    ],
+    "47807": [
+      "47807"
+    ],
+    "50590": [
+      "50590"
+    ],
+    "48654": [
+      "48654"
+    ],
+    "50315": [
+      "50315"
+    ],
+    "49038": [
+      "49038"
+    ],
+    "48944": [
+      "48944"
+    ],
+    "48616": [
+      "48616"
+    ],
+    "49071": [
+      "49071"
+    ],
+    "49012": [
+      "49012"
+    ],
+    "47677": [
+      "47677"
+    ],
+    "48623": [
+      "48623"
+    ],
+    "50077": [
+      "50077"
+    ],
+    "48344": [
+      "48344"
+    ],
+    "51098": [
+      "51098"
+    ],
+    "50966": [
+      "50966"
+    ],
+    "48737": [
+      "48737"
+    ],
+    "48533": [
+      "48533"
+    ],
+    "49159": [
+      "49159"
+    ],
+    "49696": [
+      "49696"
+    ],
+    "49734": [
+      "49734"
+    ],
+    "48185": [
+      "48185"
+    ],
+    "47830": [
+      "47830"
+    ],
+    "50394": [
+      "50394"
+    ],
+    "49751": [
+      "49751"
+    ],
+    "50691": [
+      "50691"
+    ],
+    "48340": [
+      "48340"
+    ],
+    "49567": [
+      "49567"
+    ],
+    "48768": [
+      "48768"
+    ],
+    "50327": [
+      "50327"
+    ],
+    "50120": [
+      "50120"
+    ],
+    "48670": [
+      "48670"
+    ],
+    "49679": [
+      "49679"
+    ],
+    "47853": [
+      "47853"
+    ],
+    "49557": [
+      "49557"
+    ],
+    "50076": [
+      "50076"
+    ],
+    "48088": [
+      "48088"
+    ],
+    "50287": [
+      "50287"
+    ],
+    "50830": [
+      "50830"
+    ],
+    "48011": [
+      "48011"
+    ],
+    "49967": [
+      "49967"
+    ],
+    "50336": [
+      "50336"
+    ],
+    "49285": [
+      "49285"
+    ],
+    "48797": [
+      "48797"
+    ],
+    "49848": [
+      "49848"
+    ],
+    "48597": [
+      "48597"
+    ],
+    "50381": [
+      "50381"
+    ],
+    "50101": [
+      "50101"
+    ],
+    "48652": [
+      "48652"
+    ],
+    "48327": [
+      "48327"
+    ],
+    "50618": [
+      "50618"
+    ],
+    "48750": [
+      "51112",
+      "48750"
+    ],
+    "49188": [
+      "49188"
+    ],
+    "49118": [
+      "49118"
+    ],
+    "49116": [
+      "49116"
+    ],
+    "51046": [
+      "51046"
+    ],
+    "49846": [
+      "49846"
+    ],
+    "49237": [
+      "49237"
+    ],
+    "48082": [
+      "48082"
+    ],
+    "49006": [
+      "49006"
+    ],
+    "48790": [
+      "48790"
+    ],
+    "47716": [
+      "47716"
+    ],
+    "50816": [
+      "50816"
+    ],
+    "50500": [
+      "50500"
+    ],
+    "49359": [
+      "49359"
+    ],
+    "49423": [
+      "49423"
+    ],
+    "47662": [
+      "47662"
+    ],
+    "47961": [
+      "47961"
+    ],
+    "47980": [
+      "47980"
+    ],
+    "48813": [
+      "48813"
+    ],
+    "49283": [
+      "49283"
+    ],
+    "47717": [
+      "47717"
+    ],
+    "49548": [
+      "49548"
+    ],
+    "48381": [
+      "48381"
+    ],
+    "50738": [
+      "50738"
+    ],
+    "48749": [
+      "48749"
+    ],
+    "50178": [
+      "50178"
+    ],
+    "49887": [
+      "49887"
+    ],
+    "49585": [
+      "49585"
+    ],
+    "49196": [
+      "49196"
+    ],
+    "50305": [
+      "50305"
+    ],
+    "49523": [
+      "49523"
+    ],
+    "50259": [
+      "50259"
+    ],
+    "48059": [
+      "48059"
+    ],
+    "51061": [
+      "51061"
+    ],
+    "49046": [
+      "49046"
+    ],
+    "49275": [
+      "49275"
+    ],
+    "49271": [
+      "49271"
+    ],
+    "48234": [
+      "48234"
+    ],
+    "50245": [
+      "50245"
+    ],
+    "50292": [
+      "50292"
+    ],
+    "49861": [
+      "49861"
+    ],
+    "51038": [
+      "51038"
+    ],
+    "50176": [
+      "50176"
+    ],
+    "48743": [
+      "48743"
+    ],
+    "49112": [
+      "49112"
+    ],
+    "49614": [
+      "49614"
+    ],
+    "50243": [
+      "50243"
+    ],
+    "48840": [
+      "48840"
+    ],
+    "47868": [
+      "47868"
+    ],
+    "51108": [
+      "51108"
+    ],
+    "49402": [
+      "49402"
+    ],
+    "49542": [
+      "49542"
+    ],
+    "48502": [
+      "48502"
+    ],
+    "49436": [
+      "49436"
+    ],
+    "50124": [
+      "50124"
+    ],
+    "48586": [
+      "48586"
+    ],
+    "48875": [
+      "48875"
+    ],
+    "48296": [
+      "48296"
+    ],
+    "49185": [
+      "49185"
+    ],
+    "50982": [
+      "50982"
+    ],
+    "47773": [
+      "47773"
+    ],
+    "49036": [
+      "49036",
+      "49631"
+    ],
+    "50899": [
+      "50899"
+    ],
+    "49906": [
+      "49906"
+    ],
+    "47674": [
+      "47674"
+    ],
+    "47745": [
+      "47745"
+    ],
+    "49259": [
+      "49259"
+    ],
+    "50368": [
+      "50368"
+    ],
+    "50122": [
+      "50122"
+    ],
+    "49872": [
+      "49872"
+    ],
+    "48515": [
+      "48515"
+    ],
+    "48862": [
+      "48862"
+    ],
+    "48776": [
+      "48776"
+    ],
+    "48783": [
+      "48783"
+    ],
+    "48667": [
+      "48667"
+    ],
+    "50568": [
+      "50568"
+    ],
+    "49680": [
+      "49680"
+    ],
+    "47814": [
+      "47814"
+    ],
+    "47977": [
+      "47977"
+    ],
+    "47763": [
+      "47763"
+    ],
+    "48587": [
+      "48587"
+    ],
+    "50758": [
+      "50758"
+    ],
+    "49794": [
+      "49794"
+    ],
+    "49081": [
+      "49081"
+    ],
+    "50709": [
+      "50709"
+    ],
+    "47710": [
+      "47710"
+    ],
+    "50559": [
+      "50559"
+    ],
+    "49155": [
+      "49155"
+    ],
+    "49701": [
+      "49701"
+    ],
+    "48888": [
+      "48888"
+    ],
+    "50175": [
+      "50175"
+    ],
+    "48091": [
+      "48091"
+    ],
+    "48008": [
+      "48008"
+    ],
+    "50730": [
+      "50730"
+    ],
+    "47696": [
+      "47696"
+    ],
+    "48718": [
+      "48718"
+    ],
+    "49704": [
+      "49704"
+    ],
+    "48964": [
+      "48964"
+    ],
+    "48108": [
+      "48108"
+    ],
+    "48804": [
+      "48804"
+    ],
+    "51086": [
+      "51086"
+    ],
+    "50229": [
+      "50229"
+    ],
+    "47885": [
+      "47885"
+    ],
+    "48063": [
+      "48063"
+    ],
+    "48293": [
+      "48293"
+    ],
+    "49219": [
+      "49219"
+    ],
+    "50526": [
+      "50526"
+    ],
+    "47668": [
+      "47668"
+    ],
+    "48928": [
+      "48928"
+    ],
+    "48936": [
+      "48936"
+    ],
+    "49569": [
+      "49569"
+    ],
+    "49023": [
+      "49023"
+    ],
+    "50688": [
+      "50688"
+    ],
+    "48824": [
+      "48824"
+    ],
+    "50402": [
+      "50402"
+    ],
+    "50172": [
+      "50172"
+    ],
+    "50248": [
+      "50248"
+    ],
+    "48364": [
+      "48364"
+    ],
+    "47678": [
+      "47678"
+    ],
+    "50780": [
+      "50780"
+    ],
+    "48740": [
+      "48740"
+    ],
+    "48486": [
+      "48486"
+    ],
+    "50497": [
+      "50497"
+    ],
+    "49319": [
+      "49319"
+    ],
+    "47971": [
+      "47971"
+    ],
+    "50277": [
+      "50277"
+    ],
+    "50895": [
+      "50895"
+    ],
+    "49062": [
+      "49062"
+    ],
+    "50339": [
+      "50339"
+    ],
+    "47676": [
+      "47676"
+    ],
+    "48926": [
+      "48926"
+    ],
+    "49838": [
+      "49838"
+    ],
+    "48265": [
+      "48265"
+    ],
+    "48438": [
+      "48438"
+    ],
+    "48064": [
+      "48064"
+    ],
+    "48353": [
+      "48353"
+    ],
+    "49939": [
+      "49939"
+    ],
+    "47756": [
+      "47756"
+    ],
+    "47732": [
+      "47732"
+    ],
+    "47906": [
+      "47906"
+    ],
+    "47865": [
+      "47865"
+    ],
+    "50530": [
+      "50530"
+    ],
+    "50375": [
+      "50375"
+    ],
+    "50138": [
+      "50138"
+    ],
+    "49591": [
+      "49591"
+    ],
+    "49555": [
+      "49555"
+    ],
+    "50960": [
+      "50960"
+    ],
+    "49674": [
+      "49674"
+    ],
+    "47690": [
+      "47690"
+    ],
+    "47688": [
+      "47688"
+    ],
+    "50073": [
+      "50073"
+    ],
+    "49577": [
+      "49577"
+    ],
+    "49853": [
+      "49853"
+    ],
+    "49504": [
+      "49504"
+    ],
+    "49808": [
+      "49808"
+    ],
+    "48701": [
+      "48701"
+    ],
+    "48634": [
+      "48634"
+    ],
+    "50452": [
+      "50452"
+    ],
+    "49718": [
+      "49718"
+    ],
+    "48132": [
+      "48132"
+    ],
+    "48057": [
+      "48057"
+    ],
+    "50805": [
+      "50805"
+    ],
+    "48239": [
+      "48239"
+    ],
+    "48971": [
+      "48971"
+    ],
+    "50396": [
+      "50396"
+    ],
+    "48139": [
+      "48139"
+    ],
+    "50456": [
+      "50456"
+    ],
+    "47709": [
+      "47709"
+    ],
+    "49720": [
+      "49720"
+    ],
+    "49981": [
+      "49981"
+    ],
+    "50458": [
+      "50458"
+    ],
+    "49896": [
+      "49896"
+    ],
+    "50510": [
+      "50510"
+    ],
+    "48446": [
+      "48446"
+    ],
+    "50587": [
+      "50587"
+    ],
+    "50337": [
+      "50337"
+    ],
+    "48689": [
+      "48689"
+    ],
+    "48237": [
+      "48237"
+    ],
+    "48491": [
+      "48491"
+    ],
+    "47733": [
+      "47733"
+    ],
+    "49885": [
+      "49885"
+    ],
+    "49141": [
+      "49141"
+    ],
+    "48742": [
+      "48742"
+    ],
+    "48171": [
+      "48171"
+    ],
+    "48745": [
+      "48745"
+    ],
+    "49154": [
+      "49154"
+    ],
+    "49630": [
+      "49630"
+    ],
+    "49245": [
+      "49245"
+    ],
+    "47727": [
+      "47727"
+    ],
+    "49173": [
+      "49173"
+    ],
+    "50469": [
+      "50469"
+    ],
+    "50016": [
+      "50016"
+    ],
+    "47978": [
+      "47978"
+    ],
+    "47970": [
+      "47970"
+    ],
+    "49491": [
+      "49491"
+    ],
+    "49464": [
+      "49464"
+    ],
+    "49559": [
+      "49559"
+    ],
+    "48924": [
+      "48924"
+    ],
+    "50117": [
+      "50117"
+    ],
+    "49820": [
+      "49820"
+    ],
+    "48752": [
+      "48752"
+    ],
+    "48243": [
+      "48243"
+    ],
+    "47883": [
+      "47883"
+    ],
+    "50171": [
+      "50171"
+    ],
+    "49735": [
+      "49735"
+    ],
+    "49684": [
+      "49684"
+    ],
+    "50444": [
+      "50444"
+    ],
+    "50603": [
+      "50603"
+    ],
+    "50036": [
+      "50036"
+    ],
+    "49377": [
+      "49377"
+    ],
+    "49592": [
+      "49592"
+    ],
+    "49037": [
+      "49037"
+    ],
+    "49005": [
+      "49005"
+    ],
+    "48010": [
+      "48010"
+    ],
+    "50694": [
+      "50694"
+    ],
+    "47702": [
+      "47702"
+    ],
+    "48279": [
+      "48279"
+    ],
+    "49514": [
+      "49514"
+    ],
+    "48062": [
+      "48062"
+    ],
+    "47663": [
+      "47663"
+    ],
+    "47901": [
+      "47901"
+    ],
+    "51004": [
+      "50148",
+      "51004"
+    ],
+    "49671": [
+      "49671"
+    ],
+    "50542": [
+      "50542"
+    ],
+    "49600": [
+      "49600"
+    ],
+    "48320": [
+      "48320"
+    ],
+    "50957": [
+      "50957"
+    ],
+    "49879": [
+      "49879"
+    ],
+    "50191": [
+      "50191"
+    ],
+    "48462": [
+      "48462"
+    ],
+    "47812": [
+      "47812"
+    ],
+    "48128": [
+      "48128"
+    ],
+    "47817": [
+      "47817"
+    ],
+    "48212": [
+      "48212"
+    ],
+    "51049": [
+      "51049"
+    ],
+    "50353": [
+      "50353"
+    ],
+    "50113": [
+      "50113"
+    ],
+    "51085": [
+      "51085"
+    ],
+    "47837": [
+      "47837"
+    ],
+    "48145": [
+      "48145"
+    ],
+    "50571": [
+      "50571"
+    ],
+    "49387": [
+      "49387"
+    ],
+    "50253": [
+      "50253"
+    ],
+    "48240": [
+      "48240"
+    ],
+    "49763": [
+      "49763"
+    ],
+    "49451": [
+      "49451"
+    ],
+    "49554": [
+      "49554"
+    ],
+    "49193": [
+      "49193"
+    ],
+    "47839": [
+      "47839"
+    ],
+    "49410": [
+      "49410"
+    ],
+    "48894": [
+      "48894"
+    ],
+    "49960": [
+      "49960"
+    ],
+    "49657": [
+      "49657"
+    ],
+    "50545": [
+      "50545"
+    ],
+    "49127": [
+      "49127"
+    ],
+    "48914": [
+      "48914"
+    ],
+    "50849": [
+      "50849"
+    ],
+    "48354": [
+      "48354"
+    ],
+    "48205": [
+      "48205"
+    ],
+    "50727": [
+      "50727"
+    ],
+    "48808": [
+      "48808"
+    ],
+    "51003": [
+      "51003"
+    ],
+    "50698": [
+      "50698"
+    ],
+    "49697": [
+      "49697"
+    ],
+    "50314": [
+      "50314"
+    ],
+    "50039": [
+      "50039"
+    ],
+    "47841": [
+      "47841"
+    ],
+    "47758": [
+      "47758"
+    ],
+    "50479": [
+      "50479"
+    ],
+    "50675": [
+      "50675"
+    ],
+    "50407": [
+      "50407"
+    ],
+    "50534": [
+      "50534"
+    ],
+    "48241": [
+      "48241"
+    ],
+    "48603": [
+      "48603"
+    ],
+    "50293": [
+      "50293"
+    ],
+    "49267": [
+      "49267"
+    ],
+    "48155": [
+      "48155"
+    ],
+    "47860": [
+      "47860"
+    ],
+    "50207": [
+      "50207"
+    ],
+    "48436": [
+      "48436"
+    ],
+    "48072": [
+      "48072"
+    ],
+    "49883": [
+      "49883"
+    ],
+    "50256": [
+      "50256"
+    ],
+    "48885": [
+      "48885"
+    ],
+    "48309": [
+      "48309"
+    ],
+    "49638": [
+      "49638"
+    ],
+    "50996": [
+      "50996"
+    ],
+    "50019": [
+      "50019"
+    ],
+    "50254": [
+      "50254"
+    ],
+    "50296": [
+      "50296"
+    ],
+    "48044": [
+      "48044"
+    ],
+    "48546": [
+      "48546"
+    ],
+    "50257": [
+      "50257"
+    ],
+    "47979": [
+      "47979"
+    ],
+    "50987": [
+      "50987"
+    ],
+    "50644": [
+      "50644"
+    ],
+    "50896": [
+      "50896"
+    ],
+    "49108": [
+      "49108"
+    ],
+    "49731": [
+      "49731"
+    ],
+    "48390": [
+      "48390"
+    ],
+    "47990": [
+      "47990"
+    ],
+    "47919": [
+      "47919"
+    ],
+    "48712": [
+      "48712"
+    ],
+    "50924": [
+      "50924"
+    ],
+    "48475": [
+      "48475"
+    ],
+    "48544": [
+      "48544"
+    ],
+    "50387": [
+      "50387"
+    ],
+    "50393": [
+      "50393"
+    ],
+    "49663": [
+      "49663"
+    ],
+    "48514": [
+      "48514"
+    ],
+    "50143": [
+      "50143"
+    ],
+    "50035": [
+      "50035"
+    ],
+    "49302": [
+      "49302"
+    ],
+    "50214": [
+      "50214"
+    ],
+    "50623": [
+      "50623"
+    ],
+    "49318": [
+      "49318"
+    ],
+    "50185": [
+      "50185"
+    ],
+    "50711": [
+      "50711"
+    ],
+    "48260": [
+      "48260"
+    ],
+    "48464": [
+      "48464"
+    ],
+    "49843": [
+      "49843"
+    ],
+    "48636": [
+      "48636"
+    ],
+    "48629": [
+      "48629"
+    ],
+    "48238": [
+      "48238"
+    ],
+    "50847": [
+      "50847"
+    ],
+    "49427": [
+      "49427"
+    ],
+    "50471": [
+      "50471"
+    ],
+    "50097": [
+      "50097"
+    ],
+    "49998": [
+      "49998"
+    ],
+    "50862": [
+      "50862"
+    ],
+    "50814": [
+      "50814"
+    ],
+    "50331": [
+      "50331"
+    ],
+    "49256": [
+      "49256"
+    ],
+    "49509": [
+      "49509"
+    ],
+    "47821": [
+      "47821"
+    ],
+    "50383": [
+      "50383"
+    ],
+    "50468": [
+      "50468"
+    ],
+    "50473": [
+      "50473"
+    ],
+    "48189": [
+      "48189"
+    ],
+    "48595": [
+      "48595"
+    ],
+    "49935": [
+      "49935"
+    ],
+    "50434": [
+      "50434"
+    ],
+    "49086": [
+      "49086"
+    ],
+    "50291": [
+      "50291"
+    ],
+    "49139": [
+      "49139"
+    ],
+    "49880": [
+      "49880"
+    ],
+    "48039": [
+      "48039"
+    ],
+    "49500": [
+      "49500"
+    ],
+    "48653": [
+      "48653"
+    ],
+    "49830": [
+      "49830"
+    ],
+    "49707": [
+      "49707"
+    ],
+    "49480": [
+      "49480"
+    ],
+    "51011": [
+      "51011"
+    ],
+    "51074": [
+      "51074"
+    ],
+    "48181": [
+      "48181"
+    ],
+    "49741": [
+      "49741"
+    ],
+    "49030": [
+      "49030"
+    ],
+    "48991": [
+      "48991"
+    ],
+    "49487": [
+      "49487"
+    ],
+    "50536": [
+      "50536"
+    ],
+    "50125": [
+      "50125"
+    ],
+    "49803": [
+      "49803"
+    ],
+    "49937": [
+      "49937"
+    ],
+    "50687": [
+      "50687"
+    ],
+    "48951": [
+      "48951"
+    ],
+    "48334": [
+      "48334"
+    ],
+    "50100": [
+      "50100"
+    ],
+    "47848": [
+      "47848"
+    ],
+    "47771": [
+      "47771"
+    ],
+    "49502": [
+      "49502"
+    ],
+    "50414": [
+      "50414"
+    ],
+    "48864": [
+      "48864"
+    ],
+    "50063": [
+      "50063"
+    ],
+    "50489": [
+      "50489"
+    ],
+    "48018": [
+      "48018"
+    ],
+    "48762": [
+      "48762"
+    ],
+    "48635": [
+      "48635"
+    ],
+    "48694": [
+      "48694"
+    ],
+    "48152": [
+      "48152"
+    ],
+    "50786": [
+      "50786"
+    ],
+    "48177": [
+      "48177"
+    ],
+    "49078": [
+      "49078"
+    ],
+    "49471": [
+      "49471"
+    ],
+    "49652": [
+      "49652"
+    ],
+    "48836": [
+      "48836"
+    ],
+    "49479": [
+      "49479"
+    ],
+    "51022": [
+      "51022"
+    ],
+    "48035": [
+      "48035"
+    ],
+    "50098": [
+      "50098"
+    ],
+    "47704": [
+      "47704"
+    ],
+    "50537": [
+      "50537"
+    ],
+    "51016": [
+      "51016"
+    ],
+    "49999": [
+      "49999"
+    ],
+    "48988": [
+      "48988"
+    ],
+    "50224": [
+      "50224"
+    ],
+    "48278": [
+      "48278"
+    ],
+    "50998": [
+      "50998"
+    ],
+    "50856": [
+      "50856"
+    ],
+    "47867": [
+      "47867"
+    ],
+    "49629": [
+      "49629"
+    ],
+    "48780": [
+      "48780"
+    ],
+    "48835": [
+      "48835"
+    ],
+    "50959": [
+      "50959"
+    ],
+    "49624": [
+      "50135",
+      "49624"
+    ],
+    "48168": [
+      "48168"
+    ],
+    "50806": [
+      "50806"
+    ],
+    "51124": [
+      "51124"
+    ],
+    "49505": [
+      "49505"
+    ],
+    "48681": [
+      "48681"
+    ],
+    "50201": [
+      "50201"
+    ],
+    "51088": [
+      "51088"
+    ],
+    "51111": [
+      "51111"
+    ],
+    "48311": [
+      "48311"
+    ],
+    "49105": [
+      "49105"
+    ],
+    "48645": [
+      "48645"
+    ],
+    "47698": [
+      "47698"
+    ],
+    "51080": [
+      "51080"
+    ],
+    "48016": [
+      "48016"
+    ],
+    "49122": [
+      "49122"
+    ],
+    "50499": [
+      "50499"
+    ],
+    "49100": [
+      "49100"
+    ],
+    "48570": [
+      "48570"
+    ],
+    "48770": [
+      "48770"
+    ],
+    "50205": [
+      "50205"
+    ],
+    "50329": [
+      "50329"
+    ],
+    "48852": [
+      "48852"
+    ],
+    "50911": [
+      "50911"
+    ],
+    "51069": [
+      "51069"
+    ],
+    "49278": [
+      "49278"
+    ],
+    "50529": [
+      "50529"
+    ],
+    "48789": [
+      "48789"
+    ],
+    "49875": [
+      "49875"
+    ],
+    "48453": [
+      "48453"
+    ],
+    "49812": [
+      "49812"
+    ],
+    "49485": [
+      "49485"
+    ],
+    "50065": [
+      "50065"
+    ],
+    "50984": [
+      "50984"
+    ],
+    "49602": [
+      "49602"
+    ],
+    "49599": [
+      "49599"
+    ],
+    "49412": [
+      "49412"
+    ],
+    "48324": [
+      "48324"
+    ],
+    "49144": [
+      "49144"
+    ],
+    "49608": [
+      "49608"
+    ],
+    "48802": [
+      "48802"
+    ],
+    "49492": [
+      "49492"
+    ],
+    "49228": [
+      "49228"
+    ],
+    "50377": [
+      "50377"
+    ],
+    "50349": [
+      "50349"
+    ],
+    "48503": [
+      "48503"
+    ],
+    "48083": [
+      "48083"
+    ],
+    "50128": [
+      "50128"
+    ],
+    "49933": [
+      "49933"
+    ],
+    "50106": [
+      "50106"
+    ],
+    "49309": [
+      "49309"
+    ],
+    "49791": [
+      "49791"
+    ],
+    "48816": [
+      "48816"
+    ],
+    "48676": [
+      "48676"
+    ],
+    "50522": [
+      "50522"
+    ],
+    "50426": [
+      "50426"
+    ],
+    "48323": [
+      "48323"
+    ],
+    "48019": [
+      "48019"
+    ],
+    "50163": [
+      "50163"
+    ],
+    "49595": [
+      "49595"
+    ],
+    "48843": [
+      "48843"
+    ],
+    "49220": [
+      "49220"
+    ],
+    "49202": [
+      "49202"
+    ],
+    "48554": [
+      "48554"
+    ],
+    "51013": [
+      "51013"
+    ],
+    "48538": [
+      "48538"
+    ],
+    "48876": [
+      "48876"
+    ],
+    "49263": [
+      "49263"
+    ],
+    "48883": [
+      "48883"
+    ],
+    "49326": [
+      "49326"
+    ],
+    "50517": [
+      "50517"
+    ],
+    "49780": [
+      "49780"
+    ],
+    "48162": [
+      "48162"
+    ],
+    "48208": [
+      "48208"
+    ],
+    "49497": [
+      "49497"
+    ],
+    "47762": [
+      "47762"
+    ],
+    "50817": [
+      "50817"
+    ],
+    "48940": [
+      "48940"
+    ],
+    "49958": [
+      "49958"
+    ],
+    "49221": [
+      "49221"
+    ],
+    "48687": [
+      "48687"
+    ],
+    "48075": [
+      "48075"
+    ],
+    "50104": [
+      "50104"
+    ],
+    "48823": [
+      "48823"
+    ],
+    "50699": [
+      "50699"
+    ],
+    "50082": [
+      "50082"
+    ],
+    "48786": [
+      "48786"
+    ],
+    "49669": [
+      "49669"
+    ],
+    "47757": [
+      "47757"
+    ],
+    "51019": [
+      "51019"
+    ],
+    "49866": [
+      "49866"
+    ],
+    "48591": [
+      "48591"
+    ],
+    "50682": [
+      "50682"
+    ],
+    "49721": [
+      "49721"
+    ],
+    "48401": [
+      "48401"
+    ],
+    "48677": [
+      "48677"
+    ],
+    "50665": [
+      "50665"
+    ],
+    "48553": [
+      "48553"
+    ],
+    "49823": [
+      "49823"
+    ],
+    "50280": [
+      "49282",
+      "50280"
+    ],
+    "49833": [
+      "49833"
+    ],
+    "48355": [
+      "48355",
+      "48055"
+    ],
+    "48684": [
+      "48684"
+    ],
+    "49498": [
+      "49498"
+    ],
+    "50641": [
+      "50641"
+    ],
+    "49601": [
+      "49601"
+    ],
+    "50750": [
+      "50750"
+    ],
+    "48085": [
+      "48085"
+    ],
+    "48673": [
+      "48673"
+    ],
+    "49366": [
+      "49366"
+    ],
+    "48303": [
+      "48303"
+    ],
+    "50062": [
+      "50062"
+    ],
+    "48482": [
+      "48482"
+    ],
+    "48308": [
+      "48308"
+    ],
+    "49495": [
+      "49495"
+    ],
+    "49044": [
+      "49044"
+    ],
+    "48347": [
+      "48347"
+    ],
+    "47877": [
+      "47877"
+    ],
+    "48074": [
+      "48074"
+    ],
+    "48567": [
+      "48567"
+    ],
+    "50487": [
+      "50487"
+    ],
+    "49296": [
+      "49296"
+    ],
+    "49713": [
+      "49713"
+    ],
+    "47870": [
+      "47870"
+    ],
+    "49408": [
+      "49408"
+    ],
+    "50330": [
+      "50330"
+    ],
+    "49607": [
+      "49607"
+    ],
+    "48532": [
+      "48532"
+    ],
+    "48469": [
+      "48469"
+    ],
+    "48490": [
+      "48490"
+    ],
+    "48598": [
+      "48598"
+    ],
+    "50852": [
+      "50852"
+    ],
+    "50855": [
+      "50855"
+    ],
+    "50907": [
+      "50907"
+    ],
+    "51072": [
+      "51072"
+    ],
+    "50898": [
+      "50898"
+    ],
+    "49858": [
+      "49858"
+    ],
+    "47834": [
+      "47834"
+    ],
+    "49583": [
+      "49583"
+    ],
+    "50298": [
+      "50298"
+    ],
+    "49011": [
+      "49011"
+    ],
+    "50614": [
+      "50614"
+    ],
+    "49114": [
+      "49114"
+    ],
+    "48419": [
+      "48419"
+    ],
+    "48739": [
+      "48739"
+    ],
+    "49841": [
+      "49841"
+    ],
+    "49847": [
+      "49847"
+    ],
+    "48264": [
+      "48264"
+    ],
+    "49457": [
+      "49457"
+    ],
+    "50647": [
+      "50647"
+    ],
+    "48724": [
+      "48724"
+    ],
+    "50294": [
+      "50294"
+    ],
+    "48180": [
+      "48180"
+    ],
+    "49786": [
+      "49786"
+    ],
+    "51014": [
+      "51014"
+    ],
+    "47741": [
+      "47741"
+    ],
+    "50882": [
+      "50882"
+    ],
+    "49865": [
+      "49865"
+    ],
+    "50249": [
+      "50249"
+    ],
+    "51026": [
+      "51026"
+    ],
+    "47950": [
+      "47950"
+    ],
+    "48318": [
+      "48318"
+    ],
+    "48394": [
+      "48394"
+    ],
+    "48539": [
+      "48539"
+    ],
+    "49390": [
+      "49390"
+    ],
+    "48468": [
+      "48468"
+    ],
+    "48465": [
+      "48465"
+    ],
+    "50445": [
+      "50445"
+    ],
+    "50684": [
+      "50684"
+    ],
+    "49310": [
+      "49310"
+    ],
+    "49587": [
+      "49587"
+    ],
+    "50184": [
+      "50184"
+    ],
+    "49510": [
+      "49510"
+    ],
+    "48855": [
+      "48855"
+    ],
+    "48613": [
+      "48613"
+    ],
+    "48273": [
+      "48273"
+    ],
+    "48765": [
+      "48765"
+    ],
+    "48881": [
+      "48881"
+    ],
+    "50607": [
+      "50607"
+    ],
+    "48705": [
+      "48705"
+    ],
+    "49027": [
+      "49027"
+    ],
+    "49507": [
+      "49507"
+    ],
+    "51001": [
+      "51001"
+    ],
+    "50034": [
+      "50034"
+    ],
+    "50555": [
+      "50555"
+    ],
+    "48460": [
+      "48460"
+    ],
+    "49486": [
+      "49486"
+    ],
+    "49395": [
+      "49395"
+    ],
+    "50591": [
+      "50591"
+    ],
+    "49890": [
+      "49890"
+    ],
+    "50420": [
+      "50420"
+    ],
+    "48317": [
+      "48317"
+    ],
+    "50608": [
+      "50608"
+    ],
+    "50043": [
+      "50043"
+    ],
+    "49672": [
+      "49672"
+    ],
+    "50467": [
+      "50467"
+    ],
+    "49819": [
+      "49819"
+    ],
+    "48566": [
+      "48566"
+    ],
+    "47852": [
+      "47852"
+    ],
+    "48814": [
+      "48814"
+    ],
+    "47770": [
+      "47770"
+    ],
+    "48282": [
+      "48282"
+    ],
+    "50893": [
+      "50893"
+    ],
+    "50398": [
+      "50398"
+    ],
+    "47664": [
+      "47664"
+    ],
+    "49446": [
+      "49446"
+    ],
+    "50015": [
+      "50015"
+    ],
+    "48575": [
+      "48575"
+    ],
+    "49090": [
+      "49090"
+    ],
+    "49719": [
+      "49719"
+    ],
+    "48081": [
+      "48081"
+    ],
+    "50674": [
+      "50674"
+    ],
+    "50493": [
+      "50493"
+    ],
+    "50718": [
+      "50718"
+    ],
+    "51007": [
+      "51007"
+    ],
+    "50562": [
+      "50562"
+    ],
+    "48543": [
+      "48543"
+    ],
+    "49783": [
+      "49783"
+    ],
+    "47924": [
+      "47924"
+    ],
+    "48281": [
+      "48281"
+    ],
+    "48000": [
+      "48000"
+    ],
+    "51093": [
+      "51093"
+    ],
+    "50069": [
+      "50069"
+    ],
+    "50332": [
+      "50332"
+    ],
+    "49973": [
+      "49973"
+    ],
+    "48489": [
+      "48489"
+    ],
+    "50774": [
+      "50774"
+    ],
+    "48945": [
+      "48945"
+    ],
+    "50657": [
+      "50657"
+    ],
+    "49565": [
+      "49565"
+    ],
+    "50576": [
+      "50576"
+    ],
+    "50145": [
+      "50145"
+    ],
+    "48738": [
+      "48738"
+    ],
+    "48186": [
+      "48186"
+    ],
+    "48878": [
+      "48878"
+    ],
+    "47683": [
+      "47683"
+    ],
+    "51032": [
+      "51032"
+    ],
+    "50391": [
+      "50391"
+    ],
+    "50264": [
+      "50264"
+    ],
+    "48379": [
+      "48379"
+    ],
+    "50450": [
+      "50450"
+    ],
+    "47828": [
+      "47828"
+    ],
+    "49355": [
+      "49355"
+    ],
+    "48732": [
+      "48732"
+    ],
+    "49649": [
+      "49649"
+    ],
+    "47998": [
+      "47998"
+    ],
+    "48987": [
+      "48987"
+    ],
+    "48555": [
+      "48555"
+    ],
+    "48321": [
+      "48321"
+    ],
+    "51005": [
+      "51005"
+    ],
+    "48458": [
+      "48458"
+    ],
+    "48107": [
+      "48107"
+    ],
+    "47815": [
+      "47815"
+    ],
+    "47934": [
+      "47934"
+    ],
+    "49361": [
+      "49361"
+    ],
+    "48990": [
+      "48990"
+    ],
+    "48447": [
+      "48447"
+    ],
+    "49924": [
+      "49924"
+    ],
+    "50751": [
+      "50751"
+    ],
+    "48147": [
+      "48147"
+    ],
+    "48818": [
+      "48818"
+    ],
+    "47749": [
+      "47749"
+    ],
+    "50736": [
+      "50736"
+    ],
+    "48800": [
+      "48800"
+    ],
+    "50868": [
+      "50868"
+    ],
+    "49551": [
+      "49551"
+    ],
+    "49692": [
+      "49692"
+    ],
+    "48522": [
+      "48522"
+    ],
+    "48932": [
+      "48932",
+      "48418"
+    ],
+    "49190": [
+      "49190"
+    ],
+    "50472": [
+      "50472"
+    ],
+    "48042": [
+      "48042"
+    ],
+    "50059": [
+      "50059"
+    ],
+    "48426": [
+      "48426"
+    ],
+    "47809": [
+      "47809"
+    ],
+    "48284": [
+      "48284"
+    ],
+    "51020": [
+      "51020"
+    ],
+    "48209": [
+      "48209"
+    ],
+    "49694": [
+      "49694"
+    ],
+    "48868": [
+      "48868"
+    ],
+    "51079": [
+      "51079"
+    ],
+    "48809": [
+      "48809"
+    ],
+    "48291": [
+      "48291"
+    ],
+    "50211": [
+      "50211"
+    ],
+    "48413": [
+      "48413"
+    ],
+    "47873": [
+      "47873"
+    ],
+    "50346": [
+      "50346"
+    ],
+    "50958": [
+      "50958"
+    ],
+    "48402": [
+      "48402"
+    ],
+    "50531": [
+      "50531"
+    ],
+    "47818": [
+      "47818"
+    ],
+    "50693": [
+      "50693"
+    ],
+    "49132": [
+      "49132"
+    ],
+    "47905": [
+      "47905"
+    ],
+    "49194": [
+      "49194"
+    ],
+    "48275": [
+      "48275"
+    ],
+    "48422": [
+      "48422"
+    ],
+    "49051": [
+      "49051"
+    ],
+    "50158": [
+      "50158"
+    ],
+    "50794": [
+      "50794"
+    ],
+    "50975": [
+      "50975"
+    ],
+    "49083": [
+      "49083"
+    ],
+    "49860": [
+      "49860"
+    ],
+    "47921": [
+      "47921"
+    ],
+    "48376": [
+      "48376"
+    ],
+    "49940": [
+      "49940"
+    ],
+    "48955": [
+      "48955"
+    ],
+    "49894": [
+      "49894"
+    ],
+    "48916": [
+      "48916"
+    ],
+    "48985": [
+      "48985"
+    ],
+    "50447": [
+      "50447"
+    ],
+    "49859": [
+      "49859"
+    ],
+    "50365": [
+      "50365"
+    ],
+    "48058": [
+      "48058"
+    ],
+    "50318": [
+      "50318"
+    ],
+    "48767": [
+      "48767"
+    ],
+    "49854": [
+      "49854"
+    ],
+    "49363": [
+      "49363"
+    ],
+    "50011": [
+      "50011"
+    ],
+    "49240": [
+      "49240"
+    ],
+    "50074": [
+      "50074"
+    ],
+    "50762": [
+      "50762"
+    ],
+    "50486": [
+      "50486"
+    ],
+    "47969": [
+      "47969"
+    ],
+    "48973": [
+      "48973"
+    ],
+    "48839": [
+      "48839"
+    ],
+    "49598": [
+      "49598"
+    ],
+    "48069": [
+      "48069"
+    ],
+    "50726": [
+      "50726"
+    ],
+    "47754": [
+      "47754"
+    ],
+    "49723": [
+      "49723"
+    ],
+    "48986": [
+      "48986"
+    ],
+    "50861": [
+      "50861"
+    ],
+    "50768": [
+      "50768"
+    ],
+    "50116": [
+      "50116"
+    ],
+    "50454": [
+      "50454"
+    ],
+    "50863": [
+      "50863"
+    ],
+    "50828": [
+      "50828"
+    ],
+    "50628": [
+      "50628"
+    ],
+    "49148": [
+      "49148"
+    ],
+    "48725": [
+      "48725"
+    ],
+    "48182": [
+      "48182"
+    ],
+    "47715": [
+      "47715"
+    ],
+    "47827": [
+      "47827"
+    ],
+    "48559": [
+      "48559"
+    ],
+    "50673": [
+      "50673"
+    ],
+    "50478": [
+      "50478"
+    ],
+    "48536": [
+      "48536"
+    ],
+    "49785": [
+      "49785"
+    ],
+    "50270": [
+      "50270"
+    ],
+    "49339": [
+      "49339"
+    ],
+    "48513": [
+      "48513"
+    ],
+    "50948": [
+      "50948"
+    ],
+    "50851": [
+      "50851"
+    ],
+    "50845": [
+      "50845"
+    ],
+    "49212": [
+      "49212"
+    ],
+    "51119": [
+      "51119"
+    ],
+    "47797": [
+      "47797"
+    ],
+    "49852": [
+      "49852"
+    ],
+    "49338": [
+      "49338"
+    ],
+    "50757": [
+      "50757"
+    ],
+    "50126": [
+      "50126"
+    ],
+    "50752": [
+      "50752"
+    ],
+    "49921": [
+      "49921"
+    ],
+    "48815": [
+      "48815"
+    ],
+    "48937": [
+      "48937"
+    ],
+    "50842": [
+      "50842"
+    ],
+    "50939": [
+      "50939"
+    ],
+    "50962": [
+      "50962"
+    ],
+    "51118": [
+      "51118"
+    ],
+    "51033": [
+      "51033"
+    ],
+    "49736": [
+      "49736"
+    ],
+    "48646": [
+      "48646"
+    ],
+    "48393": [
+      "48393"
+    ],
+    "47899": [
+      "47899"
+    ],
+    "50742": [
+      "50742"
+    ],
+    "48600": [
+      "48600"
+    ],
+    "48747": [
+      "48747"
+    ],
+    "48716": [
+      "48716"
+    ],
+    "51037": [
+      "51037"
+    ],
+    "50416": [
+      "50416"
+    ],
+    "50969": [
+      "50969"
+    ],
+    "48647": [
+      "48647"
+    ],
+    "49900": [
+      "49900"
+    ],
+    "49581": [
+      "49581"
+    ],
+    "50309": [
+      "50309"
+    ],
+    "47788": [
+      "47788"
+    ],
+    "50109": [
+      "50109"
+    ],
+    "49404": [
+      "49404"
+    ],
+    "50273": [
+      "50273"
+    ],
+    "50208": [
+      "50208"
+    ],
+    "50658": [
+      "50658"
+    ],
+    "50844": [
+      "50844"
+    ],
+    "47761": [
+      "47761"
+    ],
+    "50004": [
+      "50004"
+    ],
+    "48227": [
+      "48227"
+    ],
+    "50585": [
+      "50585"
+    ],
+    "49213": [
+      "49213"
+    ],
+    "49712": [
+      "49712"
+    ],
+    "48360": [
+      "48360"
+    ],
+    "48579": [
+      "48579"
+    ],
+    "47765": [
+      "47765"
+    ],
+    "50067": [
+      "50067"
+    ],
+    "49959": [
+      "49959"
+    ],
+    "47960": [
+      "47960"
+    ],
+    "49888": [
+      "49888"
+    ],
+    "49294": [
+      "49294"
+    ],
+    "50666": [
+      "50666"
+    ],
+    "50801": [
+      "50801"
+    ],
+    "49335": [
+      "49335"
+    ],
+    "51010": [
+      "51010"
+    ],
+    "50781": [
+      "50781"
+    ],
+    "49744": [
+      "49744"
+    ],
+    "49383": [
+      "49383"
+    ],
+    "49710": [
+      "49710"
+    ],
+    "50712": [
+      "50712"
+    ],
+    "48470": [
+      "48470"
+    ],
+    "49131": [
+      "49131"
+    ],
+    "49876": [
+      "49876"
+    ],
+    "48201": [
+      "48201"
+    ],
+    "49466": [
+      "49466"
+    ],
+    "48348": [
+      "48348"
+    ],
+    "50935": [
+      "50935"
+    ],
+    "49508": [
+      "49508"
+    ],
+    "50734": [
+      "50734"
+    ],
+    "48906": [
+      "48906"
+    ],
+    "49824": [
+      "49824"
+    ],
+    "49782": [
+      "49782"
+    ],
+    "49117": [
+      "49117"
+    ],
+    "48270": [
+      "48270"
+    ],
+    "50642": [
+      "50642"
+    ],
+    "47949": [
+      "47949"
+    ],
+    "50299": [
+      "50299"
+    ],
+    "48203": [
+      "48203"
+    ],
+    "51105": [
+      "51105"
+    ],
+    "49770": [
+      "49770"
+    ],
+    "51117": [
+      "51117"
+    ],
+    "49434": [
+      "49434"
+    ],
+    "50301": [
+      "50301"
+    ],
+    "50569": [
+      "50569"
+    ],
+    "48176": [
+      "48176"
+    ],
+    "51083": [
+      "51083"
+    ],
+    "48103": [
+      "48103"
+    ],
+    "48223": [
+      "48223"
+    ],
+    "50813": [
+      "50813"
+    ],
+    "49747": [
+      "49747"
+    ],
+    "48117": [
+      "48117"
+    ],
+    "47714": [
+      "47714"
+    ],
+    "49019": [
+      "49019"
+    ],
+    "50632": [
+      "50632"
+    ],
+    "49249": [
+      "49249"
+    ],
+    "48592": [
+      "48592"
+    ],
+    "50286": [
+      "50286"
+    ],
+    "50533": [
+      "50533"
+    ],
+    "49158": [
+      "49158"
+    ],
+    "47740": [
+      "47740"
+    ],
+    "50272": [
+      "50272"
+    ],
+    "49922": [
+      "49922"
+    ],
+    "49972": [
+      "49972"
+    ],
+    "49804": [
+      "49804"
+    ],
+    "49147": [
+      "49147"
+    ],
+    "47746": [
+      "47746"
+    ],
+    "48341": [
+      "48341"
+    ],
+    "50090": [
+      "50090"
+    ],
+    "49459": [
+      "49459"
+    ],
+    "50289": [
+      "50289"
+    ],
+    "50203": [
+      "50203"
+    ],
+    "48310": [
+      "48310"
+    ],
+    "50430": [
+      "50430"
+    ],
+    "49919": [
+      "49919"
+    ],
+    "49273": [
+      "49273"
+    ],
+    "51082": [
+      "51082"
+    ],
+    "49978": [
+      "49978"
+    ],
+    "50800": [
+      "50800"
+    ],
+    "49065": [
+      "49065"
+    ],
+    "49416": [
+      "49416"
+    ],
+    "49754": [
+      "49754"
+    ],
+    "49450": [
+      "49450"
+    ],
+    "48442": [
+      "48442"
+    ],
+    "48009": [
+      "48009"
+    ],
+    "49530": [
+      "49530"
+    ],
+    "50092": [
+      "50092"
+    ],
+    "48070": [
+      "48070"
+    ],
+    "50482": [
+      "50482"
+    ],
+    "48143": [
+      "48143"
+    ],
+    "47705": [
+      "47705"
+    ],
+    "51042": [
+      "51042"
+    ],
+    "49260": [
+      "49260"
+    ],
+    "50288": [
+      "50288"
+    ],
+    "49180": [
+      "49180"
+    ],
+    "50274": [
+      "50274"
+    ],
+    "50160": [
+      "50160"
+    ],
+    "48703": [
+      "48703"
+    ],
+    "48565": [
+      "48565"
+    ],
+    "49136": [
+      "49136"
+    ],
+    "50060": [
+      "50060"
+    ],
+    "48391": [
+      "48391"
+    ],
+    "47840": [
+      "47840"
+    ],
+    "49421": [
+      "49421"
+    ],
+    "51039": [
+      "51039"
+    ],
+    "48751": [
+      "48751"
+    ],
+    "48161": [
+      "48161"
+    ],
+    "47908": [
+      "47908"
+    ],
+    "50238": [
+      "50238"
+    ],
+    "48661": [
+      "48661"
+    ],
+    "50149": [
+      "50149"
+    ],
+    "48884": [
+      "48884"
+    ],
+    "48992": [
+      "48992"
+    ],
+    "49388": [
+      "49388"
+    ],
+    "48969": [
+      "48969"
+    ],
+    "49257": [
+      "49257"
+    ],
+    "50904": [
+      "50904"
+    ],
+    "50980": [
+      "50980"
+    ],
+    "49615": [
+      "49615"
+    ],
+    "50490": [
+      "50490"
+    ],
+    "48392": [
+      "48392"
+    ],
+    "48430": [
+      "48430"
+    ],
+    "50031": [
+      "50031"
+    ],
+    "49107": [
+      "49107"
+    ],
+    "50195": [
+      "50195"
+    ],
+    "50442": [
+      "50442"
+    ],
+    "50518": [
+      "50518"
+    ],
+    "49835": [
+      "49835"
+    ],
+    "49916": [
+      "49916"
+    ],
+    "48029": [
+      "48029"
+    ],
+    "48494": [
+      "48494"
+    ],
+    "49539": [
+      "49539"
+    ]
+  },
+  "unique_author_sets": 268,
+  "author_sets_list": [
+    [
+      "Bobbie Bernier"
+    ],
+    [
+      "Elane Miller"
+    ],
+    [
+      "Boyce Hoeger"
+    ],
+    [
+      "Sean Kassulke"
+    ],
+    [
+      "Rico Zemlak"
+    ],
+    [
+      "Hoyt Jacobson III"
+    ],
+    [
+      "Pres. Donya West"
+    ],
+    [
+      "Lesli Bernier III"
+    ],
+    [
+      "Amb. Elia Lebsack",
+      "Bernard Bayer",
+      "Edmundo Oberbrunner",
+      "Jerry Cormier"
+    ],
+    [
+      "Garth Marvin"
+    ],
+    [
+      "Rosalva Beer"
+    ],
+    [
+      "Robby Powlowski"
+    ],
+    [
+      "Sen. Amber Roberts"
+    ],
+    [
+      "Johnny Russel"
+    ],
+    [
+      "Dr. Pat Kunze"
+    ],
+    [
+      "Franklyn Stokes VM",
+      "Timmy Corwin"
+    ],
+    [
+      "Rosann Wolf VM"
+    ],
+    [
+      "Garth Heidenreich",
+      "Lavon Langosh",
+      "Msgr. Juan Beer"
+    ],
+    [
+      "Matthew Boehm"
+    ],
+    [
+      "Pres. Ariel Runte"
+    ],
+    [
+      "Veronique Carter"
+    ],
+    [
+      "Candis Ledner Sr."
+    ],
+    [
+      "Damian Gulgowski",
+      "Hal Nitzsche"
+    ],
+    [
+      "Kirk Treutel",
+      "Klara Runolfsdottir Sr.",
+      "Lonnie Hilpert"
+    ],
+    [
+      "Benedict Steuber",
+      "Jon Hettinger DVM",
+      "Randal McCullough"
+    ],
+    [
+      "Charlsie Cummerata",
+      "Laureen Herzog",
+      "Rep. Bridgett Rosenbaum",
+      "Richie Gislason"
+    ],
+    [
+      "Dylan Upton",
+      "Fredda Brekke",
+      "Mitch Gusikowski",
+      "Vernice Emard"
+    ],
+    [
+      "Frederick Klocko CPA"
+    ],
+    [
+      "Danilo Zieme"
+    ],
+    [
+      "Shanelle Upton"
+    ],
+    [
+      "Freddie Weissnat"
+    ],
+    [
+      "Edith Barrows"
+    ],
+    [
+      "Anton Toy"
+    ],
+    [
+      "Caroyln Wilderman"
+    ],
+    [
+      "Pedro Bradtke"
+    ],
+    [
+      "Korey Rice V"
+    ],
+    [
+      "Irmgard Bogan I"
+    ],
+    [
+      "Haywood Wyman"
+    ],
+    [
+      "Angel Kuhic"
+    ],
+    [
+      "Leighann O'Connell",
+      "Travis Von"
+    ],
+    [
+      "Antione O'Reilly"
+    ],
+    [
+      "Anton Toy",
+      "Tabetha Johnston"
+    ],
+    [
+      "Amos Romaguera Jr."
+    ],
+    [
+      "Earnest Glover"
+    ],
+    [
+      "Rosann Wolf VM",
+      "Sean Kassulke"
+    ],
+    [
+      "Rep. Vern Turcotte"
+    ],
+    [
+      "Felicita White DO"
+    ],
+    [
+      "Alphonso Gulgowski",
+      "Josette Nikolaus DC",
+      "Mercedez Welch"
+    ],
+    [
+      "The Hon. Terence Klocko"
+    ],
+    [
+      "Timothy Murazik"
+    ],
+    [
+      "Beverly McDermott",
+      "Pedro Bradtke"
+    ],
+    [
+      "Cheree Welch",
+      "Dianne Jakubowski"
+    ],
+    [
+      "Jae Bogisich"
+    ],
+    [
+      "Era Hodkiewicz",
+      "Jeffery Leuschke PhD",
+      "Miss Bok Barrows"
+    ],
+    [
+      "Sean Harvey III"
+    ],
+    [
+      "Guadalupe Batz Ret.",
+      "Malorie Glover",
+      "Paula Rolfson"
+    ],
+    [
+      "Tyson Beer"
+    ],
+    [
+      "Boyce Hoeger",
+      "Marlon Casper"
+    ],
+    [
+      "Fletcher Upton"
+    ],
+    [
+      "Manuel Murray"
+    ],
+    [
+      "Travis Von"
+    ],
+    [
+      "Donovan Bins"
+    ],
+    [
+      "Kylee Smith"
+    ],
+    [
+      "Antione O'Reilly",
+      "Josette Nikolaus DC"
+    ],
+    [
+      "Rocky Erdman"
+    ],
+    [
+      "Mrs. Jessie Brekke"
+    ],
+    [
+      "Kasey Effertz"
+    ],
+    [
+      "Amb. Nannie Labadie"
+    ],
+    [
+      "Jaleesa Breitenberg DVM"
+    ],
+    [
+      "Matthew Turner"
+    ],
+    [
+      "Trevor Turner"
+    ],
+    [
+      "Sook Halvorson"
+    ],
+    [
+      "Elliot Monahan"
+    ],
+    [
+      "Fr. Dick Spinka"
+    ],
+    [
+      "Zoila Christiansen"
+    ],
+    [
+      "Sen. Leta Berge"
+    ],
+    [
+      "Franklyn Stokes VM"
+    ],
+    [
+      "Brandi Cole",
+      "Veronique Carter"
+    ],
+    [
+      "Deborah Grant",
+      "Roman Osinski Sr.",
+      "Shanti Hand"
+    ],
+    [
+      "Shirlene Toy"
+    ],
+    [
+      "Luigi Parker"
+    ],
+    [
+      "Dylan Upton",
+      "Fredda Brekke",
+      "Vernice Emard"
+    ],
+    [
+      "Kirk Treutel",
+      "Klara Runolfsdottir Sr."
+    ],
+    [
+      "Sen. Geri Mann"
+    ],
+    [
+      "The Hon. Kylee Rempel"
+    ],
+    [
+      "Mellie Williamson"
+    ],
+    [
+      "Franklyn Stokes VM",
+      "Ja Ankunding II",
+      "Joseph Raynor"
+    ],
+    [
+      "Ja Ankunding II",
+      "Joseph Raynor"
+    ],
+    [
+      "Isabelle Boehm",
+      "Lamar Kautzer",
+      "Raymundo Aufderhar"
+    ],
+    [
+      "Beatris Upton"
+    ],
+    [
+      "Nick Ziemann"
+    ],
+    [
+      "Phil Hettinger Ret.",
+      "Verna Skiles"
+    ],
+    [
+      "Alina Collier Esq.",
+      "Dennis Heaney",
+      "Soledad Hickle"
+    ],
+    [
+      "Lonnie Hilpert"
+    ],
+    [
+      "Hue Ondricka I",
+      "Lewis Boehm",
+      "Yesenia Raynor DDS"
+    ],
+    [
+      "Kylee Smith",
+      "Zoila Christiansen"
+    ],
+    [
+      "Billie Ernser",
+      "Isabelle Boehm",
+      "Lamar Kautzer",
+      "Raymundo Aufderhar"
+    ],
+    [
+      "Karisa Kozey"
+    ],
+    [
+      "Jermaine Wehner"
+    ],
+    [
+      "Merrill Marks",
+      "Renee Rogahn"
+    ],
+    [
+      "Elvina Nader"
+    ],
+    [
+      "Myrl Miller"
+    ],
+    [
+      "Barb Lynch"
+    ],
+    [
+      "Bob Treutel DDS"
+    ],
+    [
+      "Cornell Murazik",
+      "Mr. Terrell Sawayn"
+    ],
+    [
+      "Carin Christiansen"
+    ],
+    [
+      "Farah Rohan II",
+      "Mitch Gusikowski"
+    ],
+    [
+      "Blair Casper",
+      "Ms. Rodger Hoppe"
+    ],
+    [
+      "Julia Bartoletti"
+    ],
+    [
+      "Reuben Mayert"
+    ],
+    [
+      "Sue Stark"
+    ],
+    [
+      "Susannah Tremblay DC"
+    ],
+    [
+      "Korey Rice V",
+      "Rico Zemlak"
+    ],
+    [
+      "Adelia Lind"
+    ],
+    [
+      "Antonio Lindgren"
+    ],
+    [
+      "Prof. Augustus Konopelski"
+    ],
+    [
+      "Catrina Roob PhD",
+      "Delois Koss",
+      "Sid Oberbrunner"
+    ],
+    [
+      "Ambrose Ankunding"
+    ],
+    [
+      "Msgr. Leslie McClure"
+    ],
+    [
+      "Ria Senger"
+    ],
+    [
+      "Curtis Rohan"
+    ],
+    [
+      "Carroll Schultz"
+    ],
+    [
+      "Mr. Dominque Becker"
+    ],
+    [
+      "Billy Dare"
+    ],
+    [
+      "Zachary Ryan"
+    ],
+    [
+      "Alec Ziemann"
+    ],
+    [
+      "Coy Streich",
+      "Keeley Hand",
+      "Lela Emard"
+    ],
+    [
+      "Charlsie Cummerata",
+      "Laureen Herzog",
+      "Rep. Bridgett Rosenbaum"
+    ],
+    [
+      "Teresia Fisher"
+    ],
+    [
+      "Era Hodkiewicz",
+      "Frederick Klocko CPA",
+      "Jeffery Leuschke PhD",
+      "Miss Bok Barrows"
+    ],
+    [
+      "Darius Mohr",
+      "Kevin Mayer",
+      "Kimberely Kutch",
+      "Miss Jesus Pfannerstill"
+    ],
+    [
+      "Cordell Ritchie"
+    ],
+    [
+      "Hue Ondricka I",
+      "Lewis Boehm",
+      "Rosalva Beer",
+      "Yesenia Raynor DDS"
+    ],
+    [
+      "Elias O'Kon"
+    ],
+    [
+      "Verna Skiles"
+    ],
+    [
+      "Mitch Gusikowski"
+    ],
+    [
+      "Prof. Augustus Konopelski",
+      "Sen. Amber Roberts"
+    ],
+    [
+      "Rossana Cruickshank"
+    ],
+    [
+      "Roman Koss",
+      "Sook Halvorson"
+    ],
+    [
+      "Dennis Heaney",
+      "Soledad Hickle"
+    ],
+    [
+      "Beverly McDermott"
+    ],
+    [
+      "Jimmie Harvey"
+    ],
+    [
+      "Brandi Cole"
+    ],
+    [
+      "Myrtis Corwin"
+    ],
+    [
+      "Yuette Parker"
+    ],
+    [
+      "Tabetha Johnston"
+    ],
+    [
+      "Kristeen Kessler CPA"
+    ],
+    [
+      "Casey Bode"
+    ],
+    [
+      "Selena Schroeder"
+    ],
+    [
+      "Emile Koepp DO"
+    ],
+    [
+      "Miss Wade Lebsack",
+      "Reginia Weissnat"
+    ],
+    [
+      "Zackary Carter"
+    ],
+    [
+      "Clyde Jacobson",
+      "Mohamed Dach"
+    ],
+    [
+      "Les Rogahn"
+    ],
+    [
+      "The Hon. Kylee Rempel",
+      "Tomasa Kozey"
+    ],
+    [
+      "Joana Botsford"
+    ],
+    [
+      "Pres. Shana Block"
+    ],
+    [
+      "Msgr. Marjorie Koepp"
+    ],
+    [
+      "Joe Schultz"
+    ],
+    [
+      "Tomasa Kozey"
+    ],
+    [
+      "Reid Rice"
+    ],
+    [
+      "Sonny Bogan"
+    ],
+    [
+      "Anton Moen"
+    ],
+    [
+      "Marlin Kuvalis"
+    ],
+    [
+      "Jae Bogisich",
+      "Lonnie Hilpert"
+    ],
+    [
+      "Miss Jesus Pfannerstill"
+    ],
+    [
+      "Catarina Gleason",
+      "Lilla Gislason DC",
+      "Msgr. Mohammed Buckridge"
+    ],
+    [
+      "Albert Lehner Ret."
+    ],
+    [
+      "Julius Barrows",
+      "Tamika Hayes"
+    ],
+    [
+      "Timmy Corwin"
+    ],
+    [
+      "Roland Murray",
+      "Selena Schroeder"
+    ],
+    [
+      "Abigail Reynolds"
+    ],
+    [
+      "Clyde Jacobson"
+    ],
+    [
+      "Ozzie Jast"
+    ],
+    [
+      "Ms. Kami Prosacco"
+    ],
+    [
+      "Lawrence Hauck"
+    ],
+    [
+      "Kirsten Schaefer"
+    ],
+    [
+      "Leighann O'Connell"
+    ],
+    [
+      "Lawrence Hauck",
+      "Sean Kassulke"
+    ],
+    [
+      "Clyde Jacobson",
+      "Jerald Raynor"
+    ],
+    [
+      "Miss Ward Farrell"
+    ],
+    [
+      "Benjamin Mills"
+    ],
+    [
+      "Enrique Gislason",
+      "Glenna Huel",
+      "Sean Harvey III"
+    ],
+    [
+      "Dr. Emmaline Ritchie",
+      "Moshe Wilderman",
+      "Norberto Kohler"
+    ],
+    [
+      "Phil Hettinger Ret."
+    ],
+    [
+      "Prof. Remedios Powlowski"
+    ],
+    [
+      "Josette Nikolaus DC"
+    ],
+    [
+      "Boris Schowalter CPA"
+    ],
+    [
+      "Jerry Cormier"
+    ],
+    [
+      "Jeffry Nolan Ret."
+    ],
+    [
+      "Haley Nader",
+      "Shanta Price"
+    ],
+    [
+      "Alina Collier Esq.",
+      "Darius Mohr",
+      "Kevin Mayer",
+      "Kimberely Kutch"
+    ],
+    [
+      "Odell Willms"
+    ],
+    [
+      "Lakesha McCullough"
+    ],
+    [
+      "Darius Mohr",
+      "Kevin Mayer",
+      "Kimberely Kutch"
+    ],
+    [
+      "Cruz Abshire MD"
+    ],
+    [
+      "Anton Toy",
+      "Veronique Carter"
+    ],
+    [
+      "Valery Schimmel"
+    ],
+    [
+      "Reginia Weissnat"
+    ],
+    [
+      "Sanjuana Bernier"
+    ],
+    [
+      "Ted Rutherford"
+    ],
+    [
+      "Alysa Pouros Esq.",
+      "Amb. Amberly Beatty"
+    ],
+    [
+      "Marlon Casper"
+    ],
+    [
+      "Mohamed Dach"
+    ],
+    [
+      "Elenor Langosh"
+    ],
+    [
+      "Enrique Gislason",
+      "Glenna Huel"
+    ],
+    [
+      "Tory Dare V"
+    ],
+    [
+      "Dominique Sipes"
+    ],
+    [
+      "Kathey Gorczany"
+    ],
+    [
+      "Wendell Zboncak"
+    ],
+    [
+      "Dominque Fisher",
+      "Leigh Bednar"
+    ],
+    [
+      "Sen. Jackson Gutmann"
+    ],
+    [
+      "Elmer Parker"
+    ],
+    [
+      "Jerrold Bogan LLD"
+    ],
+    [
+      "Dr. Emmaline Ritchie"
+    ],
+    [
+      "Farah Rohan II"
+    ],
+    [
+      "Kirsten Schaefer",
+      "Mitch Gusikowski"
+    ],
+    [
+      "Gov. Boyce Franecki",
+      "Odell Treutel"
+    ],
+    [
+      "Maura Kuvalis DC"
+    ],
+    [
+      "Bennett Raynor"
+    ],
+    [
+      "Jerald Raynor"
+    ],
+    [
+      "Cristin Deckow III"
+    ],
+    [
+      "Lakenya Boyer IV",
+      "Louanne Cruickshank"
+    ],
+    [
+      "Msgr. Mohammad Koelpin"
+    ],
+    [
+      "Gov. Wally Wintheiser"
+    ],
+    [
+      "Rev. Alix Langworth"
+    ],
+    [
+      "Raul Hoppe"
+    ],
+    [
+      "Terrance Schneider"
+    ],
+    [
+      "Andreas Mohr"
+    ],
+    [
+      "Amb. Elia Lebsack",
+      "Bernard Bayer",
+      "Edmundo Oberbrunner"
+    ],
+    [
+      "Allan Dickinson"
+    ],
+    [
+      "Curtis Rohan",
+      "Rocky Erdman"
+    ],
+    [
+      "Louanne Cruickshank"
+    ],
+    [
+      "Roland Murray"
+    ],
+    [
+      "Adell Considine",
+      "Leana Feil",
+      "Sen. Vonnie Jerde"
+    ],
+    [
+      "Chara Morissette"
+    ],
+    [
+      "Adelia Lind",
+      "Floyd Cassin III"
+    ],
+    [
+      "Roman Koss"
+    ],
+    [
+      "Salvatore Mills"
+    ],
+    [
+      "Latrina Kuphal"
+    ],
+    [
+      "Sen. Jackson Gutmann",
+      "Shelby Willms IV"
+    ],
+    [
+      "Gov. Crystle Klocko"
+    ],
+    [
+      "Alina Collier Esq."
+    ],
+    [
+      "Miss Wade Lebsack"
+    ],
+    [
+      "Cleo Predovic"
+    ],
+    [
+      "Carolyn Yost"
+    ],
+    [
+      "Nick Ziemann",
+      "Zackary Carter"
+    ],
+    [
+      "Kizzie Purdy"
+    ],
+    [
+      "Alysa Pouros Esq."
+    ],
+    [
+      "Tegan Runolfsdottir"
+    ],
+    [
+      "Richie Gislason"
+    ],
+    [
+      "Mireya Schroeder"
+    ],
+    [
+      "Elmer Parker",
+      "Mireya Schroeder"
+    ],
+    [
+      "Amb. Amberly Beatty"
+    ],
+    [
+      "Dr. Deb Kemmer"
+    ],
+    [
+      "Billie Ernser"
+    ],
+    [
+      "Hortencia Wunsch"
+    ],
+    [
+      "Laronda Kuhn"
+    ],
+    [
+      "Gonzalo Macejkovic"
+    ],
+    [
+      "Josue Grady"
+    ],
+    [
+      "Lakenya Boyer IV"
+    ],
+    [
+      "Shelby Willms IV"
+    ],
+    [
+      "Refugio Zboncak PhD"
+    ],
+    [
+      "Moshe Wilderman",
+      "Norberto Kohler"
+    ],
+    [
+      "Quintin O'Kon"
+    ],
+    [
+      "Floyd Cassin III"
+    ],
+    [
+      "Guadalupe Batz Ret.",
+      "Kristeen Kessler CPA",
+      "Malorie Glover",
+      "Paula Rolfson"
+    ],
+    [
+      "Alphonso Gulgowski",
+      "Mercedez Welch"
+    ]
+  ],
+  "most_popular_author": {
+    "authors": [
+      "Coy Streich",
+      "Keeley Hand",
+      "Lela Emard"
+    ],
+    "books_sold": 159
+  },
+  "top_customer": {
+    "user_ids": [
+      "49414",
+      "49002"
+    ],
+    "total_spending": 44326.850000000006
+  }
+}

@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bookstore Analytics Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            min-height: 100vh;
+        }
+        
+        .dashboard-container {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            margin: 20px;
+            padding: 30px;
+        }
+        
+        .metric-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 15px;
+            padding: 25px;
+            text-align: center;
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.3);
+            transition: transform 0.3s ease;
+        }
+        
+        .metric-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .metric-value {
+            font-size: 2.5rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .metric-label {
+            font-size: 0.9rem;
+            opacity: 0.9
+;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .data-table {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        .table th {
+            background: #667eea;
+            color: white;
+            border: none;
+            font-weight: 600;
+        }
+        
+        .chart-container {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            margin-top: 20px;
+            height: 400px; /* ИСПРАВЛЕНО: фиксированная высота */
+        }
+        
+        .nav-pills .nav-link.active {
+            background: #667eea;
+        }
+        
+        .badge-custom {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            margin: 2px;
+            display: inline-block;
+        }
+        
+        .info-section {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="dashboard-container">
+            <div class="row mb-4">
+                <div class="col-12 text-center">
+                    <h1 class="display-4 fw-bold text-primary">
+                        <i class="fas fa-chart-line me-3"></i>
+                        Bookstore Analytics Dashboard
+                    </h1>
+                    <p class="lead text-muted">Professional Business Intelligence Dashboard</p>
+                </div>
+            </div>
+            
+            <!-- Dataset Tabs -->
+            <ul class="nav nav-pills nav-fill mb-4" id="datasetTabs">
+                <li class="nav-item">
+                    <a class="nav-link active" data-bs-toggle="pill" href="#data1">
+                        <i class="fas fa-database me-2"></i>DATA1
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="pill" href="#data2">
+                        <i class="fas fa-database me-2"></i>DATA2
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="pill" href="#data3">
+                        <i class="fas fa-database me-2"></i>DATA3
+                    </a>
+                </li>
+            </ul>
+            
+            <div class="tab-content">
+                <!-- DATA1 Tab -->
+                <div class="tab-pane fade show active" id="data1">
+                    <!-- Metrics Row -->
+                    <div class="row mb-4">
+                        <div class="col-md-3">
+                            <div class="metric-card">
+                                <div class="metric-value" id="data1-users">-</div>
+                                <div class="metric-label">
+                                    <i class="fas fa-users me-2"></i>Unique Users
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="metric-card">
+                                <div class="metric-value" id="data1-authors">-</div>
+                                <div class="metric-label">
+                                    <i class="fas fa-pen me-2"></i>Author Sets
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="metric-card">
+                                <div class="metric-value" id="data1-revenue">-</div>
+                                <div class="metric-label">
+                                    <i class="fas fa-dollar-sign me-2"></i>Total Revenue
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="metric-card">
+                                <div class="metric-value" id="data1-books">-</div>
+                                <div class="metric-label">
+                                    <i class="fas fa-book me-2"></i>Books Sold
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Content Row -->
+                    <div class="row">
+                        <div class="col-md-6">
+                            <!-- Top 5 Days -->
+                            <div class="data-table mb-3">
+                                <h5 class="p-3 mb-0 bg-primary text-white">
+                                    <i class="fas fa-trophy me-2"></i>Top 5 Revenue Days (YYYY-MM-DD)
+                                </h5>
+                                <table class="table table-striped mb-0">
+                                    <thead>
+                                        <tr>
+                                            <th>Rank</th>
+                                            
+<th>Date</th>
+                                            <th>Revenue</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="data1-top-days">
+                                        <tr><td colspan="3" class="text-center">Loading...</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-6">
+                            <!-- Most Popular Author -->
+                            <div class="info-section">
+                                <h6 class="fw-bold text-primary mb-3">
+                                    <i class="fas fa-star me-2"></i>Most Popular Author(s)
+                                </h6>
+                                <div id="data1-popular-author" class="text-center">Loading...</div>
+                            </div>
+                            
+                            <!-- Best Customer -->
+                            <div class="info-section">
+                                <h6 class="fw-bold text-primary mb-3">
+                                    <i class="fas fa-crown me-2"></i>Best Customer (All Aliases)
+                                </h6>
+                                <div id="data1-customer" class="text-center">Loading...</div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Chart -->
+                    <div class="chart-container">
+                        <h5 class="mb-4">
+                            <i class="fas fa-chart-line me-2"></i>Daily Revenue Chart
+                        </h5>
+                        <canvas id="data1-chart"></canvas>
+                    </div>
+                </div>
+                
+                <!-- DATA2 Tab -->
+                <div class="tab-pane fade" id="data2">
+                    <!-- Same structure as DATA1 -->
+                    <div class="row mb-4">
+                        <div class="col-md-3">
+                            <div class="metric-card">
+                                <div class="metric-value" id="data2-users">-</div>
+                                <div class="metric-label">
+                                    <i class="fas fa-users me-2"></i>Unique Users
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="metric-card">
+                                <div class="metric-value" id="data2-authors">-</div>
+                                <div class="metric-label">
+                                    <i class="fas fa-pen me-2"></i>Author Sets
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="metric-card">
+                                <div class="metric-value" id="data2-revenue">-</div>
+                                <div class="metric-label">
+                                    <i class="fas fa-dollar-sign me-2"></i>Total Revenue
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="metric-card">
+                                <div class="metric-value" id="data2-books">-</div>
+                                <div class="metric-label">
+                                    <i class="fas fa-book me-2"></i>Books Sold
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="data-table mb-3">
+                                <h5 class="p-3 mb-0 bg-primary text-white">
+                                    <i class="fas fa-trophy me-2"></i>Top 5 Revenue Days (YYYY-MM-DD)
+                                </h5>
+                                <table class="table table-striped mb-0">
+                                    <thead>
+                                        <tr>
+                                            <th>Rank</th>
+                                            <th>Date</th>
+                                            <th>Revenue</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="data2-top-days">
+                                        <tr><td colspan="3" class="text-center">Loading...</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-6">
+                            <div class="info-section">
+                                <h6 class="fw-bold text-primary mb-3">
+                                    <i class="fas fa-star me-2"></i>Most Popular Author(s)
+                                </h6>
+                                <div id="data2-popular-author" class="text-center">Loading...</div>
+                            </div>
+                            
+                            <div class="info-section">
+                                <h6 class="fw-bold text-primary mb-3">
+                                    <i class="fas fa-crown me-2"></i>Best Customer (All Aliases)
+                                </h6>
+                                <div id="data2-customer" class="text-center">Loading...</div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="chart-container">
+                        <h5 class="mb-4">
+                            <i class="fas fa-chart-line me-2"></i>Daily Revenue Chart
+                        </h5>
+                        <canvas id="data2-chart"></canvas>
+                    </div>
+                </div>
+                
+                <!-- DATA3 Tab -->
+                <div class="tab-pane fade" id="data3">
+                    <!-- Same structure as DATA1 -->
+                    <div class="row mb-4">
+                        <div class="col-md-3">
+                            <div class="metric-card">
+                                <div class="metric-value" id="data3-users">-</div>
+                                <div class="metric-label">
+                                    <i class="fas fa-users me-2"></i>Unique Users
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="metric-card">
+                                <div class="metric-value" id="data3-authors">-</div>
+                                <div class="metric-label">
+                                    <i class="fas fa-pen me-2"></i>Author Sets
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="metric-card">
+                                <div class="metric-value" id="data3-revenue">-</div>
+                                <div class="metric-label">
+                                    <i class="fas fa-dollar-sign me-2"></i>Total Revenue
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="metric-card">
+                                <div class="metric-value" id="data3-books">-</div>
+                                <div class="metric-label">
+                                    <i class="fas fa-book me-2"></i>Books Sold
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6
+">
+                            <div class="data-table mb-3">
+                                <h5 class="p-3 mb-0 bg-primary text-white">
+                                    <i class="fas fa-trophy me-2"></i>Top 5 Revenue Days (YYYY-MM-DD)
+                                </h5>
+                                <table class="table table-striped mb-0">
+                                    <thead>
+                                        <tr>
+                                            <th>Rank</th>
+                                            <th>Date</th>
+                                            <th>Revenue</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="data3-top-days">
+                                        <tr><td colspan="3" class="text-center">Loading...</td></tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-6">
+                            <div class="info-section">
+                                <h6 class="fw-bold text-primary mb-3">
+                                    <i class="fas fa-star me-2"></i>Most Popular Author(s)
+                                </h6>
+                                <div id="data3-popular-author" class="text-center">Loading...</div>
+                            </div>
+                            
+                            <div class="info-section">
+                                <h6 class="fw-bold text-primary mb-3">
+                                    <i class="fas fa-crown me-2"></i>Best Customer (All Aliases)
+                                </h6>
+                                <div id="data3-customer" class="text-center">Loading...</div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="chart-container">
+                        <h5 class="mb-4">
+                            <i class="fas fa-chart-line me-2"></i>Daily Revenue Chart
+                        </h5>
+                        <canvas id="data3-chart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="dashboard_data.js"></script>
+    <script>
+        // Charts storage
+        const charts = {};
+        
+        function loadDatasetData(dataset) {
+            const data = analysisResults[dataset];
+            if (!data) return;
+            
+            const prefix = dataset.toLowerCase();
+            
+            // Update metrics
+            document.getElementById(`${prefix}-users`).textContent = data.unique_users || '-';
+            document.getElementById(`${prefix}-authors`).textContent = data.unique_author_sets || '-';
+            
+            // Calculate total revenue
+            const dailyRevenue = data.daily_revenue || [];
+            const totalRevenue = dailyRevenue.reduce((sum, day) => sum + (day.paid_price || 0), 0);
+            document.getElementById(`${prefix}-revenue`).textContent = 
+                '$' + totalRevenue.toLocaleString('en-US', {minimumFractionDigits: 2});
+            
+            // Books sold
+            const popularAuthor = data.most_popular_author || {};
+            document.getElementById(`${prefix}-books`).textContent = popularAuthor.books_sold || '-';
+            
+            // Update top 5 days table
+            const topDaysTable = document.getElementById(`${prefix}-top-days`);
+            topDaysTable.innerHTML = '';
+            
+            const topDays = data.top_5_days || [];
+            if (topDays.length > 0) {
+                topDays.forEach((day, index) => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td><span class="badge bg-primary">${index + 1}</span></td>
+                        <td><strong>${day.date_str}</strong></td>
+                        <td><strong>$${day.paid_price.toLocaleString('en-US', {minimumFractionDigits: 2})}</strong></td>
+                    `;
+                    topDaysTable.appendChild(row);
+                });
+            } else {
+                topDaysTable.innerHTML = '<tr><td colspan="3" class="text-center text-muted">No data available</td></tr>';
+            }
+            
+            // Update popular author
+            const authorDiv = document.getElementById(`${prefix}-popular-author`);
+            if (popularAuthor && popularAuthor.authors && popularAuthor.authors.length > 0) {
+                authorDiv.innerHTML = `
+                    <div class="fw-bold text-dark mb-2">${popularAuthor.authors.join(', ')}</div>
+                    <span class="badge-custom">${popularAuthor.books_sold} books sold</span>
+                `;
+            } else {
+                authorDiv.innerHTML = '<em class="text-muted">No data available</em>';
+            }
+            
+            // Update customer info - показываем как массив ID
+            const customerDiv = document.getElementById(`${prefix}-customer`);
+            const topCustomer = data.top_customer;
+            if (topCustomer && topCustomer.user_ids && topCustomer.user_ids.length > 0) {
+                // Показываем как массив ID согласно требованию
+                const userIdsArray = JSON.stringify(topCustomer.user_ids);
+                customerDiv.innerHTML = `
+                    <div class="mb-2">
+                        <strong>User IDs:</strong> <code>${userIdsArray}</code>
+                    </div>
+                    <div class="text-muted">
+                        <small>Total Spending: $${topCustomer.total_spending.toLocaleString('en-US', {minimumFractionDigits: 2})}</small>
+                    </div>
+                `;
+            } else {
+                customerDiv.innerHTML = '<em class="text-muted">No data available</em>';
+            }
+            
+            // Create chart
+            createChart(prefix, dailyRevenue);
+        }
+
+        function createChart(prefix, dailyData
+) {
+            const ctx = document.getElementById(`${prefix}-chart`);
+            
+            // Destroy existing chart
+            if (charts[prefix]) {
+                charts[prefix].destroy();
+            }
+            
+            if (!dailyData || dailyData.length === 0) {
+                ctx.getContext('2d').clearRect(0, 0, ctx.width, ctx.height);
+                return;
+            }
+            
+            const labels = dailyData.map(d => d.date_str);
+            const revenues = dailyData.map(d => d.paid_price || 0);
+            
+            charts[prefix] = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Daily Revenue',
+                        data: revenues,
+                        borderColor: '#667eea',
+                        backgroundColor: 'rgba(102, 126, 234, 0.1)',
+                        borderWidth: 3,
+                        fill: true,
+                        tension: 0.4,
+                        pointBackgroundColor: '#667eea',
+                        pointBorderColor: '#fff',
+                        pointBorderWidth: 2,
+                        pointRadius: 6,
+                        pointHoverRadius: 8
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true, // ИСПРАВЛЕНО: сохраняем пропорции
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            ticks: {
+                                callback: function(value) {
+                                    return '$' + value.toLocaleString();
+                                }
+                            },
+                            grid: {
+                                color: 'rgba(0,0,0,0.1)'
+                            }
+                        },
+                        x: {
+                            ticks: {
+                                maxTicksLimit: 10
+                            },
+                            grid: {
+                                color: 'rgba(0,0,0,0.1)'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        // Load data when tab is shown
+        document.addEventListener('DOMContentLoaded', function() {
+            // Load initial data
+            if (typeof analysisResults !== 'undefined') {
+                loadDatasetData('DATA1');
+            }
+            
+            // Handle tab changes
+            const tabButtons = document.querySelectorAll('[data-bs-toggle="pill"]');
+            tabButtons.forEach(button => {
+                button.addEventListener('shown.bs.tab', function(e) {
+                    const target = e.target.getAttribute('href').substring(1);
+                    const dataset = target.toUpperCase();
+                    loadDatasetData(dataset);
+                });
+            });
+        });
+    </script>
+</body>
+</html>
