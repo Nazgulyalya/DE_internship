@@ -3,7 +3,7 @@
 Professional Business Intelligence Dashboard for analyzing bookstore sales data across three datasets.
 
 ## 🚀 Live Dashboard
-[View Dashboard](https://YOUR_USERNAME.github.io/bookstore-analytics/)
+[View Dashboard](https://nazgulyalya.github.io/DE_internship/task_4/)
 
 ## 📊 Features
 
@@ -31,10 +31,14 @@ Professional Business Intelligence Dashboard for analyzing bookstore sales data 
 - Customer spending analysis with alias grouping
 
 ## 📁 Project Structure
-├── script.py # Main analysis script 
+├── script.py # Main analysis script
+
 ├── index.html # Professional BI dashboard 
+
 ├── dashboard_data.js # Generated data for dashboard 
+
 ├── results/ # Analysis results (JSON) 
+
 └── charts/ # Revenue charts (PNG)
 
 
